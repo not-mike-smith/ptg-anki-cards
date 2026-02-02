@@ -1,0 +1,296 @@
+0_1	cantar	eu | presente	canto
+0_2	cantar	ele/a (vc) | presente	canta
+0_3	cantar	nós | presente	cantamos
+0_4	cantar	eles/as (vcs) | presente	cantam
+0_5	cantar	eu | imperfeito	cantava
+0_6	cantar	ele/a (vc) | imperfeito	cantava
+0_7	cantar	nós | imperfeito	cantávamos
+0_8	cantar	eles/as (vcs) | imperfeito	cantavam
+0_9	cantar	eu | pretérito	cantei
+0_10	cantar	ele/a (vc) | pretérito	cantou
+0_11	cantar	nós | pretérito	cantamos
+0_12	cantar	eles/as (vcs) | pretérito	cantaram
+0_13	cantar	eu | condicional	cantaria
+0_14	cantar	ele/a (vc) | condicional	cantaria
+0_15	cantar	nós | condicional	cantaríamos
+0_16	cantar	eles/as (vcs) | condicional	cantariam
+0_17	cantar	ele/a (vc) | imperativo	cante
+0_18	cantar	nós | imperativo	cantemos
+0_19	cantar	eles/as (vcs) | imperativo	cantem
+0_20	cantar	| gerundo	cantando
+0_21	cantar	| particípio	cantado
+0_22	cantar	eu | presente subjuntivo	cante
+0_23	cantar	ele/a (vc) | presente subjuntivo	cante
+0_24	cantar	nós | presente subjuntivo	cantemos
+0_25	cantar	eles/as (vcs) | presente subjuntivo	cantem
+0_26	cantar	eu | imperfeito subjuntivo	cantasse
+0_27	cantar	ele/a (vc) | imperfeito subjuntivo	cantasse
+0_28	cantar	nós | imperfeito subjuntivo	cantássemos
+0_29	cantar	eles/as (vcs) | imperfeito subjuntivo	cantassem
+0_30	cantar	eu | futuro subjuntivo	cantar
+0_31	cantar	ele/a (vc) | futuro subjuntivo	cantar
+0_32	cantar	nós | futuro subjuntivo	cantarmos
+0_33	cantar	eles/as (vcs) | futuro subjuntivo	cantarem
+0_34	cantar	eu | pessoal infinitivo	cantar
+0_35	cantar	ele/a (vc) | pessoal infinitivo	cantar
+0_36	cantar	nós | pessoal infinitivo	cantarmos
+0_37	cantar	eles/as (vcs) | pessoal infinitivo	cantarem
+1_1	correr	eu | presente	corro
+1_2	correr	ele/a (vc) | presente	corre
+1_3	correr	nós | presente	corremos
+1_4	correr	eles/as (vcs) | presente	correm
+1_5	correr	eu | imperfeito	corria
+1_6	correr	ele/a (vc) | imperfeito	corria
+1_7	correr	nós | imperfeito	corríamos
+1_8	correr	eles/as (vcs) | imperfeito	corriam
+1_9	correr	eu | pretérito	corri
+1_10	correr	ele/a (vc) | pretérito	correu
+1_11	correr	nós | pretérito	corremos
+1_12	correr	eles/as (vcs) | pretérito	correram
+1_13	correr	eu | condicional	correria
+1_14	correr	ele/a (vc) | condicional	correria
+1_15	correr	nós | condicional	correríamos
+1_16	correr	eles/as (vcs) | condicional	correriam
+1_17	correr	ele/a (vc) | imperativo	corra
+1_18	correr	nós | imperativo	corramos
+1_19	correr	eles/as (vcs) | imperativo	corram
+1_20	correr	| gerundo	correndo
+1_21	correr	| particípio	corrido
+1_22	correr	eu | presente subjuntivo	corra
+1_23	correr	ele/a (vc) | presente subjuntivo	corra
+1_24	correr	nós | presente subjuntivo	corramos
+1_25	correr	eles/as (vcs) | presente subjuntivo	corram
+1_26	correr	eu | imperfeito subjuntivo	corresse
+1_27	correr	ele/a (vc) | imperfeito subjuntivo	corresse
+1_28	correr	nós | imperfeito subjuntivo	corrêssemos
+1_29	correr	eles/as (vcs) | imperfeito subjuntivo	corressem
+1_30	correr	eu | futuro subjuntivo	correr
+1_31	correr	ele/a (vc) | futuro subjuntivo	correr
+1_32	correr	nós | futuro subjuntivo	corrermos
+1_33	correr	eles/as (vcs) | futuro subjuntivo	correrem
+1_34	correr	eu | pessoal infinitivo	correr
+1_35	correr	ele/a (vc) | pessoal infinitivo	correr
+1_36	correr	nós | pessoal infinitivo	corrermos
+1_37	correr	eles/as (vcs) | pessoal infinitivo	correrem
+2_1	partir	eu | presente	parto
+2_2	partir	ele/a (vc) | presente	parte
+2_3	partir	nós | presente	partimos
+2_4	partir	eles/as (vcs) | presente	partem
+2_5	partir	eu | imperfeito	partia
+2_6	partir	ele/a (vc) | imperfeito	partia
+2_7	partir	nós | imperfeito	partíamos
+2_8	partir	eles/as (vcs) | imperfeito	partiam
+2_9	partir	eu | pretérito	parti
+2_10	partir	ele/a (vc) | pretérito	partiu
+2_11	partir	nós | pretérito	partimos
+2_12	partir	eles/as (vcs) | pretérito	partiram
+2_13	partir	eu | condicional	partiria
+2_14	partir	ele/a (vc) | condicional	partiria
+2_15	partir	nós | condicional	partiríamos
+2_16	partir	eles/as (vcs) | condicional	partiriam
+2_17	partir	ele/a (vc) | imperativo	parta
+2_18	partir	nós | imperativo	partamos
+2_19	partir	eles/as (vcs) | imperativo	partam
+2_20	partir	| gerundo	partindo
+2_21	partir	| particípio	partido
+2_22	partir	eu | presente subjuntivo	parta
+2_23	partir	ele/a (vc) | presente subjuntivo	parta
+2_24	partir	nós | presente subjuntivo	partamos
+2_25	partir	eles/as (vcs) | presente subjuntivo	partam
+2_26	partir	eu | imperfeito subjuntivo	partisse
+2_27	partir	ele/a (vc) | imperfeito subjuntivo	partisse
+2_28	partir	nós | imperfeito subjuntivo	partíssemos
+2_29	partir	eles/as (vcs) | imperfeito subjuntivo	partissem
+2_30	partir	eu | futuro subjuntivo	partir
+2_31	partir	ele/a (vc) | futuro subjuntivo	partir
+2_32	partir	nós | futuro subjuntivo	partirmos
+2_33	partir	eles/as (vcs) | futuro subjuntivo	partirem
+2_34	partir	eu | pessoal infinitivo	partir
+2_35	partir	ele/a (vc) | pessoal infinitivo	partir
+2_36	partir	nós | pessoal infinitivo	partirmos
+2_37	partir	eles/as (vcs) | pessoal infinitivo	partirem
+3_1	pegar	eu | presente	pego
+3_2	pegar	ele/a (vc) | presente	pega
+3_3	pegar	nós | presente	pegamos
+3_4	pegar	eles/as (vcs) | presente	pegam
+3_5	pegar	eu | imperfeito	pegava
+3_6	pegar	ele/a (vc) | imperfeito	pegava
+3_7	pegar	nós | imperfeito	pegávamos
+3_8	pegar	eles/as (vcs) | imperfeito	pegavam
+3_9	pegar	eu | pretérito	peguei
+3_10	pegar	ele/a (vc) | pretérito	pegou
+3_11	pegar	nós | pretérito	pegamos
+3_12	pegar	eles/as (vcs) | pretérito	pegaram
+3_13	pegar	eu | condicional	pegaria
+3_14	pegar	ele/a (vc) | condicional	pegaria
+3_15	pegar	nós | condicional	pegaríamos
+3_16	pegar	eles/as (vcs) | condicional	pegariam
+3_17	pegar	ele/a (vc) | imperativo	pegue
+3_18	pegar	nós | imperativo	peguemos
+3_19	pegar	eles/as (vcs) | imperativo	peguem
+3_20	pegar	| gerundo	pegando
+3_21	pegar	| particípio	pegado
+3_22	pegar	eu | presente subjuntivo	pegue
+3_23	pegar	ele/a (vc) | presente subjuntivo	pegue
+3_24	pegar	nós | presente subjuntivo	peguemos
+3_25	pegar	eles/as (vcs) | presente subjuntivo	peguem
+3_26	pegar	eu | imperfeito subjuntivo	pegasse
+3_27	pegar	ele/a (vc) | imperfeito subjuntivo	pegasse
+3_28	pegar	nós | imperfeito subjuntivo	pegássemos
+3_29	pegar	eles/as (vcs) | imperfeito subjuntivo	pegassem
+3_30	pegar	eu | futuro subjuntivo	pegar
+3_31	pegar	ele/a (vc) | futuro subjuntivo	pegar
+3_32	pegar	nós | futuro subjuntivo	pegarmos
+3_33	pegar	eles/as (vcs) | futuro subjuntivo	pegarem
+3_34	pegar	eu | pessoal infinitivo	pegar
+3_35	pegar	ele/a (vc) | pessoal infinitivo	pegar
+3_36	pegar	nós | pessoal infinitivo	pegarmos
+3_37	pegar	eles/as (vcs) | pessoal infinitivo	pegarem
+4_1	ficar	eu | presente	fico
+4_2	ficar	ele/a (vc) | presente	fica
+4_3	ficar	nós | presente	ficamos
+4_4	ficar	eles/as (vcs) | presente	ficam
+4_5	ficar	eu | imperfeito	ficava
+4_6	ficar	ele/a (vc) | imperfeito	ficava
+4_7	ficar	nós | imperfeito	ficávamos
+4_8	ficar	eles/as (vcs) | imperfeito	ficavam
+4_9	ficar	eu | pretérito	fiquei
+4_10	ficar	ele/a (vc) | pretérito	ficou
+4_11	ficar	nós | pretérito	ficamos
+4_12	ficar	eles/as (vcs) | pretérito	ficaram
+4_13	ficar	eu | condicional	ficaria
+4_14	ficar	ele/a (vc) | condicional	ficaria
+4_15	ficar	nós | condicional	ficaríamos
+4_16	ficar	eles/as (vcs) | condicional	ficariam
+4_17	ficar	ele/a (vc) | imperativo	fique
+4_18	ficar	nós | imperativo	fiquemos
+4_19	ficar	eles/as (vcs) | imperativo	fiquem
+4_20	ficar	| gerundo	ficando
+4_21	ficar	| particípio	ficado
+4_22	ficar	eu | presente subjuntivo	fique
+4_23	ficar	ele/a (vc) | presente subjuntivo	fique
+4_24	ficar	nós | presente subjuntivo	fiquemos
+4_25	ficar	eles/as (vcs) | presente subjuntivo	fiquem
+4_26	ficar	eu | imperfeito subjuntivo	ficasse
+4_27	ficar	ele/a (vc) | imperfeito subjuntivo	ficasse
+4_28	ficar	nós | imperfeito subjuntivo	ficássemos
+4_29	ficar	eles/as (vcs) | imperfeito subjuntivo	ficassem
+4_30	ficar	eu | futuro subjuntivo	ficar
+4_31	ficar	ele/a (vc) | futuro subjuntivo	ficar
+4_32	ficar	nós | futuro subjuntivo	ficarmos
+4_33	ficar	eles/as (vcs) | futuro subjuntivo	ficarem
+4_34	ficar	eu | pessoal infinitivo	ficar
+4_35	ficar	ele/a (vc) | pessoal infinitivo	ficar
+4_36	ficar	nós | pessoal infinitivo	ficarmos
+4_37	ficar	eles/as (vcs) | pessoal infinitivo	ficarem
+5_1	começar	eu | presente	começo
+5_2	começar	ele/a (vc) | presente	começa
+5_3	começar	nós | presente	começamos
+5_4	começar	eles/as (vcs) | presente	começam
+5_5	começar	eu | imperfeito	começava
+5_6	começar	ele/a (vc) | imperfeito	começava
+5_7	começar	nós | imperfeito	começávamos
+5_8	começar	eles/as (vcs) | imperfeito	começavam
+5_9	começar	eu | pretérito	comecei
+5_10	começar	ele/a (vc) | pretérito	começou
+5_11	começar	nós | pretérito	começamos
+5_12	começar	eles/as (vcs) | pretérito	começaram
+5_13	começar	eu | condicional	começaria
+5_14	começar	ele/a (vc) | condicional	começaria
+5_15	começar	nós | condicional	começaríamos
+5_16	começar	eles/as (vcs) | condicional	começariam
+5_17	começar	ele/a (vc) | imperativo	comece
+5_18	começar	nós | imperativo	comecemos
+5_19	começar	eles/as (vcs) | imperativo	comecem
+5_20	começar	| gerundo	começando
+5_21	começar	| particípio	começado
+5_22	começar	eu | presente subjuntivo	comece
+5_23	começar	ele/a (vc) | presente subjuntivo	comece
+5_24	começar	nós | presente subjuntivo	comecemos
+5_25	começar	eles/as (vcs) | presente subjuntivo	comecem
+5_26	começar	eu | imperfeito subjuntivo	começasse
+5_27	começar	ele/a (vc) | imperfeito subjuntivo	começasse
+5_28	começar	nós | imperfeito subjuntivo	começássemos
+5_29	começar	eles/as (vcs) | imperfeito subjuntivo	começassem
+5_30	começar	eu | futuro subjuntivo	começar
+5_31	começar	ele/a (vc) | futuro subjuntivo	começar
+5_32	começar	nós | futuro subjuntivo	começarmos
+5_33	começar	eles/as (vcs) | futuro subjuntivo	começarem
+5_34	começar	eu | pessoal infinitivo	começar
+5_35	começar	ele/a (vc) | pessoal infinitivo	começar
+5_36	começar	nós | pessoal infinitivo	começarmos
+5_37	começar	eles/as (vcs) | pessoal infinitivo	começarem
+6_1	seguir	eu | presente	sigo
+6_2	seguir	ele/a (vc) | presente	segue
+6_3	seguir	nós | presente	seguimos
+6_4	seguir	eles/as (vcs) | presente	seguem
+6_5	seguir	eu | imperfeito	seguia
+6_6	seguir	ele/a (vc) | imperfeito	seguia
+6_7	seguir	nós | imperfeito	seguíamos
+6_8	seguir	eles/as (vcs) | imperfeito	seguiam
+6_9	seguir	eu | pretérito	segui
+6_10	seguir	ele/a (vc) | pretérito	seguiu
+6_11	seguir	nós | pretérito	seguimos
+6_12	seguir	eles/as (vcs) | pretérito	seguiram
+6_13	seguir	eu | condicional	seguiria
+6_14	seguir	ele/a (vc) | condicional	seguiria
+6_15	seguir	nós | condicional	seguiríamos
+6_16	seguir	eles/as (vcs) | condicional	seguiriam
+6_17	seguir	ele/a (vc) | imperativo	siga
+6_18	seguir	nós | imperativo	sigamos
+6_19	seguir	eles/as (vcs) | imperativo	sigam
+6_20	seguir	| gerundo	seguindo
+6_21	seguir	| particípio	seguido
+6_22	seguir	eu | presente subjuntivo	siga
+6_23	seguir	ele/a (vc) | presente subjuntivo	siga
+6_24	seguir	nós | presente subjuntivo	sigamos
+6_25	seguir	eles/as (vcs) | presente subjuntivo	sigam
+6_26	seguir	eu | imperfeito subjuntivo	seguisse
+6_27	seguir	ele/a (vc) | imperfeito subjuntivo	seguisse
+6_28	seguir	nós | imperfeito subjuntivo	seguíssemos
+6_29	seguir	eles/as (vcs) | imperfeito subjuntivo	seguissem
+6_30	seguir	eu | futuro subjuntivo	seguir
+6_31	seguir	ele/a (vc) | futuro subjuntivo	seguir
+6_32	seguir	nós | futuro subjuntivo	seguirmos
+6_33	seguir	eles/as (vcs) | futuro subjuntivo	seguirem
+6_34	seguir	eu | pessoal infinitivo	seguir
+6_35	seguir	ele/a (vc) | pessoal infinitivo	seguir
+6_36	seguir	nós | pessoal infinitivo	seguirmos
+6_37	seguir	eles/as (vcs) | pessoal infinitivo	seguirem
+7_1	crescer	eu | presente	cresço
+7_2	crescer	ele/a (vc) | presente	cresce
+7_3	crescer	nós | presente	crescemos
+7_4	crescer	eles/as (vcs) | presente	crescem
+7_5	crescer	eu | imperfeito	crescia
+7_6	crescer	ele/a (vc) | imperfeito	crescia
+7_7	crescer	nós | imperfeito	crescíamos
+7_8	crescer	eles/as (vcs) | imperfeito	cresciam
+7_9	crescer	eu | pretérito	cresci
+7_10	crescer	ele/a (vc) | pretérito	cresceu
+7_11	crescer	nós | pretérito	crescemos
+7_12	crescer	eles/as (vcs) | pretérito	cresceram
+7_13	crescer	eu | condicional	cresceria
+7_14	crescer	ele/a (vc) | condicional	cresceria
+7_15	crescer	nós | condicional	cresceríamos
+7_16	crescer	eles/as (vcs) | condicional	cresceriam
+7_17	crescer	ele/a (vc) | imperativo	cresça
+7_18	crescer	nós | imperativo	cresçamos
+7_19	crescer	eles/as (vcs) | imperativo	cresçam
+7_20	crescer	| gerundo	crescendo
+7_21	crescer	| particípio	crescido
+7_22	crescer	eu | presente subjuntivo	cresça
+7_23	crescer	ele/a (vc) | presente subjuntivo	cresça
+7_24	crescer	nós | presente subjuntivo	cresçamos
+7_25	crescer	eles/as (vcs) | presente subjuntivo	cresçam
+7_26	crescer	eu | imperfeito subjuntivo	crescesse
+7_27	crescer	ele/a (vc) | imperfeito subjuntivo	crescesse
+7_28	crescer	nós | imperfeito subjuntivo	crescêssemos
+7_29	crescer	eles/as (vcs) | imperfeito subjuntivo	crescessem
+7_30	crescer	eu | futuro subjuntivo	crescer
+7_31	crescer	ele/a (vc) | futuro subjuntivo	crescer
+7_32	crescer	nós | futuro subjuntivo	crescermos
+7_33	crescer	eles/as (vcs) | futuro subjuntivo	crescerem
+7_34	crescer	eu | pessoal infinitivo	crescer
+7_35	crescer	ele/a (vc) | pessoal infinitivo	crescer
+7_36	crescer	nós | pessoal infinitivo	crescermos
+7_37	crescer	eles/as (vcs) | pessoal infinitivo	crescerem

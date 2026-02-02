@@ -1,0 +1,867 @@
+8_ser	ser	ser	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+8_sou	sou	ser	1	• eu | presente
+8_é	é	ser	1	• ele/a (vc) | presente
+8_somos	somos	ser	1	• nós | presente
+8_são	são	ser	1	• eles/as (vcs) | presente
+8_era	era	ser	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+8_éramos	éramos	ser	1	• nós | imperfeito
+8_eram	eram	ser	1	• eles/as (vcs) | imperfeito
+8_fui	fui	ser	1	• eu | pretérito
+8_foi	foi	ser	1	• ele/a (vc) | pretérito
+8_fomos	fomos	ser	1	• nós | pretérito
+8_foram	foram	ser	1	• eles/as (vcs) | pretérito
+8_seria	seria	ser	2	• eu | condicional<br>• ele/a (vc) | condicional
+8_seríamos	seríamos	ser	1	• nós | condicional
+8_seriam	seriam	ser	1	• eles/as (vcs) | condicional
+8_seja	seja	ser	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+8_sejamos	sejamos	ser	2	• nós | imperativo<br>• nós | presente subjuntivo
+8_sejam	sejam	ser	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+8_sendo	sendo	ser	1	• | gerundo
+8_sido	sido	ser	1	• | particípio
+8_fosse	fosse	ser	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+8_fôssemos	fôssemos	ser	1	• nós | imperfeito subjuntivo
+8_fossem	fossem	ser	1	• eles/as (vcs) | imperfeito subjuntivo
+8_for	for	ser	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+8_formos	formos	ser	1	• nós | futuro subjuntivo
+8_forem	forem	ser	1	• eles/as (vcs) | futuro subjuntivo
+8_sermos	sermos	ser	1	• nós | pessoal infinitivo
+8_serem	serem	ser	1	• eles/as (vcs) | pessoal infinitivo
+9_estar	estar	estar	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+9_estou	estou	estar	1	• eu | presente
+9_está	está	estar	1	• ele/a (vc) | presente
+9_estamos	estamos	estar	1	• nós | presente
+9_estão	estão	estar	1	• eles/as (vcs) | presente
+9_estava	estava	estar	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+9_estávamos	estávamos	estar	1	• nós | imperfeito
+9_estavam	estavam	estar	1	• eles/as (vcs) | imperfeito
+9_estive	estive	estar	1	• eu | pretérito
+9_esteve	esteve	estar	1	• ele/a (vc) | pretérito
+9_estivemos	estivemos	estar	1	• nós | pretérito
+9_estiveram	estiveram	estar	1	• eles/as (vcs) | pretérito
+9_estaria	estaria	estar	2	• eu | condicional<br>• ele/a (vc) | condicional
+9_estaríamos	estaríamos	estar	1	• nós | condicional
+9_estariam	estariam	estar	1	• eles/as (vcs) | condicional
+9_esteja	esteja	estar	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+9_estejamos	estejamos	estar	2	• nós | imperativo<br>• nós | presente subjuntivo
+9_estejam	estejam	estar	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+9_estando	estando	estar	1	• | gerundo
+9_estado	estado	estar	1	• | particípio
+9_estivesse	estivesse	estar	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+9_estivéssemos	estivéssemos	estar	1	• nós | imperfeito subjuntivo
+9_estivessem	estivessem	estar	1	• eles/as (vcs) | imperfeito subjuntivo
+9_estiver	estiver	estar	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+9_estivermos	estivermos	estar	1	• nós | futuro subjuntivo
+9_estiverem	estiverem	estar	1	• eles/as (vcs) | futuro subjuntivo
+9_estarmos	estarmos	estar	1	• nós | pessoal infinitivo
+9_estarem	estarem	estar	1	• eles/as (vcs) | pessoal infinitivo
+10_ir	ir	ir	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+10_vou	vou	ir	1	• eu | presente
+10_vai	vai	ir	1	• ele/a (vc) | presente
+10_vamos	vamos	ir	3	• nós | presente<br>• nós | imperativo<br>• nós | presente subjuntivo
+10_vão	vão	ir	3	• eles/as (vcs) | presente<br>• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+10_ia	ia	ir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+10_íamos	íamos	ir	1	• nós | imperfeito
+10_iam	iam	ir	1	• eles/as (vcs) | imperfeito
+10_fui	fui	ir	1	• eu | pretérito
+10_foi	foi	ir	1	• ele/a (vc) | pretérito
+10_fomos	fomos	ir	1	• nós | pretérito
+10_foram	foram	ir	1	• eles/as (vcs) | pretérito
+10_iria	iria	ir	2	• eu | condicional<br>• ele/a (vc) | condicional
+10_iríamos	iríamos	ir	1	• nós | condicional
+10_iriam	iriam	ir	1	• eles/as (vcs) | condicional
+10_vá	vá	ir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+10_indo	indo	ir	1	• | gerundo
+10_ido	ido	ir	1	• | particípio
+10_fosse	fosse	ir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+10_fôssemos	fôssemos	ir	1	• nós | imperfeito subjuntivo
+10_fossem	fossem	ir	1	• eles/as (vcs) | imperfeito subjuntivo
+10_for	for	ir	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+10_formos	formos	ir	1	• nós | futuro subjuntivo
+10_forem	forem	ir	1	• eles/as (vcs) | futuro subjuntivo
+10_irmos	irmos	ir	1	• nós | pessoal infinitivo
+10_irem	irem	ir	1	• eles/as (vcs) | pessoal infinitivo
+11_dar	dar	dar	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+11_dou	dou	dar	1	• eu | presente
+11_dá	dá	dar	1	• ele/a (vc) | presente
+11_damos	damos	dar	1	• nós | presente
+11_dão	dão	dar	1	• eles/as (vcs) | presente
+11_dava	dava	dar	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+11_dávamos	dávamos	dar	1	• nós | imperfeito
+11_davam	davam	dar	1	• eles/as (vcs) | imperfeito
+11_dei	dei	dar	1	• eu | pretérito
+11_deu	deu	dar	1	• ele/a (vc) | pretérito
+11_demos	demos	dar	3	• nós | pretérito<br>• nós | imperativo<br>• nós | presente subjuntivo
+11_deram	deram	dar	1	• eles/as (vcs) | pretérito
+11_daria	daria	dar	2	• eu | condicional<br>• ele/a (vc) | condicional
+11_daríamos	daríamos	dar	1	• nós | condicional
+11_dariam	dariam	dar	1	• eles/as (vcs) | condicional
+11_dê	dê	dar	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+11_deem	deem	dar	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+11_dando	dando	dar	1	• | gerundo
+11_dado	dado	dar	1	• | particípio
+11_desse	desse	dar	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+11_déssemos	déssemos	dar	1	• nós | imperfeito subjuntivo
+11_dessem	dessem	dar	1	• eles/as (vcs) | imperfeito subjuntivo
+11_der	der	dar	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+11_dermos	dermos	dar	1	• nós | futuro subjuntivo
+11_derem	derem	dar	1	• eles/as (vcs) | futuro subjuntivo
+11_darmos	darmos	dar	1	• nós | pessoal infinitivo
+11_darem	darem	dar	1	• eles/as (vcs) | pessoal infinitivo
+12_ver	ver	ver	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+12_vejo	vejo	ver	1	• eu | presente
+12_vê	vê	ver	1	• ele/a (vc) | presente
+12_vemos	vemos	ver	1	• nós | presente
+12_veem	veem	ver	1	• eles/as (vcs) | presente
+12_via	via	ver	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+12_víamos	víamos	ver	1	• nós | imperfeito
+12_viam	viam	ver	1	• eles/as (vcs) | imperfeito
+12_vi	vi	ver	1	• eu | pretérito
+12_viu	viu	ver	1	• ele/a (vc) | pretérito
+12_vimos	vimos	ver	1	• nós | pretérito
+12_viram	viram	ver	1	• eles/as (vcs) | pretérito
+12_veria	veria	ver	2	• eu | condicional<br>• ele/a (vc) | condicional
+12_veríamos	veríamos	ver	1	• nós | condicional
+12_veriam	veriam	ver	1	• eles/as (vcs) | condicional
+12_veja	veja	ver	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+12_vejamos	vejamos	ver	2	• nós | imperativo<br>• nós | presente subjuntivo
+12_vejam	vejam	ver	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+12_vendo	vendo	ver	1	• | gerundo
+12_visto	visto	ver	1	• | particípio
+12_visse	visse	ver	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+12_víssemos	víssemos	ver	1	• nós | imperfeito subjuntivo
+12_vissem	vissem	ver	1	• eles/as (vcs) | imperfeito subjuntivo
+12_vir	vir	ver	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+12_virmos	virmos	ver	1	• nós | futuro subjuntivo
+12_virem	virem	ver	1	• eles/as (vcs) | futuro subjuntivo
+12_vermos	vermos	ver	1	• nós | pessoal infinitivo
+12_verem	verem	ver	1	• eles/as (vcs) | pessoal infinitivo
+13_ter	ter	ter	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+13_tenho	tenho	ter	1	• eu | presente
+13_tem	tem	ter	1	• ele/a (vc) | presente
+13_temos	temos	ter	1	• nós | presente
+13_têm	têm	ter	1	• eles/as (vcs) | presente
+13_tinha	tinha	ter	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+13_tínhamos	tínhamos	ter	1	• nós | imperfeito
+13_tinham	tinham	ter	1	• eles/as (vcs) | imperfeito
+13_tive	tive	ter	1	• eu | pretérito
+13_teve	teve	ter	1	• ele/a (vc) | pretérito
+13_tivemos	tivemos	ter	1	• nós | pretérito
+13_tiveram	tiveram	ter	1	• eles/as (vcs) | pretérito
+13_teria	teria	ter	2	• eu | condicional<br>• ele/a (vc) | condicional
+13_teríamos	teríamos	ter	1	• nós | condicional
+13_teriam	teriam	ter	1	• eles/as (vcs) | condicional
+13_tenha	tenha	ter	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+13_tenhamos	tenhamos	ter	2	• nós | imperativo<br>• nós | presente subjuntivo
+13_tenham	tenham	ter	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+13_tendo	tendo	ter	1	• | gerundo
+13_tido	tido	ter	1	• | particípio
+13_tivesse	tivesse	ter	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+13_tivéssemos	tivéssemos	ter	1	• nós | imperfeito subjuntivo
+13_tivessem	tivessem	ter	1	• eles/as (vcs) | imperfeito subjuntivo
+13_tiver	tiver	ter	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+13_tivermos	tivermos	ter	1	• nós | futuro subjuntivo
+13_tiverem	tiverem	ter	1	• eles/as (vcs) | futuro subjuntivo
+13_termos	termos	ter	1	• nós | pessoal infinitivo
+13_terem	terem	ter	1	• eles/as (vcs) | pessoal infinitivo
+14_vir	vir	vir	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+14_venho	venho	vir	1	• eu | presente
+14_vem	vem	vir	1	• ele/a (vc) | presente
+14_vimos	vimos	vir	1	• nós | presente
+14_vêm	vêm	vir	1	• eles/as (vcs) | presente
+14_vinha	vinha	vir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+14_vínhamos	vínhamos	vir	1	• nós | imperfeito
+14_vinham	vinham	vir	1	• eles/as (vcs) | imperfeito
+14_vim	vim	vir	1	• eu | pretérito
+14_veio	veio	vir	1	• ele/a (vc) | pretérito
+14_viemos	viemos	vir	1	• nós | pretérito
+14_vieram	vieram	vir	1	• eles/as (vcs) | pretérito
+14_viria	viria	vir	2	• eu | condicional<br>• ele/a (vc) | condicional
+14_viríamos	viríamos	vir	1	• nós | condicional
+14_viriam	viriam	vir	1	• eles/as (vcs) | condicional
+14_venha	venha	vir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+14_venhamos	venhamos	vir	2	• nós | imperativo<br>• nós | presente subjuntivo
+14_venham	venham	vir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+14_vindo	vindo	vir	2	• | gerundo<br>• | particípio
+14_viesse	viesse	vir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+14_viéssemos	viéssemos	vir	1	• nós | imperfeito subjuntivo
+14_viessem	viessem	vir	1	• eles/as (vcs) | imperfeito subjuntivo
+14_vier	vier	vir	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+14_viermos	viermos	vir	1	• nós | futuro subjuntivo
+14_vierem	vierem	vir	1	• eles/as (vcs) | futuro subjuntivo
+14_virmos	virmos	vir	1	• nós | pessoal infinitivo
+14_virem	virem	vir	1	• eles/as (vcs) | pessoal infinitivo
+15_saber	saber	saber	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+15_sei	sei	saber	1	• eu | presente
+15_sabe	sabe	saber	1	• ele/a (vc) | presente
+15_sabemos	sabemos	saber	1	• nós | presente
+15_sabem	sabem	saber	1	• eles/as (vcs) | presente
+15_sabia	sabia	saber	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+15_sabíamos	sabíamos	saber	1	• nós | imperfeito
+15_sabiam	sabiam	saber	1	• eles/as (vcs) | imperfeito
+15_soube	soube	saber	2	• eu | pretérito<br>• ele/a (vc) | pretérito
+15_soubemos	soubemos	saber	1	• nós | pretérito
+15_souberam	souberam	saber	1	• eles/as (vcs) | pretérito
+15_saberia	saberia	saber	2	• eu | condicional<br>• ele/a (vc) | condicional
+15_saberíamos	saberíamos	saber	1	• nós | condicional
+15_saberiam	saberiam	saber	1	• eles/as (vcs) | condicional
+15_saiba	saiba	saber	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+15_saibamos	saibamos	saber	2	• nós | imperativo<br>• nós | presente subjuntivo
+15_saibam	saibam	saber	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+15_sabendo	sabendo	saber	1	• | gerundo
+15_sabido	sabido	saber	1	• | particípio
+15_soubesse	soubesse	saber	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+15_soubéssemos	soubéssemos	saber	1	• nós | imperfeito subjuntivo
+15_soubessem	soubessem	saber	1	• eles/as (vcs) | imperfeito subjuntivo
+15_souber	souber	saber	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+15_soubermos	soubermos	saber	1	• nós | futuro subjuntivo
+15_souberem	souberem	saber	1	• eles/as (vcs) | futuro subjuntivo
+15_sabermos	sabermos	saber	1	• nós | pessoal infinitivo
+15_saberem	saberem	saber	1	• eles/as (vcs) | pessoal infinitivo
+16_conhecer	conhecer	conhecer	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+16_conheço	conheço	conhecer	1	• eu | presente
+16_conhece	conhece	conhecer	1	• ele/a (vc) | presente
+16_conhecemos	conhecemos	conhecer	2	• nós | presente<br>• nós | pretérito
+16_conhecem	conhecem	conhecer	1	• eles/as (vcs) | presente
+16_conhecia	conhecia	conhecer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+16_conhecíamos	conhecíamos	conhecer	1	• nós | imperfeito
+16_conheciam	conheciam	conhecer	1	• eles/as (vcs) | imperfeito
+16_conheci	conheci	conhecer	1	• eu | pretérito
+16_conheceu	conheceu	conhecer	1	• ele/a (vc) | pretérito
+16_conheceram	conheceram	conhecer	1	• eles/as (vcs) | pretérito
+16_conheceria	conheceria	conhecer	2	• eu | condicional<br>• ele/a (vc) | condicional
+16_conheceríamos	conheceríamos	conhecer	1	• nós | condicional
+16_conheceriam	conheceriam	conhecer	1	• eles/as (vcs) | condicional
+16_conheça	conheça	conhecer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+16_conheçamos	conheçamos	conhecer	2	• nós | imperativo<br>• nós | presente subjuntivo
+16_conheçam	conheçam	conhecer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+16_conhecendo	conhecendo	conhecer	1	• | gerundo
+16_conhecido	conhecido	conhecer	1	• | particípio
+16_conhecesse	conhecesse	conhecer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+16_conhecêssemos	conhecêssemos	conhecer	1	• nós | imperfeito subjuntivo
+16_conhecessem	conhecessem	conhecer	1	• eles/as (vcs) | imperfeito subjuntivo
+16_conhecermos	conhecermos	conhecer	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+16_conhecerem	conhecerem	conhecer	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+17_poder	poder	poder	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+17_posso	posso	poder	1	• eu | presente
+17_pode	pode	poder	1	• ele/a (vc) | presente
+17_podemos	podemos	poder	1	• nós | presente
+17_podem	podem	poder	1	• eles/as (vcs) | presente
+17_podia	podia	poder	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+17_podíamos	podíamos	poder	1	• nós | imperfeito
+17_podiam	podiam	poder	1	• eles/as (vcs) | imperfeito
+17_pude	pude	poder	1	• eu | pretérito
+17_pôde	pôde	poder	1	• ele/a (vc) | pretérito
+17_pudemos	pudemos	poder	1	• nós | pretérito
+17_puderam	puderam	poder	1	• eles/as (vcs) | pretérito
+17_poderia	poderia	poder	2	• eu | condicional<br>• ele/a (vc) | condicional
+17_poderíamos	poderíamos	poder	1	• nós | condicional
+17_poderiam	poderiam	poder	1	• eles/as (vcs) | condicional
+17_possa	possa	poder	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+17_possamos	possamos	poder	2	• nós | imperativo<br>• nós | presente subjuntivo
+17_possam	possam	poder	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+17_podendo	podendo	poder	1	• | gerundo
+17_podido	podido	poder	1	• | particípio
+17_pudesse	pudesse	poder	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+17_pudéssemos	pudéssemos	poder	1	• nós | imperfeito subjuntivo
+17_pudessem	pudessem	poder	1	• eles/as (vcs) | imperfeito subjuntivo
+17_puder	puder	poder	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+17_pudermos	pudermos	poder	1	• nós | futuro subjuntivo
+17_puderem	puderem	poder	1	• eles/as (vcs) | futuro subjuntivo
+17_podermos	podermos	poder	1	• nós | pessoal infinitivo
+17_poderem	poderem	poder	1	• eles/as (vcs) | pessoal infinitivo
+18_ouvir	ouvir	ouvir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+18_ouço	ouço	ouvir	1	• eu | presente
+18_ouve	ouve	ouvir	1	• ele/a (vc) | presente
+18_ouvimos	ouvimos	ouvir	2	• nós | presente<br>• nós | pretérito
+18_ouvem	ouvem	ouvir	1	• eles/as (vcs) | presente
+18_ouvia	ouvia	ouvir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+18_ouvíamos	ouvíamos	ouvir	1	• nós | imperfeito
+18_ouviam	ouviam	ouvir	1	• eles/as (vcs) | imperfeito
+18_ouvi	ouvi	ouvir	1	• eu | pretérito
+18_ouviu	ouviu	ouvir	1	• ele/a (vc) | pretérito
+18_ouviram	ouviram	ouvir	1	• eles/as (vcs) | pretérito
+18_ouviria	ouviria	ouvir	2	• eu | condicional<br>• ele/a (vc) | condicional
+18_ouviríamos	ouviríamos	ouvir	1	• nós | condicional
+18_ouviriam	ouviriam	ouvir	1	• eles/as (vcs) | condicional
+18_ouça	ouça	ouvir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+18_ouçamos	ouçamos	ouvir	2	• nós | imperativo<br>• nós | presente subjuntivo
+18_ouçam	ouçam	ouvir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+18_ouvindo	ouvindo	ouvir	1	• | gerundo
+18_ouvido	ouvido	ouvir	1	• | particípio
+18_ouvisse	ouvisse	ouvir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+18_ouvíssemos	ouvíssemos	ouvir	1	• nós | imperfeito subjuntivo
+18_ouvissem	ouvissem	ouvir	1	• eles/as (vcs) | imperfeito subjuntivo
+18_ouvirmos	ouvirmos	ouvir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+18_ouvirem	ouvirem	ouvir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+19_ler	ler	ler	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+19_leio	leio	ler	1	• eu | presente
+19_lê	lê	ler	1	• ele/a (vc) | presente
+19_lemos	lemos	ler	2	• nós | presente<br>• nós | pretérito
+19_leem	leem	ler	1	• eles/as (vcs) | presente
+19_lia	lia	ler	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+19_líamos	líamos	ler	1	• nós | imperfeito
+19_liam	liam	ler	1	• eles/as (vcs) | imperfeito
+19_li	li	ler	1	• eu | pretérito
+19_leu	leu	ler	1	• ele/a (vc) | pretérito
+19_leram	leram	ler	1	• eles/as (vcs) | pretérito
+19_leria	leria	ler	2	• eu | condicional<br>• ele/a (vc) | condicional
+19_leríamos	leríamos	ler	1	• nós | condicional
+19_leriam	leriam	ler	1	• eles/as (vcs) | condicional
+19_leia	leia	ler	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+19_leiamos	leiamos	ler	2	• nós | imperativo<br>• nós | presente subjuntivo
+19_leiam	leiam	ler	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+19_lendo	lendo	ler	1	• | gerundo
+19_lido	lido	ler	1	• | particípio
+19_lesse	lesse	ler	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+19_lêssemos	lêssemos	ler	1	• nós | imperfeito subjuntivo
+19_lessem	lessem	ler	1	• eles/as (vcs) | imperfeito subjuntivo
+19_lermos	lermos	ler	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+19_lerem	lerem	ler	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+20_querer	querer	querer	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+20_quero	quero	querer	1	• eu | presente
+20_quer	quer	querer	1	• ele/a (vc) | presente
+20_queremos	queremos	querer	1	• nós | presente
+20_querem	querem	querer	1	• eles/as (vcs) | presente
+20_queria	queria	querer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+20_queríamos	queríamos	querer	1	• nós | imperfeito
+20_queriam	queriam	querer	1	• eles/as (vcs) | imperfeito
+20_quis	quis	querer	2	• eu | pretérito<br>• ele/a (vc) | pretérito
+20_quisemos	quisemos	querer	1	• nós | pretérito
+20_quiseram	quiseram	querer	1	• eles/as (vcs) | pretérito
+20_quereria	quereria	querer	2	• eu | condicional<br>• ele/a (vc) | condicional
+20_quereríamos	quereríamos	querer	1	• nós | condicional
+20_quereriam	quereriam	querer	1	• eles/as (vcs) | condicional
+20_queira	queira	querer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+20_queiramos	queiramos	querer	2	• nós | imperativo<br>• nós | presente subjuntivo
+20_queiram	queiram	querer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+20_querendo	querendo	querer	1	• | gerundo
+20_querido	querido	querer	1	• | particípio
+20_quisesse	quisesse	querer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+20_quiséssemos	quiséssemos	querer	1	• nós | imperfeito subjuntivo
+20_quisessem	quisessem	querer	1	• eles/as (vcs) | imperfeito subjuntivo
+20_quiser	quiser	querer	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+20_quisermos	quisermos	querer	1	• nós | futuro subjuntivo
+20_quiserem	quiserem	querer	1	• eles/as (vcs) | futuro subjuntivo
+20_querermos	querermos	querer	1	• nós | pessoal infinitivo
+20_quererem	quererem	querer	1	• eles/as (vcs) | pessoal infinitivo
+21_requerer	requerer	requerer	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+21_requeiro	requeiro	requerer	1	• eu | presente
+21_requer	requer	requerer	1	• ele/a (vc) | presente
+21_requeremos	requeremos	requerer	2	• nós | presente<br>• nós | pretérito
+21_requerem	requerem	requerer	1	• eles/as (vcs) | presente
+21_requeria	requeria	requerer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+21_requeríamos	requeríamos	requerer	1	• nós | imperfeito
+21_requeriam	requeriam	requerer	1	• eles/as (vcs) | imperfeito
+21_requeri	requeri	requerer	1	• eu | pretérito
+21_requereu	requereu	requerer	1	• ele/a (vc) | pretérito
+21_requereram	requereram	requerer	1	• eles/as (vcs) | pretérito
+21_requereria	requereria	requerer	2	• eu | condicional<br>• ele/a (vc) | condicional
+21_requereríamos	requereríamos	requerer	1	• nós | condicional
+21_requereriam	requereriam	requerer	1	• eles/as (vcs) | condicional
+21_requeira	requeira	requerer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+21_requeiramos	requeiramos	requerer	2	• nós | imperativo<br>• nós | presente subjuntivo
+21_requeiram	requeiram	requerer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+21_requerendo	requerendo	requerer	1	• | gerundo
+21_requerido	requerido	requerer	1	• | particípio
+21_requeresse	requeresse	requerer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+21_requerêssemos	requerêssemos	requerer	1	• nós | imperfeito subjuntivo
+21_requeressem	requeressem	requerer	1	• eles/as (vcs) | imperfeito subjuntivo
+21_requerermos	requerermos	requerer	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+21_requererem	requererem	requerer	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+22_rir	rir	rir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+22_rio	rio	rir	1	• eu | presente
+22_ri	ri	rir	2	• ele/a (vc) | presente<br>• eu | pretérito
+22_rimos	rimos	rir	2	• nós | presente<br>• nós | pretérito
+22_riem	riem	rir	1	• eles/as (vcs) | presente
+22_ria	ria	rir	5	• eu | imperfeito<br>• ele/a (vc) | imperfeito<br>• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+22_ríamos	ríamos	rir	1	• nós | imperfeito
+22_riam	riam	rir	3	• eles/as (vcs) | imperfeito<br>• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+22_riu	riu	rir	1	• ele/a (vc) | pretérito
+22_riram	riram	rir	1	• eles/as (vcs) | pretérito
+22_riria	riria	rir	2	• eu | condicional<br>• ele/a (vc) | condicional
+22_riríamos	riríamos	rir	1	• nós | condicional
+22_ririam	ririam	rir	1	• eles/as (vcs) | condicional
+22_riamos	riamos	rir	2	• nós | imperativo<br>• nós | presente subjuntivo
+22_rindo	rindo	rir	1	• | gerundo
+22_rido	rido	rir	1	• | particípio
+22_risse	risse	rir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+22_ríssemos	ríssemos	rir	1	• nós | imperfeito subjuntivo
+22_rissem	rissem	rir	1	• eles/as (vcs) | imperfeito subjuntivo
+22_rirmos	rirmos	rir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+22_rirem	rirem	rir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+23_sorrir	sorrir	sorrir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+23_sorrio	sorrio	sorrir	1	• eu | presente
+23_sorri	sorri	sorrir	2	• ele/a (vc) | presente<br>• eu | pretérito
+23_sorrimos	sorrimos	sorrir	2	• nós | presente<br>• nós | pretérito
+23_sorriem	sorriem	sorrir	1	• eles/as (vcs) | presente
+23_sorria	sorria	sorrir	5	• eu | imperfeito<br>• ele/a (vc) | imperfeito<br>• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+23_sorríamos	sorríamos	sorrir	1	• nós | imperfeito
+23_sorriam	sorriam	sorrir	3	• eles/as (vcs) | imperfeito<br>• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+23_sorriu	sorriu	sorrir	1	• ele/a (vc) | pretérito
+23_sorriram	sorriram	sorrir	1	• eles/as (vcs) | pretérito
+23_sorriria	sorriria	sorrir	2	• eu | condicional<br>• ele/a (vc) | condicional
+23_sorriríamos	sorriríamos	sorrir	1	• nós | condicional
+23_sorririam	sorririam	sorrir	1	• eles/as (vcs) | condicional
+23_sorriamos	sorriamos	sorrir	2	• nós | imperativo<br>• nós | presente subjuntivo
+23_sorrindo	sorrindo	sorrir	1	• | gerundo
+23_sorrido	sorrido	sorrir	1	• | particípio
+23_sorrisse	sorrisse	sorrir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+23_sorríssemos	sorríssemos	sorrir	1	• nós | imperfeito subjuntivo
+23_sorrissem	sorrissem	sorrir	1	• eles/as (vcs) | imperfeito subjuntivo
+23_sorrirmos	sorrirmos	sorrir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+23_sorrirem	sorrirem	sorrir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+24_dormir	dormir	dormir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+24_durmo	durmo	dormir	1	• eu | presente
+24_dorme	dorme	dormir	1	• ele/a (vc) | presente
+24_dormimos	dormimos	dormir	2	• nós | presente<br>• nós | pretérito
+24_dormem	dormem	dormir	1	• eles/as (vcs) | presente
+24_dormia	dormia	dormir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+24_dormíamos	dormíamos	dormir	1	• nós | imperfeito
+24_dormiam	dormiam	dormir	1	• eles/as (vcs) | imperfeito
+24_dormi	dormi	dormir	1	• eu | pretérito
+24_dormiu	dormiu	dormir	1	• ele/a (vc) | pretérito
+24_dormiram	dormiram	dormir	1	• eles/as (vcs) | pretérito
+24_dormiria	dormiria	dormir	2	• eu | condicional<br>• ele/a (vc) | condicional
+24_dormiríamos	dormiríamos	dormir	1	• nós | condicional
+24_dormiriam	dormiriam	dormir	1	• eles/as (vcs) | condicional
+24_durma	durma	dormir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+24_durmamos	durmamos	dormir	2	• nós | imperativo<br>• nós | presente subjuntivo
+24_durmam	durmam	dormir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+24_dormindo	dormindo	dormir	1	• | gerundo
+24_dormido	dormido	dormir	1	• | particípio
+24_dormisse	dormisse	dormir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+24_dormíssemos	dormíssemos	dormir	1	• nós | imperfeito subjuntivo
+24_dormissem	dormissem	dormir	1	• eles/as (vcs) | imperfeito subjuntivo
+24_dormirmos	dormirmos	dormir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+24_dormirem	dormirem	dormir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+25_entrever	entrever	entrever	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+25_entrevejo	entrevejo	entrever	1	• eu | presente
+25_entrevê	entrevê	entrever	1	• ele/a (vc) | presente
+25_entrevemos	entrevemos	entrever	1	• nós | presente
+25_entreveem	entreveem	entrever	1	• eles/as (vcs) | presente
+25_entrevia	entrevia	entrever	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+25_entrevíamos	entrevíamos	entrever	1	• nós | imperfeito
+25_entreviam	entreviam	entrever	1	• eles/as (vcs) | imperfeito
+25_entrevi	entrevi	entrever	1	• eu | pretérito
+25_entreviu	entreviu	entrever	1	• ele/a (vc) | pretérito
+25_entrevimos	entrevimos	entrever	1	• nós | pretérito
+25_entreviram	entreviram	entrever	1	• eles/as (vcs) | pretérito
+25_entreveria	entreveria	entrever	2	• eu | condicional<br>• ele/a (vc) | condicional
+25_entreveríamos	entreveríamos	entrever	1	• nós | condicional
+25_entreveriam	entreveriam	entrever	1	• eles/as (vcs) | condicional
+25_entreveja	entreveja	entrever	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+25_entrevejamos	entrevejamos	entrever	2	• nós | imperativo<br>• nós | presente subjuntivo
+25_entrevejam	entrevejam	entrever	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+25_entrevendo	entrevendo	entrever	1	• | gerundo
+25_entrevisto	entrevisto	entrever	1	• | particípio
+25_entrevisse	entrevisse	entrever	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+25_entrevíssemos	entrevíssemos	entrever	1	• nós | imperfeito subjuntivo
+25_entrevissem	entrevissem	entrever	1	• eles/as (vcs) | imperfeito subjuntivo
+25_entrevermos	entrevermos	entrever	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+25_entreverem	entreverem	entrever	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+26_rever	rever	rever	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+26_revejo	revejo	rever	1	• eu | presente
+26_revê	revê	rever	1	• ele/a (vc) | presente
+26_revemos	revemos	rever	1	• nós | presente
+26_reveem	reveem	rever	1	• eles/as (vcs) | presente
+26_revia	revia	rever	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+26_revíamos	revíamos	rever	1	• nós | imperfeito
+26_reviam	reviam	rever	1	• eles/as (vcs) | imperfeito
+26_revi	revi	rever	1	• eu | pretérito
+26_reviu	reviu	rever	1	• ele/a (vc) | pretérito
+26_revimos	revimos	rever	1	• nós | pretérito
+26_reviram	reviram	rever	1	• eles/as (vcs) | pretérito
+26_reveria	reveria	rever	2	• eu | condicional<br>• ele/a (vc) | condicional
+26_reveríamos	reveríamos	rever	1	• nós | condicional
+26_reveriam	reveriam	rever	1	• eles/as (vcs) | condicional
+26_reveja	reveja	rever	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+26_revejamos	revejamos	rever	2	• nós | imperativo<br>• nós | presente subjuntivo
+26_revejam	revejam	rever	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+26_revendo	revendo	rever	1	• | gerundo
+26_revisto	revisto	rever	1	• | particípio
+26_revisse	revisse	rever	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+26_revíssemos	revíssemos	rever	1	• nós | imperfeito subjuntivo
+26_revissem	revissem	rever	1	• eles/as (vcs) | imperfeito subjuntivo
+26_revermos	revermos	rever	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+26_reverem	reverem	rever	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+27_trazer	trazer	trazer	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+27_trago	trago	trazer	1	• eu | presente
+27_traz	traz	trazer	1	• ele/a (vc) | presente
+27_trazemos	trazemos	trazer	1	• nós | presente
+27_trazem	trazem	trazer	1	• eles/as (vcs) | presente
+27_trazia	trazia	trazer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+27_trazíamos	trazíamos	trazer	1	• nós | imperfeito
+27_traziam	traziam	trazer	1	• eles/as (vcs) | imperfeito
+27_trouxe	trouxe	trazer	2	• eu | pretérito<br>• ele/a (vc) | pretérito
+27_trouxemos	trouxemos	trazer	1	• nós | pretérito
+27_trouxeram	trouxeram	trazer	1	• eles/as (vcs) | pretérito
+27_traria	traria	trazer	2	• eu | condicional<br>• ele/a (vc) | condicional
+27_traríamos	traríamos	trazer	1	• nós | condicional
+27_trariam	trariam	trazer	1	• eles/as (vcs) | condicional
+27_traga	traga	trazer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+27_tragamos	tragamos	trazer	2	• nós | imperativo<br>• nós | presente subjuntivo
+27_tragam	tragam	trazer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+27_trazendo	trazendo	trazer	1	• | gerundo
+27_trazido	trazido	trazer	1	• | particípio
+27_trouxesse	trouxesse	trazer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+27_trouxéssemos	trouxéssemos	trazer	1	• nós | imperfeito subjuntivo
+27_trouxessem	trouxessem	trazer	1	• eles/as (vcs) | imperfeito subjuntivo
+27_trouxer	trouxer	trazer	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+27_trouxermos	trouxermos	trazer	1	• nós | futuro subjuntivo
+27_trouxerem	trouxerem	trazer	1	• eles/as (vcs) | futuro subjuntivo
+27_trazermos	trazermos	trazer	1	• nós | pessoal infinitivo
+27_trazerem	trazerem	trazer	1	• eles/as (vcs) | pessoal infinitivo
+28_crer	crer	crer	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+28_creio	creio	crer	1	• eu | presente
+28_crê	crê	crer	1	• ele/a (vc) | presente
+28_cremos	cremos	crer	2	• nós | presente<br>• nós | pretérito
+28_creem	creem	crer	1	• eles/as (vcs) | presente
+28_cria	cria	crer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+28_críamos	críamos	crer	1	• nós | imperfeito
+28_criam	criam	crer	1	• eles/as (vcs) | imperfeito
+28_cri	cri	crer	1	• eu | pretérito
+28_creu	creu	crer	1	• ele/a (vc) | pretérito
+28_creram	creram	crer	1	• eles/as (vcs) | pretérito
+28_creria	creria	crer	2	• eu | condicional<br>• ele/a (vc) | condicional
+28_creríamos	creríamos	crer	1	• nós | condicional
+28_creriam	creriam	crer	1	• eles/as (vcs) | condicional
+28_creia	creia	crer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+28_creiamos	creiamos	crer	2	• nós | imperativo<br>• nós | presente subjuntivo
+28_creiam	creiam	crer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+28_crendo	crendo	crer	1	• | gerundo
+28_crido	crido	crer	1	• | particípio
+28_cresse	cresse	crer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+28_crêssemos	crêssemos	crer	1	• nós | imperfeito subjuntivo
+28_cressem	cressem	crer	1	• eles/as (vcs) | imperfeito subjuntivo
+28_crermos	crermos	crer	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+28_crerem	crerem	crer	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+29_descrer	descrer	descrer	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+29_descreio	descreio	descrer	1	• eu | presente
+29_descrê	descrê	descrer	1	• ele/a (vc) | presente
+29_descremos	descremos	descrer	2	• nós | presente<br>• nós | pretérito
+29_descreem	descreem	descrer	1	• eles/as (vcs) | presente
+29_descria	descria	descrer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+29_descríamos	descríamos	descrer	1	• nós | imperfeito
+29_descriam	descriam	descrer	1	• eles/as (vcs) | imperfeito
+29_descri	descri	descrer	1	• eu | pretérito
+29_descreu	descreu	descrer	1	• ele/a (vc) | pretérito
+29_descreram	descreram	descrer	1	• eles/as (vcs) | pretérito
+29_descreria	descreria	descrer	2	• eu | condicional<br>• ele/a (vc) | condicional
+29_descreríamos	descreríamos	descrer	1	• nós | condicional
+29_descreriam	descreriam	descrer	1	• eles/as (vcs) | condicional
+29_descreia	descreia	descrer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+29_descreiamos	descreiamos	descrer	2	• nós | imperativo<br>• nós | presente subjuntivo
+29_descreiam	descreiam	descrer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+29_descrendo	descrendo	descrer	1	• | gerundo
+29_descrido	descrido	descrer	1	• | particípio
+29_descresse	descresse	descrer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+29_descrêssemos	descrêssemos	descrer	1	• nós | imperfeito subjuntivo
+29_descressem	descressem	descrer	1	• eles/as (vcs) | imperfeito subjuntivo
+29_descrermos	descrermos	descrer	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+29_descrerem	descrerem	descrer	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+30_prever	prever	prever	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+30_prevejo	prevejo	prever	1	• eu | presente
+30_prevê	prevê	prever	1	• ele/a (vc) | presente
+30_prevemos	prevemos	prever	1	• nós | presente
+30_preveem	preveem	prever	1	• eles/as (vcs) | presente
+30_previa	previa	prever	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+30_prevíamos	prevíamos	prever	1	• nós | imperfeito
+30_previam	previam	prever	1	• eles/as (vcs) | imperfeito
+30_previ	previ	prever	1	• eu | pretérito
+30_previu	previu	prever	1	• ele/a (vc) | pretérito
+30_previmos	previmos	prever	1	• nós | pretérito
+30_previram	previram	prever	1	• eles/as (vcs) | pretérito
+30_preveria	preveria	prever	2	• eu | condicional<br>• ele/a (vc) | condicional
+30_preveríamos	preveríamos	prever	1	• nós | condicional
+30_preveriam	preveriam	prever	1	• eles/as (vcs) | condicional
+30_preveja	preveja	prever	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+30_prevejamos	prevejamos	prever	2	• nós | imperativo<br>• nós | presente subjuntivo
+30_prevejam	prevejam	prever	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+30_prevendo	prevendo	prever	1	• | gerundo
+30_previsto	previsto	prever	1	• | particípio
+30_previsse	previsse	prever	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+30_prevíssemos	prevíssemos	prever	1	• nós | imperfeito subjuntivo
+30_previssem	previssem	prever	1	• eles/as (vcs) | imperfeito subjuntivo
+30_prevermos	prevermos	prever	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+30_preverem	preverem	prever	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+31_abrir	abrir	abrir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+31_abro	abro	abrir	1	• eu | presente
+31_abre	abre	abrir	1	• ele/a (vc) | presente
+31_abrimos	abrimos	abrir	2	• nós | presente<br>• nós | pretérito
+31_abrem	abrem	abrir	1	• eles/as (vcs) | presente
+31_abria	abria	abrir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+31_abríamos	abríamos	abrir	1	• nós | imperfeito
+31_abriam	abriam	abrir	1	• eles/as (vcs) | imperfeito
+31_abri	abri	abrir	1	• eu | pretérito
+31_abriu	abriu	abrir	1	• ele/a (vc) | pretérito
+31_abriram	abriram	abrir	1	• eles/as (vcs) | pretérito
+31_abriria	abriria	abrir	2	• eu | condicional<br>• ele/a (vc) | condicional
+31_abriríamos	abriríamos	abrir	1	• nós | condicional
+31_abririam	abririam	abrir	1	• eles/as (vcs) | condicional
+31_abra	abra	abrir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+31_abramos	abramos	abrir	2	• nós | imperativo<br>• nós | presente subjuntivo
+31_abram	abram	abrir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+31_abrindo	abrindo	abrir	1	• | gerundo
+31_aberto	aberto	abrir	1	• | particípio
+31_abrisse	abrisse	abrir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+31_abríssemos	abríssemos	abrir	1	• nós | imperfeito subjuntivo
+31_abrissem	abrissem	abrir	1	• eles/as (vcs) | imperfeito subjuntivo
+31_abrirmos	abrirmos	abrir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+31_abrirem	abrirem	abrir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+32_pôr	pôr	pôr	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+32_ponho	ponho	pôr	1	• eu | presente
+32_põe	põe	pôr	1	• ele/a (vc) | presente
+32_pomos	pomos	pôr	1	• nós | presente
+32_põem	põem	pôr	1	• eles/as (vcs) | presente
+32_punha	punha	pôr	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+32_púnhamos	púnhamos	pôr	1	• nós | imperfeito
+32_punham	punham	pôr	1	• eles/as (vcs) | imperfeito
+32_pus	pus	pôr	1	• eu | pretérito
+32_pôs	pôs	pôr	1	• ele/a (vc) | pretérito
+32_pusemos	pusemos	pôr	1	• nós | pretérito
+32_puseram	puseram	pôr	1	• eles/as (vcs) | pretérito
+32_poria	poria	pôr	2	• eu | condicional<br>• ele/a (vc) | condicional
+32_poríamos	poríamos	pôr	1	• nós | condicional
+32_poriam	poriam	pôr	1	• eles/as (vcs) | condicional
+32_ponha	ponha	pôr	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+32_ponhamos	ponhamos	pôr	2	• nós | imperativo<br>• nós | presente subjuntivo
+32_ponham	ponham	pôr	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+32_pondo	pondo	pôr	1	• | gerundo
+32_posto	posto	pôr	1	• | particípio
+32_pusesse	pusesse	pôr	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+32_puséssemos	puséssemos	pôr	1	• nós | imperfeito subjuntivo
+32_pusessem	pusessem	pôr	1	• eles/as (vcs) | imperfeito subjuntivo
+32_puser	puser	pôr	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+32_pusermos	pusermos	pôr	1	• nós | futuro subjuntivo
+32_puserem	puserem	pôr	1	• eles/as (vcs) | futuro subjuntivo
+32_pormos	pormos	pôr	1	• nós | pessoal infinitivo
+32_porem	porem	pôr	1	• eles/as (vcs) | pessoal infinitivo
+33_construir	construir	construir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+33_construo	construo	construir	1	• eu | presente
+33_constrói	constrói	construir	1	• ele/a (vc) | presente
+33_construímos	construímos	construir	2	• nós | presente<br>• nós | pretérito
+33_constroem	constroem	construir	1	• eles/as (vcs) | presente
+33_construía	construía	construir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+33_construíamos	construíamos	construir	1	• nós | imperfeito
+33_construíam	construíam	construir	1	• eles/as (vcs) | imperfeito
+33_construí	construí	construir	1	• eu | pretérito
+33_construiu	construiu	construir	1	• ele/a (vc) | pretérito
+33_construíram	construíram	construir	1	• eles/as (vcs) | pretérito
+33_construiria	construiria	construir	2	• eu | condicional<br>• ele/a (vc) | condicional
+33_construiríamos	construiríamos	construir	1	• nós | condicional
+33_construiriam	construiriam	construir	1	• eles/as (vcs) | condicional
+33_construa	construa	construir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+33_construamos	construamos	construir	2	• nós | imperativo<br>• nós | presente subjuntivo
+33_construam	construam	construir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+33_construindo	construindo	construir	1	• | gerundo
+33_construído	construído	construir	1	• | particípio
+33_construísse	construísse	construir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+33_construíssemos	construíssemos	construir	1	• nós | imperfeito subjuntivo
+33_construíssem	construíssem	construir	1	• eles/as (vcs) | imperfeito subjuntivo
+33_construirmos	construirmos	construir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+33_construírem	construírem	construir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+34_destruir	destruir	destruir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+34_destruo	destruo	destruir	1	• eu | presente
+34_destrói	destrói	destruir	1	• ele/a (vc) | presente
+34_destruímos	destruímos	destruir	2	• nós | presente<br>• nós | pretérito
+34_destroem	destroem	destruir	1	• eles/as (vcs) | presente
+34_destruía	destruía	destruir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+34_destruíamos	destruíamos	destruir	1	• nós | imperfeito
+34_destruíam	destruíam	destruir	1	• eles/as (vcs) | imperfeito
+34_destruí	destruí	destruir	1	• eu | pretérito
+34_destruiu	destruiu	destruir	1	• ele/a (vc) | pretérito
+34_destruíram	destruíram	destruir	1	• eles/as (vcs) | pretérito
+34_destruiria	destruiria	destruir	2	• eu | condicional<br>• ele/a (vc) | condicional
+34_destruiríamos	destruiríamos	destruir	1	• nós | condicional
+34_destruiriam	destruiriam	destruir	1	• eles/as (vcs) | condicional
+34_destrua	destrua	destruir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+34_destruamos	destruamos	destruir	2	• nós | imperativo<br>• nós | presente subjuntivo
+34_destruam	destruam	destruir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+34_destruindo	destruindo	destruir	1	• | gerundo
+34_destruído	destruído	destruir	1	• | particípio
+34_destruísse	destruísse	destruir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+34_destruíssemos	destruíssemos	destruir	1	• nós | imperfeito subjuntivo
+34_destruíssem	destruíssem	destruir	1	• eles/as (vcs) | imperfeito subjuntivo
+34_destruirmos	destruirmos	destruir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+34_destruírem	destruírem	destruir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+35_fazer	fazer	fazer	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+35_faço	faço	fazer	1	• eu | presente
+35_faz	faz	fazer	1	• ele/a (vc) | presente
+35_fazemos	fazemos	fazer	1	• nós | presente
+35_fazem	fazem	fazer	1	• eles/as (vcs) | presente
+35_fazia	fazia	fazer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+35_fazíamos	fazíamos	fazer	1	• nós | imperfeito
+35_faziam	faziam	fazer	1	• eles/as (vcs) | imperfeito
+35_fiz	fiz	fazer	1	• eu | pretérito
+35_fez	fez	fazer	1	• ele/a (vc) | pretérito
+35_fizemos	fizemos	fazer	1	• nós | pretérito
+35_fizeram	fizeram	fazer	1	• eles/as (vcs) | pretérito
+35_faria	faria	fazer	2	• eu | condicional<br>• ele/a (vc) | condicional
+35_faríamos	faríamos	fazer	1	• nós | condicional
+35_fariam	fariam	fazer	1	• eles/as (vcs) | condicional
+35_faça	faça	fazer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+35_façamos	façamos	fazer	2	• nós | imperativo<br>• nós | presente subjuntivo
+35_façam	façam	fazer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+35_fazendo	fazendo	fazer	1	• | gerundo
+35_feito	feito	fazer	1	• | particípio
+35_fizesse	fizesse	fazer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+35_fizéssemos	fizéssemos	fazer	1	• nós | imperfeito subjuntivo
+35_fizessem	fizessem	fazer	1	• eles/as (vcs) | imperfeito subjuntivo
+35_fizer	fizer	fazer	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+35_fizermos	fizermos	fazer	1	• nós | futuro subjuntivo
+35_fizerem	fizerem	fazer	1	• eles/as (vcs) | futuro subjuntivo
+35_fazermos	fazermos	fazer	1	• nós | pessoal infinitivo
+35_fazerem	fazerem	fazer	1	• eles/as (vcs) | pessoal infinitivo
+36_dizer	dizer	dizer	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+36_digo	digo	dizer	1	• eu | presente
+36_diz	diz	dizer	1	• ele/a (vc) | presente
+36_dizemos	dizemos	dizer	1	• nós | presente
+36_dizem	dizem	dizer	1	• eles/as (vcs) | presente
+36_dizia	dizia	dizer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+36_dizíamos	dizíamos	dizer	1	• nós | imperfeito
+36_diziam	diziam	dizer	1	• eles/as (vcs) | imperfeito
+36_disse	disse	dizer	2	• eu | pretérito<br>• ele/a (vc) | pretérito
+36_dissemos	dissemos	dizer	1	• nós | pretérito
+36_disseram	disseram	dizer	1	• eles/as (vcs) | pretérito
+36_diria	diria	dizer	2	• eu | condicional<br>• ele/a (vc) | condicional
+36_diríamos	diríamos	dizer	1	• nós | condicional
+36_diriam	diriam	dizer	1	• eles/as (vcs) | condicional
+36_diga	diga	dizer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+36_digamos	digamos	dizer	2	• nós | imperativo<br>• nós | presente subjuntivo
+36_digam	digam	dizer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+36_dizendo	dizendo	dizer	1	• | gerundo
+36_dito	dito	dizer	1	• | particípio
+36_dissesse	dissesse	dizer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+36_disséssemos	disséssemos	dizer	1	• nós | imperfeito subjuntivo
+36_dissessem	dissessem	dizer	1	• eles/as (vcs) | imperfeito subjuntivo
+36_disser	disser	dizer	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+36_dissermos	dissermos	dizer	1	• nós | futuro subjuntivo
+36_disserem	disserem	dizer	1	• eles/as (vcs) | futuro subjuntivo
+36_dizermos	dizermos	dizer	1	• nós | pessoal infinitivo
+36_dizerem	dizerem	dizer	1	• eles/as (vcs) | pessoal infinitivo
+37_pedir	pedir	pedir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+37_peço	peço	pedir	1	• eu | presente
+37_pede	pede	pedir	1	• ele/a (vc) | presente
+37_pedimos	pedimos	pedir	2	• nós | presente<br>• nós | pretérito
+37_pedem	pedem	pedir	1	• eles/as (vcs) | presente
+37_pedia	pedia	pedir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+37_pedíamos	pedíamos	pedir	1	• nós | imperfeito
+37_pediam	pediam	pedir	1	• eles/as (vcs) | imperfeito
+37_pedi	pedi	pedir	1	• eu | pretérito
+37_pediu	pediu	pedir	1	• ele/a (vc) | pretérito
+37_pediram	pediram	pedir	1	• eles/as (vcs) | pretérito
+37_pediria	pediria	pedir	2	• eu | condicional<br>• ele/a (vc) | condicional
+37_pediríamos	pediríamos	pedir	1	• nós | condicional
+37_pediriam	pediriam	pedir	1	• eles/as (vcs) | condicional
+37_peça	peça	pedir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+37_peçamos	peçamos	pedir	2	• nós | imperativo<br>• nós | presente subjuntivo
+37_peçam	peçam	pedir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+37_pedindo	pedindo	pedir	1	• | gerundo
+37_pedido	pedido	pedir	1	• | particípio
+37_pedisse	pedisse	pedir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+37_pedíssemos	pedíssemos	pedir	1	• nós | imperfeito subjuntivo
+37_pedissem	pedissem	pedir	1	• eles/as (vcs) | imperfeito subjuntivo
+37_pedirmos	pedirmos	pedir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+37_pedirem	pedirem	pedir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+38_medir	medir	medir	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+38_meço	meço	medir	1	• eu | presente
+38_mede	mede	medir	1	• ele/a (vc) | presente
+38_medimos	medimos	medir	2	• nós | presente<br>• nós | pretérito
+38_medem	medem	medir	1	• eles/as (vcs) | presente
+38_media	media	medir	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+38_medíamos	medíamos	medir	1	• nós | imperfeito
+38_mediam	mediam	medir	1	• eles/as (vcs) | imperfeito
+38_medi	medi	medir	1	• eu | pretérito
+38_mediu	mediu	medir	1	• ele/a (vc) | pretérito
+38_mediram	mediram	medir	1	• eles/as (vcs) | pretérito
+38_mediria	mediria	medir	2	• eu | condicional<br>• ele/a (vc) | condicional
+38_mediríamos	mediríamos	medir	1	• nós | condicional
+38_mediriam	mediriam	medir	1	• eles/as (vcs) | condicional
+38_meça	meça	medir	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+38_meçamos	meçamos	medir	2	• nós | imperativo<br>• nós | presente subjuntivo
+38_meçam	meçam	medir	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+38_medindo	medindo	medir	1	• | gerundo
+38_medido	medido	medir	1	• | particípio
+38_medisse	medisse	medir	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+38_medíssemos	medíssemos	medir	1	• nós | imperfeito subjuntivo
+38_medissem	medissem	medir	1	• eles/as (vcs) | imperfeito subjuntivo
+38_medirmos	medirmos	medir	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+38_medirem	medirem	medir	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
+39_haver	haver	haver	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+39_hei	hei	haver	1	• eu | presente
+39_há	há	haver	1	• ele/a (vc) | presente
+39_havemos	havemos	haver	1	• nós | presente
+39_hão	hão	haver	1	• eles/as (vcs) | presente
+39_havia	havia	haver	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+39_havíamos	havíamos	haver	1	• nós | imperfeito
+39_haviam	haviam	haver	1	• eles/as (vcs) | imperfeito
+39_houve	houve	haver	2	• eu | pretérito<br>• ele/a (vc) | pretérito
+39_houvemos	houvemos	haver	1	• nós | pretérito
+39_houveram	houveram	haver	1	• eles/as (vcs) | pretérito
+39_haveria	haveria	haver	2	• eu | condicional<br>• ele/a (vc) | condicional
+39_haveríamos	haveríamos	haver	1	• nós | condicional
+39_haveriam	haveriam	haver	1	• eles/as (vcs) | condicional
+39_haja	haja	haver	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+39_hajamos	hajamos	haver	2	• nós | imperativo<br>• nós | presente subjuntivo
+39_hajam	hajam	haver	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+39_havendo	havendo	haver	1	• | gerundo
+39_havido	havido	haver	1	• | particípio
+39_houvesse	houvesse	haver	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+39_houvéssemos	houvéssemos	haver	1	• nós | imperfeito subjuntivo
+39_houvessem	houvessem	haver	1	• eles/as (vcs) | imperfeito subjuntivo
+39_houver	houver	haver	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+39_houvermos	houvermos	haver	1	• nós | futuro subjuntivo
+39_houverem	houverem	haver	1	• eles/as (vcs) | futuro subjuntivo
+39_havermos	havermos	haver	1	• nós | pessoal infinitivo
+39_haverem	haverem	haver	1	• eles/as (vcs) | pessoal infinitivo
+40_caber	caber	caber	3	• | infinitivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+40_caibo	caibo	caber	1	• eu | presente
+40_cabe	cabe	caber	1	• ele/a (vc) | presente
+40_cabemos	cabemos	caber	1	• nós | presente
+40_cabem	cabem	caber	1	• eles/as (vcs) | presente
+40_cabia	cabia	caber	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+40_cabíamos	cabíamos	caber	1	• nós | imperfeito
+40_cabiam	cabiam	caber	1	• eles/as (vcs) | imperfeito
+40_coube	coube	caber	2	• eu | pretérito<br>• ele/a (vc) | pretérito
+40_coubemos	coubemos	caber	1	• nós | pretérito
+40_couberam	couberam	caber	1	• eles/as (vcs) | pretérito
+40_caberia	caberia	caber	2	• eu | condicional<br>• ele/a (vc) | condicional
+40_caberíamos	caberíamos	caber	1	• nós | condicional
+40_caberiam	caberiam	caber	1	• eles/as (vcs) | condicional
+40_caiba	caiba	caber	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+40_caibamos	caibamos	caber	2	• nós | imperativo<br>• nós | presente subjuntivo
+40_caibam	caibam	caber	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+40_cabendo	cabendo	caber	1	• | gerundo
+40_cabido	cabido	caber	1	• | particípio
+40_coubesse	coubesse	caber	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+40_coubéssemos	coubéssemos	caber	1	• nós | imperfeito subjuntivo
+40_coubessem	coubessem	caber	1	• eles/as (vcs) | imperfeito subjuntivo
+40_couber	couber	caber	2	• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo
+40_coubermos	coubermos	caber	1	• nós | futuro subjuntivo
+40_couberem	couberem	caber	1	• eles/as (vcs) | futuro subjuntivo
+40_cabermos	cabermos	caber	1	• nós | pessoal infinitivo
+40_caberem	caberem	caber	1	• eles/as (vcs) | pessoal infinitivo
+41_valer	valer	valer	5	• | infinitivo<br>• eu | futuro subjuntivo<br>• ele/a (vc) | futuro subjuntivo<br>• eu | pessoal infinitivo<br>• ele/a (vc) | pessoal infinitivo
+41_valho	valho	valer	1	• eu | presente
+41_vale	vale	valer	1	• ele/a (vc) | presente
+41_valemos	valemos	valer	2	• nós | presente<br>• nós | pretérito
+41_valem	valem	valer	1	• eles/as (vcs) | presente
+41_valia	valia	valer	2	• eu | imperfeito<br>• ele/a (vc) | imperfeito
+41_valíamos	valíamos	valer	1	• nós | imperfeito
+41_valiam	valiam	valer	1	• eles/as (vcs) | imperfeito
+41_vali	vali	valer	1	• eu | pretérito
+41_valeu	valeu	valer	1	• ele/a (vc) | pretérito
+41_valeram	valeram	valer	1	• eles/as (vcs) | pretérito
+41_valeria	valeria	valer	2	• eu | condicional<br>• ele/a (vc) | condicional
+41_valeríamos	valeríamos	valer	1	• nós | condicional
+41_valeriam	valeriam	valer	1	• eles/as (vcs) | condicional
+41_valha	valha	valer	3	• ele/a (vc) | imperativo<br>• eu | presente subjuntivo<br>• ele/a (vc) | presente subjuntivo
+41_valhamos	valhamos	valer	2	• nós | imperativo<br>• nós | presente subjuntivo
+41_valham	valham	valer	2	• eles/as (vcs) | imperativo<br>• eles/as (vcs) | presente subjuntivo
+41_valendo	valendo	valer	1	• | gerundo
+41_valido	valido	valer	1	• | particípio
+41_valesse	valesse	valer	2	• eu | imperfeito subjuntivo<br>• ele/a (vc) | imperfeito subjuntivo
+41_valêssemos	valêssemos	valer	1	• nós | imperfeito subjuntivo
+41_valessem	valessem	valer	1	• eles/as (vcs) | imperfeito subjuntivo
+41_valermos	valermos	valer	2	• nós | futuro subjuntivo<br>• nós | pessoal infinitivo
+41_valerem	valerem	valer	2	• eles/as (vcs) | futuro subjuntivo<br>• eles/as (vcs) | pessoal infinitivo
