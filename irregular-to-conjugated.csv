@@ -1,1258 +1,1258 @@
-8_1	ser	eu | presente	sou
-8_2	ser	ele/a (vc) | presente	é
-8_3	ser	nós | presente	somos
-8_4	ser	eles/as (vcs) | presente	são
-8_5	ser	eu | imperfeito	era
-8_6	ser	ele/a (vc) | imperfeito	era
-8_7	ser	nós | imperfeito	éramos
-8_8	ser	eles/as (vcs) | imperfeito	eram
-8_9	ser	eu | pretérito	fui
-8_10	ser	ele/a (vc) | pretérito	foi
-8_11	ser	nós | pretérito	fomos
-8_12	ser	eles/as (vcs) | pretérito	foram
-8_13	ser	eu | condicional	seria
-8_14	ser	ele/a (vc) | condicional	seria
-8_15	ser	nós | condicional	seríamos
-8_16	ser	eles/as (vcs) | condicional	seriam
-8_17	ser	ele/a (vc) | imperativo	seja
-8_18	ser	nós | imperativo	sejamos
-8_19	ser	eles/as (vcs) | imperativo	sejam
-8_20	ser	| gerundo	sendo
-8_21	ser	| particípio	sido
-8_22	ser	eu | presente subjuntivo	seja
-8_23	ser	ele/a (vc) | presente subjuntivo	seja
-8_24	ser	nós | presente subjuntivo	sejamos
-8_25	ser	eles/as (vcs) | presente subjuntivo	sejam
-8_26	ser	eu | imperfeito subjuntivo	fosse
-8_27	ser	ele/a (vc) | imperfeito subjuntivo	fosse
-8_28	ser	nós | imperfeito subjuntivo	fôssemos
-8_29	ser	eles/as (vcs) | imperfeito subjuntivo	fossem
-8_30	ser	eu | futuro subjuntivo	for
-8_31	ser	ele/a (vc) | futuro subjuntivo	for
-8_32	ser	nós | futuro subjuntivo	formos
-8_33	ser	eles/as (vcs) | futuro subjuntivo	forem
-8_34	ser	eu | pessoal infinitivo	ser
-8_35	ser	ele/a (vc) | pessoal infinitivo	ser
-8_36	ser	nós | pessoal infinitivo	sermos
-8_37	ser	eles/as (vcs) | pessoal infinitivo	serem
-9_1	estar	eu | presente	estou
-9_2	estar	ele/a (vc) | presente	está
-9_3	estar	nós | presente	estamos
-9_4	estar	eles/as (vcs) | presente	estão
-9_5	estar	eu | imperfeito	estava
-9_6	estar	ele/a (vc) | imperfeito	estava
-9_7	estar	nós | imperfeito	estávamos
-9_8	estar	eles/as (vcs) | imperfeito	estavam
-9_9	estar	eu | pretérito	estive
-9_10	estar	ele/a (vc) | pretérito	esteve
-9_11	estar	nós | pretérito	estivemos
-9_12	estar	eles/as (vcs) | pretérito	estiveram
-9_13	estar	eu | condicional	estaria
-9_14	estar	ele/a (vc) | condicional	estaria
-9_15	estar	nós | condicional	estaríamos
-9_16	estar	eles/as (vcs) | condicional	estariam
-9_17	estar	ele/a (vc) | imperativo	esteja
-9_18	estar	nós | imperativo	estejamos
-9_19	estar	eles/as (vcs) | imperativo	estejam
-9_20	estar	| gerundo	estando
-9_21	estar	| particípio	estado
-9_22	estar	eu | presente subjuntivo	esteja
-9_23	estar	ele/a (vc) | presente subjuntivo	esteja
-9_24	estar	nós | presente subjuntivo	estejamos
-9_25	estar	eles/as (vcs) | presente subjuntivo	estejam
-9_26	estar	eu | imperfeito subjuntivo	estivesse
-9_27	estar	ele/a (vc) | imperfeito subjuntivo	estivesse
-9_28	estar	nós | imperfeito subjuntivo	estivéssemos
-9_29	estar	eles/as (vcs) | imperfeito subjuntivo	estivessem
-9_30	estar	eu | futuro subjuntivo	estiver
-9_31	estar	ele/a (vc) | futuro subjuntivo	estiver
-9_32	estar	nós | futuro subjuntivo	estivermos
-9_33	estar	eles/as (vcs) | futuro subjuntivo	estiverem
-9_34	estar	eu | pessoal infinitivo	estar
-9_35	estar	ele/a (vc) | pessoal infinitivo	estar
-9_36	estar	nós | pessoal infinitivo	estarmos
-9_37	estar	eles/as (vcs) | pessoal infinitivo	estarem
-10_1	ir	eu | presente	vou
-10_2	ir	ele/a (vc) | presente	vai
-10_3	ir	nós | presente	vamos
-10_4	ir	eles/as (vcs) | presente	vão
-10_5	ir	eu | imperfeito	ia
-10_6	ir	ele/a (vc) | imperfeito	ia
-10_7	ir	nós | imperfeito	íamos
-10_8	ir	eles/as (vcs) | imperfeito	iam
-10_9	ir	eu | pretérito	fui
-10_10	ir	ele/a (vc) | pretérito	foi
-10_11	ir	nós | pretérito	fomos
-10_12	ir	eles/as (vcs) | pretérito	foram
-10_13	ir	eu | condicional	iria
-10_14	ir	ele/a (vc) | condicional	iria
-10_15	ir	nós | condicional	iríamos
-10_16	ir	eles/as (vcs) | condicional	iriam
-10_17	ir	ele/a (vc) | imperativo	vá
-10_18	ir	nós | imperativo	vamos
-10_19	ir	eles/as (vcs) | imperativo	vão
-10_20	ir	| gerundo	indo
-10_21	ir	| particípio	ido
-10_22	ir	eu | presente subjuntivo	vá
-10_23	ir	ele/a (vc) | presente subjuntivo	vá
-10_24	ir	nós | presente subjuntivo	vamos
-10_25	ir	eles/as (vcs) | presente subjuntivo	vão
-10_26	ir	eu | imperfeito subjuntivo	fosse
-10_27	ir	ele/a (vc) | imperfeito subjuntivo	fosse
-10_28	ir	nós | imperfeito subjuntivo	fôssemos
-10_29	ir	eles/as (vcs) | imperfeito subjuntivo	fossem
-10_30	ir	eu | futuro subjuntivo	for
-10_31	ir	ele/a (vc) | futuro subjuntivo	for
-10_32	ir	nós | futuro subjuntivo	formos
-10_33	ir	eles/as (vcs) | futuro subjuntivo	forem
-10_34	ir	eu | pessoal infinitivo	ir
-10_35	ir	ele/a (vc) | pessoal infinitivo	ir
-10_36	ir	nós | pessoal infinitivo	irmos
-10_37	ir	eles/as (vcs) | pessoal infinitivo	irem
-11_1	dar	eu | presente	dou
-11_2	dar	ele/a (vc) | presente	dá
-11_3	dar	nós | presente	damos
-11_4	dar	eles/as (vcs) | presente	dão
-11_5	dar	eu | imperfeito	dava
-11_6	dar	ele/a (vc) | imperfeito	dava
-11_7	dar	nós | imperfeito	dávamos
-11_8	dar	eles/as (vcs) | imperfeito	davam
-11_9	dar	eu | pretérito	dei
-11_10	dar	ele/a (vc) | pretérito	deu
-11_11	dar	nós | pretérito	demos
-11_12	dar	eles/as (vcs) | pretérito	deram
-11_13	dar	eu | condicional	daria
-11_14	dar	ele/a (vc) | condicional	daria
-11_15	dar	nós | condicional	daríamos
-11_16	dar	eles/as (vcs) | condicional	dariam
-11_17	dar	ele/a (vc) | imperativo	dê
-11_18	dar	nós | imperativo	demos
-11_19	dar	eles/as (vcs) | imperativo	deem
-11_20	dar	| gerundo	dando
-11_21	dar	| particípio	dado
-11_22	dar	eu | presente subjuntivo	dê
-11_23	dar	ele/a (vc) | presente subjuntivo	dê
-11_24	dar	nós | presente subjuntivo	demos
-11_25	dar	eles/as (vcs) | presente subjuntivo	deem
-11_26	dar	eu | imperfeito subjuntivo	desse
-11_27	dar	ele/a (vc) | imperfeito subjuntivo	desse
-11_28	dar	nós | imperfeito subjuntivo	déssemos
-11_29	dar	eles/as (vcs) | imperfeito subjuntivo	dessem
-11_30	dar	eu | futuro subjuntivo	der
-11_31	dar	ele/a (vc) | futuro subjuntivo	der
-11_32	dar	nós | futuro subjuntivo	dermos
-11_33	dar	eles/as (vcs) | futuro subjuntivo	derem
-11_34	dar	eu | pessoal infinitivo	dar
-11_35	dar	ele/a (vc) | pessoal infinitivo	dar
-11_36	dar	nós | pessoal infinitivo	darmos
-11_37	dar	eles/as (vcs) | pessoal infinitivo	darem
-12_1	ver	eu | presente	vejo
-12_2	ver	ele/a (vc) | presente	vê
-12_3	ver	nós | presente	vemos
-12_4	ver	eles/as (vcs) | presente	veem
-12_5	ver	eu | imperfeito	via
-12_6	ver	ele/a (vc) | imperfeito	via
-12_7	ver	nós | imperfeito	víamos
-12_8	ver	eles/as (vcs) | imperfeito	viam
-12_9	ver	eu | pretérito	vi
-12_10	ver	ele/a (vc) | pretérito	viu
-12_11	ver	nós | pretérito	vimos
-12_12	ver	eles/as (vcs) | pretérito	viram
-12_13	ver	eu | condicional	veria
-12_14	ver	ele/a (vc) | condicional	veria
-12_15	ver	nós | condicional	veríamos
-12_16	ver	eles/as (vcs) | condicional	veriam
-12_17	ver	ele/a (vc) | imperativo	veja
-12_18	ver	nós | imperativo	vejamos
-12_19	ver	eles/as (vcs) | imperativo	vejam
-12_20	ver	| gerundo	vendo
-12_21	ver	| particípio	visto
-12_22	ver	eu | presente subjuntivo	veja
-12_23	ver	ele/a (vc) | presente subjuntivo	veja
-12_24	ver	nós | presente subjuntivo	vejamos
-12_25	ver	eles/as (vcs) | presente subjuntivo	vejam
-12_26	ver	eu | imperfeito subjuntivo	visse
-12_27	ver	ele/a (vc) | imperfeito subjuntivo	visse
-12_28	ver	nós | imperfeito subjuntivo	víssemos
-12_29	ver	eles/as (vcs) | imperfeito subjuntivo	vissem
-12_30	ver	eu | futuro subjuntivo	vir
-12_31	ver	ele/a (vc) | futuro subjuntivo	vir
-12_32	ver	nós | futuro subjuntivo	virmos
-12_33	ver	eles/as (vcs) | futuro subjuntivo	virem
-12_34	ver	eu | pessoal infinitivo	ver
-12_35	ver	ele/a (vc) | pessoal infinitivo	ver
-12_36	ver	nós | pessoal infinitivo	vermos
-12_37	ver	eles/as (vcs) | pessoal infinitivo	verem
-13_1	ter	eu | presente	tenho
-13_2	ter	ele/a (vc) | presente	tem
-13_3	ter	nós | presente	temos
-13_4	ter	eles/as (vcs) | presente	têm
-13_5	ter	eu | imperfeito	tinha
-13_6	ter	ele/a (vc) | imperfeito	tinha
-13_7	ter	nós | imperfeito	tínhamos
-13_8	ter	eles/as (vcs) | imperfeito	tinham
-13_9	ter	eu | pretérito	tive
-13_10	ter	ele/a (vc) | pretérito	teve
-13_11	ter	nós | pretérito	tivemos
-13_12	ter	eles/as (vcs) | pretérito	tiveram
-13_13	ter	eu | condicional	teria
-13_14	ter	ele/a (vc) | condicional	teria
-13_15	ter	nós | condicional	teríamos
-13_16	ter	eles/as (vcs) | condicional	teriam
-13_17	ter	ele/a (vc) | imperativo	tenha
-13_18	ter	nós | imperativo	tenhamos
-13_19	ter	eles/as (vcs) | imperativo	tenham
-13_20	ter	| gerundo	tendo
-13_21	ter	| particípio	tido
-13_22	ter	eu | presente subjuntivo	tenha
-13_23	ter	ele/a (vc) | presente subjuntivo	tenha
-13_24	ter	nós | presente subjuntivo	tenhamos
-13_25	ter	eles/as (vcs) | presente subjuntivo	tenham
-13_26	ter	eu | imperfeito subjuntivo	tivesse
-13_27	ter	ele/a (vc) | imperfeito subjuntivo	tivesse
-13_28	ter	nós | imperfeito subjuntivo	tivéssemos
-13_29	ter	eles/as (vcs) | imperfeito subjuntivo	tivessem
-13_30	ter	eu | futuro subjuntivo	tiver
-13_31	ter	ele/a (vc) | futuro subjuntivo	tiver
-13_32	ter	nós | futuro subjuntivo	tivermos
-13_33	ter	eles/as (vcs) | futuro subjuntivo	tiverem
-13_34	ter	eu | pessoal infinitivo	ter
-13_35	ter	ele/a (vc) | pessoal infinitivo	ter
-13_36	ter	nós | pessoal infinitivo	termos
-13_37	ter	eles/as (vcs) | pessoal infinitivo	terem
-14_1	vir	eu | presente	venho
-14_2	vir	ele/a (vc) | presente	vem
-14_3	vir	nós | presente	vimos
-14_4	vir	eles/as (vcs) | presente	vêm
-14_5	vir	eu | imperfeito	vinha
-14_6	vir	ele/a (vc) | imperfeito	vinha
-14_7	vir	nós | imperfeito	vínhamos
-14_8	vir	eles/as (vcs) | imperfeito	vinham
-14_9	vir	eu | pretérito	vim
-14_10	vir	ele/a (vc) | pretérito	veio
-14_11	vir	nós | pretérito	viemos
-14_12	vir	eles/as (vcs) | pretérito	vieram
-14_13	vir	eu | condicional	viria
-14_14	vir	ele/a (vc) | condicional	viria
-14_15	vir	nós | condicional	viríamos
-14_16	vir	eles/as (vcs) | condicional	viriam
-14_17	vir	ele/a (vc) | imperativo	venha
-14_18	vir	nós | imperativo	venhamos
-14_19	vir	eles/as (vcs) | imperativo	venham
-14_20	vir	| gerundo	vindo
-14_21	vir	| particípio	vindo
-14_22	vir	eu | presente subjuntivo	venha
-14_23	vir	ele/a (vc) | presente subjuntivo	venha
-14_24	vir	nós | presente subjuntivo	venhamos
-14_25	vir	eles/as (vcs) | presente subjuntivo	venham
-14_26	vir	eu | imperfeito subjuntivo	viesse
-14_27	vir	ele/a (vc) | imperfeito subjuntivo	viesse
-14_28	vir	nós | imperfeito subjuntivo	viéssemos
-14_29	vir	eles/as (vcs) | imperfeito subjuntivo	viessem
-14_30	vir	eu | futuro subjuntivo	vier
-14_31	vir	ele/a (vc) | futuro subjuntivo	vier
-14_32	vir	nós | futuro subjuntivo	viermos
-14_33	vir	eles/as (vcs) | futuro subjuntivo	vierem
-14_34	vir	eu | pessoal infinitivo	vir
-14_35	vir	ele/a (vc) | pessoal infinitivo	vir
-14_36	vir	nós | pessoal infinitivo	virmos
-14_37	vir	eles/as (vcs) | pessoal infinitivo	virem
-15_1	saber	eu | presente	sei
-15_2	saber	ele/a (vc) | presente	sabe
-15_3	saber	nós | presente	sabemos
-15_4	saber	eles/as (vcs) | presente	sabem
-15_5	saber	eu | imperfeito	sabia
-15_6	saber	ele/a (vc) | imperfeito	sabia
-15_7	saber	nós | imperfeito	sabíamos
-15_8	saber	eles/as (vcs) | imperfeito	sabiam
-15_9	saber	eu | pretérito	soube
-15_10	saber	ele/a (vc) | pretérito	soube
-15_11	saber	nós | pretérito	soubemos
-15_12	saber	eles/as (vcs) | pretérito	souberam
-15_13	saber	eu | condicional	saberia
-15_14	saber	ele/a (vc) | condicional	saberia
-15_15	saber	nós | condicional	saberíamos
-15_16	saber	eles/as (vcs) | condicional	saberiam
-15_17	saber	ele/a (vc) | imperativo	saiba
-15_18	saber	nós | imperativo	saibamos
-15_19	saber	eles/as (vcs) | imperativo	saibam
-15_20	saber	| gerundo	sabendo
-15_21	saber	| particípio	sabido
-15_22	saber	eu | presente subjuntivo	saiba
-15_23	saber	ele/a (vc) | presente subjuntivo	saiba
-15_24	saber	nós | presente subjuntivo	saibamos
-15_25	saber	eles/as (vcs) | presente subjuntivo	saibam
-15_26	saber	eu | imperfeito subjuntivo	soubesse
-15_27	saber	ele/a (vc) | imperfeito subjuntivo	soubesse
-15_28	saber	nós | imperfeito subjuntivo	soubéssemos
-15_29	saber	eles/as (vcs) | imperfeito subjuntivo	soubessem
-15_30	saber	eu | futuro subjuntivo	souber
-15_31	saber	ele/a (vc) | futuro subjuntivo	souber
-15_32	saber	nós | futuro subjuntivo	soubermos
-15_33	saber	eles/as (vcs) | futuro subjuntivo	souberem
-15_34	saber	eu | pessoal infinitivo	saber
-15_35	saber	ele/a (vc) | pessoal infinitivo	saber
-15_36	saber	nós | pessoal infinitivo	sabermos
-15_37	saber	eles/as (vcs) | pessoal infinitivo	saberem
-16_1	conhecer	eu | presente	conheço
-16_2	conhecer	ele/a (vc) | presente	conhece
-16_3	conhecer	nós | presente	conhecemos
-16_4	conhecer	eles/as (vcs) | presente	conhecem
-16_5	conhecer	eu | imperfeito	conhecia
-16_6	conhecer	ele/a (vc) | imperfeito	conhecia
-16_7	conhecer	nós | imperfeito	conhecíamos
-16_8	conhecer	eles/as (vcs) | imperfeito	conheciam
-16_9	conhecer	eu | pretérito	conheci
-16_10	conhecer	ele/a (vc) | pretérito	conheceu
-16_11	conhecer	nós | pretérito	conhecemos
-16_12	conhecer	eles/as (vcs) | pretérito	conheceram
-16_13	conhecer	eu | condicional	conheceria
-16_14	conhecer	ele/a (vc) | condicional	conheceria
-16_15	conhecer	nós | condicional	conheceríamos
-16_16	conhecer	eles/as (vcs) | condicional	conheceriam
-16_17	conhecer	ele/a (vc) | imperativo	conheça
-16_18	conhecer	nós | imperativo	conheçamos
-16_19	conhecer	eles/as (vcs) | imperativo	conheçam
-16_20	conhecer	| gerundo	conhecendo
-16_21	conhecer	| particípio	conhecido
-16_22	conhecer	eu | presente subjuntivo	conheça
-16_23	conhecer	ele/a (vc) | presente subjuntivo	conheça
-16_24	conhecer	nós | presente subjuntivo	conheçamos
-16_25	conhecer	eles/as (vcs) | presente subjuntivo	conheçam
-16_26	conhecer	eu | imperfeito subjuntivo	conhecesse
-16_27	conhecer	ele/a (vc) | imperfeito subjuntivo	conhecesse
-16_28	conhecer	nós | imperfeito subjuntivo	conhecêssemos
-16_29	conhecer	eles/as (vcs) | imperfeito subjuntivo	conhecessem
-16_30	conhecer	eu | futuro subjuntivo	conhecer
-16_31	conhecer	ele/a (vc) | futuro subjuntivo	conhecer
-16_32	conhecer	nós | futuro subjuntivo	conhecermos
-16_33	conhecer	eles/as (vcs) | futuro subjuntivo	conhecerem
-16_34	conhecer	eu | pessoal infinitivo	conhecer
-16_35	conhecer	ele/a (vc) | pessoal infinitivo	conhecer
-16_36	conhecer	nós | pessoal infinitivo	conhecermos
-16_37	conhecer	eles/as (vcs) | pessoal infinitivo	conhecerem
-17_1	poder	eu | presente	posso
-17_2	poder	ele/a (vc) | presente	pode
-17_3	poder	nós | presente	podemos
-17_4	poder	eles/as (vcs) | presente	podem
-17_5	poder	eu | imperfeito	podia
-17_6	poder	ele/a (vc) | imperfeito	podia
-17_7	poder	nós | imperfeito	podíamos
-17_8	poder	eles/as (vcs) | imperfeito	podiam
-17_9	poder	eu | pretérito	pude
-17_10	poder	ele/a (vc) | pretérito	pôde
-17_11	poder	nós | pretérito	pudemos
-17_12	poder	eles/as (vcs) | pretérito	puderam
-17_13	poder	eu | condicional	poderia
-17_14	poder	ele/a (vc) | condicional	poderia
-17_15	poder	nós | condicional	poderíamos
-17_16	poder	eles/as (vcs) | condicional	poderiam
-17_17	poder	ele/a (vc) | imperativo	possa
-17_18	poder	nós | imperativo	possamos
-17_19	poder	eles/as (vcs) | imperativo	possam
-17_20	poder	| gerundo	podendo
-17_21	poder	| particípio	podido
-17_22	poder	eu | presente subjuntivo	possa
-17_23	poder	ele/a (vc) | presente subjuntivo	possa
-17_24	poder	nós | presente subjuntivo	possamos
-17_25	poder	eles/as (vcs) | presente subjuntivo	possam
-17_26	poder	eu | imperfeito subjuntivo	pudesse
-17_27	poder	ele/a (vc) | imperfeito subjuntivo	pudesse
-17_28	poder	nós | imperfeito subjuntivo	pudéssemos
-17_29	poder	eles/as (vcs) | imperfeito subjuntivo	pudessem
-17_30	poder	eu | futuro subjuntivo	puder
-17_31	poder	ele/a (vc) | futuro subjuntivo	puder
-17_32	poder	nós | futuro subjuntivo	pudermos
-17_33	poder	eles/as (vcs) | futuro subjuntivo	puderem
-17_34	poder	eu | pessoal infinitivo	poder
-17_35	poder	ele/a (vc) | pessoal infinitivo	poder
-17_36	poder	nós | pessoal infinitivo	podermos
-17_37	poder	eles/as (vcs) | pessoal infinitivo	poderem
-18_1	ouvir	eu | presente	ouço
-18_2	ouvir	ele/a (vc) | presente	ouve
-18_3	ouvir	nós | presente	ouvimos
-18_4	ouvir	eles/as (vcs) | presente	ouvem
-18_5	ouvir	eu | imperfeito	ouvia
-18_6	ouvir	ele/a (vc) | imperfeito	ouvia
-18_7	ouvir	nós | imperfeito	ouvíamos
-18_8	ouvir	eles/as (vcs) | imperfeito	ouviam
-18_9	ouvir	eu | pretérito	ouvi
-18_10	ouvir	ele/a (vc) | pretérito	ouviu
-18_11	ouvir	nós | pretérito	ouvimos
-18_12	ouvir	eles/as (vcs) | pretérito	ouviram
-18_13	ouvir	eu | condicional	ouviria
-18_14	ouvir	ele/a (vc) | condicional	ouviria
-18_15	ouvir	nós | condicional	ouviríamos
-18_16	ouvir	eles/as (vcs) | condicional	ouviriam
-18_17	ouvir	ele/a (vc) | imperativo	ouça
-18_18	ouvir	nós | imperativo	ouçamos
-18_19	ouvir	eles/as (vcs) | imperativo	ouçam
-18_20	ouvir	| gerundo	ouvindo
-18_21	ouvir	| particípio	ouvido
-18_22	ouvir	eu | presente subjuntivo	ouça
-18_23	ouvir	ele/a (vc) | presente subjuntivo	ouça
-18_24	ouvir	nós | presente subjuntivo	ouçamos
-18_25	ouvir	eles/as (vcs) | presente subjuntivo	ouçam
-18_26	ouvir	eu | imperfeito subjuntivo	ouvisse
-18_27	ouvir	ele/a (vc) | imperfeito subjuntivo	ouvisse
-18_28	ouvir	nós | imperfeito subjuntivo	ouvíssemos
-18_29	ouvir	eles/as (vcs) | imperfeito subjuntivo	ouvissem
-18_30	ouvir	eu | futuro subjuntivo	ouvir
-18_31	ouvir	ele/a (vc) | futuro subjuntivo	ouvir
-18_32	ouvir	nós | futuro subjuntivo	ouvirmos
-18_33	ouvir	eles/as (vcs) | futuro subjuntivo	ouvirem
-18_34	ouvir	eu | pessoal infinitivo	ouvir
-18_35	ouvir	ele/a (vc) | pessoal infinitivo	ouvir
-18_36	ouvir	nós | pessoal infinitivo	ouvirmos
-18_37	ouvir	eles/as (vcs) | pessoal infinitivo	ouvirem
-19_1	ler	eu | presente	leio
-19_2	ler	ele/a (vc) | presente	lê
-19_3	ler	nós | presente	lemos
-19_4	ler	eles/as (vcs) | presente	leem
-19_5	ler	eu | imperfeito	lia
-19_6	ler	ele/a (vc) | imperfeito	lia
-19_7	ler	nós | imperfeito	líamos
-19_8	ler	eles/as (vcs) | imperfeito	liam
-19_9	ler	eu | pretérito	li
-19_10	ler	ele/a (vc) | pretérito	leu
-19_11	ler	nós | pretérito	lemos
-19_12	ler	eles/as (vcs) | pretérito	leram
-19_13	ler	eu | condicional	leria
-19_14	ler	ele/a (vc) | condicional	leria
-19_15	ler	nós | condicional	leríamos
-19_16	ler	eles/as (vcs) | condicional	leriam
-19_17	ler	ele/a (vc) | imperativo	leia
-19_18	ler	nós | imperativo	leiamos
-19_19	ler	eles/as (vcs) | imperativo	leiam
-19_20	ler	| gerundo	lendo
-19_21	ler	| particípio	lido
-19_22	ler	eu | presente subjuntivo	leia
-19_23	ler	ele/a (vc) | presente subjuntivo	leia
-19_24	ler	nós | presente subjuntivo	leiamos
-19_25	ler	eles/as (vcs) | presente subjuntivo	leiam
-19_26	ler	eu | imperfeito subjuntivo	lesse
-19_27	ler	ele/a (vc) | imperfeito subjuntivo	lesse
-19_28	ler	nós | imperfeito subjuntivo	lêssemos
-19_29	ler	eles/as (vcs) | imperfeito subjuntivo	lessem
-19_30	ler	eu | futuro subjuntivo	ler
-19_31	ler	ele/a (vc) | futuro subjuntivo	ler
-19_32	ler	nós | futuro subjuntivo	lermos
-19_33	ler	eles/as (vcs) | futuro subjuntivo	lerem
-19_34	ler	eu | pessoal infinitivo	ler
-19_35	ler	ele/a (vc) | pessoal infinitivo	ler
-19_36	ler	nós | pessoal infinitivo	lermos
-19_37	ler	eles/as (vcs) | pessoal infinitivo	lerem
-20_1	querer	eu | presente	quero
-20_2	querer	ele/a (vc) | presente	quer
-20_3	querer	nós | presente	queremos
-20_4	querer	eles/as (vcs) | presente	querem
-20_5	querer	eu | imperfeito	queria
-20_6	querer	ele/a (vc) | imperfeito	queria
-20_7	querer	nós | imperfeito	queríamos
-20_8	querer	eles/as (vcs) | imperfeito	queriam
-20_9	querer	eu | pretérito	quis
-20_10	querer	ele/a (vc) | pretérito	quis
-20_11	querer	nós | pretérito	quisemos
-20_12	querer	eles/as (vcs) | pretérito	quiseram
-20_13	querer	eu | condicional	quereria
-20_14	querer	ele/a (vc) | condicional	quereria
-20_15	querer	nós | condicional	quereríamos
-20_16	querer	eles/as (vcs) | condicional	quereriam
-20_17	querer	ele/a (vc) | imperativo	queira
-20_18	querer	nós | imperativo	queiramos
-20_19	querer	eles/as (vcs) | imperativo	queiram
-20_20	querer	| gerundo	querendo
-20_21	querer	| particípio	querido
-20_22	querer	eu | presente subjuntivo	queira
-20_23	querer	ele/a (vc) | presente subjuntivo	queira
-20_24	querer	nós | presente subjuntivo	queiramos
-20_25	querer	eles/as (vcs) | presente subjuntivo	queiram
-20_26	querer	eu | imperfeito subjuntivo	quisesse
-20_27	querer	ele/a (vc) | imperfeito subjuntivo	quisesse
-20_28	querer	nós | imperfeito subjuntivo	quiséssemos
-20_29	querer	eles/as (vcs) | imperfeito subjuntivo	quisessem
-20_30	querer	eu | futuro subjuntivo	quiser
-20_31	querer	ele/a (vc) | futuro subjuntivo	quiser
-20_32	querer	nós | futuro subjuntivo	quisermos
-20_33	querer	eles/as (vcs) | futuro subjuntivo	quiserem
-20_34	querer	eu | pessoal infinitivo	querer
-20_35	querer	ele/a (vc) | pessoal infinitivo	querer
-20_36	querer	nós | pessoal infinitivo	querermos
-20_37	querer	eles/as (vcs) | pessoal infinitivo	quererem
-21_1	requerer	eu | presente	requeiro
-21_2	requerer	ele/a (vc) | presente	requer
-21_3	requerer	nós | presente	requeremos
-21_4	requerer	eles/as (vcs) | presente	requerem
-21_5	requerer	eu | imperfeito	requeria
-21_6	requerer	ele/a (vc) | imperfeito	requeria
-21_7	requerer	nós | imperfeito	requeríamos
-21_8	requerer	eles/as (vcs) | imperfeito	requeriam
-21_9	requerer	eu | pretérito	requeri
-21_10	requerer	ele/a (vc) | pretérito	requereu
-21_11	requerer	nós | pretérito	requeremos
-21_12	requerer	eles/as (vcs) | pretérito	requereram
-21_13	requerer	eu | condicional	requereria
-21_14	requerer	ele/a (vc) | condicional	requereria
-21_15	requerer	nós | condicional	requereríamos
-21_16	requerer	eles/as (vcs) | condicional	requereriam
-21_17	requerer	ele/a (vc) | imperativo	requeira
-21_18	requerer	nós | imperativo	requeiramos
-21_19	requerer	eles/as (vcs) | imperativo	requeiram
-21_20	requerer	| gerundo	requerendo
-21_21	requerer	| particípio	requerido
-21_22	requerer	eu | presente subjuntivo	requeira
-21_23	requerer	ele/a (vc) | presente subjuntivo	requeira
-21_24	requerer	nós | presente subjuntivo	requeiramos
-21_25	requerer	eles/as (vcs) | presente subjuntivo	requeiram
-21_26	requerer	eu | imperfeito subjuntivo	requeresse
-21_27	requerer	ele/a (vc) | imperfeito subjuntivo	requeresse
-21_28	requerer	nós | imperfeito subjuntivo	requerêssemos
-21_29	requerer	eles/as (vcs) | imperfeito subjuntivo	requeressem
-21_30	requerer	eu | futuro subjuntivo	requerer
-21_31	requerer	ele/a (vc) | futuro subjuntivo	requerer
-21_32	requerer	nós | futuro subjuntivo	requerermos
-21_33	requerer	eles/as (vcs) | futuro subjuntivo	requererem
-21_34	requerer	eu | pessoal infinitivo	requerer
-21_35	requerer	ele/a (vc) | pessoal infinitivo	requerer
-21_36	requerer	nós | pessoal infinitivo	requerermos
-21_37	requerer	eles/as (vcs) | pessoal infinitivo	requererem
-22_1	rir	eu | presente	rio
-22_2	rir	ele/a (vc) | presente	ri
-22_3	rir	nós | presente	rimos
-22_4	rir	eles/as (vcs) | presente	riem
-22_5	rir	eu | imperfeito	ria
-22_6	rir	ele/a (vc) | imperfeito	ria
-22_7	rir	nós | imperfeito	ríamos
-22_8	rir	eles/as (vcs) | imperfeito	riam
-22_9	rir	eu | pretérito	ri
-22_10	rir	ele/a (vc) | pretérito	riu
-22_11	rir	nós | pretérito	rimos
-22_12	rir	eles/as (vcs) | pretérito	riram
-22_13	rir	eu | condicional	riria
-22_14	rir	ele/a (vc) | condicional	riria
-22_15	rir	nós | condicional	riríamos
-22_16	rir	eles/as (vcs) | condicional	ririam
-22_17	rir	ele/a (vc) | imperativo	ria
-22_18	rir	nós | imperativo	riamos
-22_19	rir	eles/as (vcs) | imperativo	riam
-22_20	rir	| gerundo	rindo
-22_21	rir	| particípio	rido
-22_22	rir	eu | presente subjuntivo	ria
-22_23	rir	ele/a (vc) | presente subjuntivo	ria
-22_24	rir	nós | presente subjuntivo	riamos
-22_25	rir	eles/as (vcs) | presente subjuntivo	riam
-22_26	rir	eu | imperfeito subjuntivo	risse
-22_27	rir	ele/a (vc) | imperfeito subjuntivo	risse
-22_28	rir	nós | imperfeito subjuntivo	ríssemos
-22_29	rir	eles/as (vcs) | imperfeito subjuntivo	rissem
-22_30	rir	eu | futuro subjuntivo	rir
-22_31	rir	ele/a (vc) | futuro subjuntivo	rir
-22_32	rir	nós | futuro subjuntivo	rirmos
-22_33	rir	eles/as (vcs) | futuro subjuntivo	rirem
-22_34	rir	eu | pessoal infinitivo	rir
-22_35	rir	ele/a (vc) | pessoal infinitivo	rir
-22_36	rir	nós | pessoal infinitivo	rirmos
-22_37	rir	eles/as (vcs) | pessoal infinitivo	rirem
-23_1	sorrir	eu | presente	sorrio
-23_2	sorrir	ele/a (vc) | presente	sorri
-23_3	sorrir	nós | presente	sorrimos
-23_4	sorrir	eles/as (vcs) | presente	sorriem
-23_5	sorrir	eu | imperfeito	sorria
-23_6	sorrir	ele/a (vc) | imperfeito	sorria
-23_7	sorrir	nós | imperfeito	sorríamos
-23_8	sorrir	eles/as (vcs) | imperfeito	sorriam
-23_9	sorrir	eu | pretérito	sorri
-23_10	sorrir	ele/a (vc) | pretérito	sorriu
-23_11	sorrir	nós | pretérito	sorrimos
-23_12	sorrir	eles/as (vcs) | pretérito	sorriram
-23_13	sorrir	eu | condicional	sorriria
-23_14	sorrir	ele/a (vc) | condicional	sorriria
-23_15	sorrir	nós | condicional	sorriríamos
-23_16	sorrir	eles/as (vcs) | condicional	sorririam
-23_17	sorrir	ele/a (vc) | imperativo	sorria
-23_18	sorrir	nós | imperativo	sorriamos
-23_19	sorrir	eles/as (vcs) | imperativo	sorriam
-23_20	sorrir	| gerundo	sorrindo
-23_21	sorrir	| particípio	sorrido
-23_22	sorrir	eu | presente subjuntivo	sorria
-23_23	sorrir	ele/a (vc) | presente subjuntivo	sorria
-23_24	sorrir	nós | presente subjuntivo	sorriamos
-23_25	sorrir	eles/as (vcs) | presente subjuntivo	sorriam
-23_26	sorrir	eu | imperfeito subjuntivo	sorrisse
-23_27	sorrir	ele/a (vc) | imperfeito subjuntivo	sorrisse
-23_28	sorrir	nós | imperfeito subjuntivo	sorríssemos
-23_29	sorrir	eles/as (vcs) | imperfeito subjuntivo	sorrissem
-23_30	sorrir	eu | futuro subjuntivo	sorrir
-23_31	sorrir	ele/a (vc) | futuro subjuntivo	sorrir
-23_32	sorrir	nós | futuro subjuntivo	sorrirmos
-23_33	sorrir	eles/as (vcs) | futuro subjuntivo	sorrirem
-23_34	sorrir	eu | pessoal infinitivo	sorrir
-23_35	sorrir	ele/a (vc) | pessoal infinitivo	sorrir
-23_36	sorrir	nós | pessoal infinitivo	sorrirmos
-23_37	sorrir	eles/as (vcs) | pessoal infinitivo	sorrirem
-24_1	dormir	eu | presente	durmo
-24_2	dormir	ele/a (vc) | presente	dorme
-24_3	dormir	nós | presente	dormimos
-24_4	dormir	eles/as (vcs) | presente	dormem
-24_5	dormir	eu | imperfeito	dormia
-24_6	dormir	ele/a (vc) | imperfeito	dormia
-24_7	dormir	nós | imperfeito	dormíamos
-24_8	dormir	eles/as (vcs) | imperfeito	dormiam
-24_9	dormir	eu | pretérito	dormi
-24_10	dormir	ele/a (vc) | pretérito	dormiu
-24_11	dormir	nós | pretérito	dormimos
-24_12	dormir	eles/as (vcs) | pretérito	dormiram
-24_13	dormir	eu | condicional	dormiria
-24_14	dormir	ele/a (vc) | condicional	dormiria
-24_15	dormir	nós | condicional	dormiríamos
-24_16	dormir	eles/as (vcs) | condicional	dormiriam
-24_17	dormir	ele/a (vc) | imperativo	durma
-24_18	dormir	nós | imperativo	durmamos
-24_19	dormir	eles/as (vcs) | imperativo	durmam
-24_20	dormir	| gerundo	dormindo
-24_21	dormir	| particípio	dormido
-24_22	dormir	eu | presente subjuntivo	durma
-24_23	dormir	ele/a (vc) | presente subjuntivo	durma
-24_24	dormir	nós | presente subjuntivo	durmamos
-24_25	dormir	eles/as (vcs) | presente subjuntivo	durmam
-24_26	dormir	eu | imperfeito subjuntivo	dormisse
-24_27	dormir	ele/a (vc) | imperfeito subjuntivo	dormisse
-24_28	dormir	nós | imperfeito subjuntivo	dormíssemos
-24_29	dormir	eles/as (vcs) | imperfeito subjuntivo	dormissem
-24_30	dormir	eu | futuro subjuntivo	dormir
-24_31	dormir	ele/a (vc) | futuro subjuntivo	dormir
-24_32	dormir	nós | futuro subjuntivo	dormirmos
-24_33	dormir	eles/as (vcs) | futuro subjuntivo	dormirem
-24_34	dormir	eu | pessoal infinitivo	dormir
-24_35	dormir	ele/a (vc) | pessoal infinitivo	dormir
-24_36	dormir	nós | pessoal infinitivo	dormirmos
-24_37	dormir	eles/as (vcs) | pessoal infinitivo	dormirem
-25_1	entrever	eu | presente	entrevejo
-25_2	entrever	ele/a (vc) | presente	entrevê
-25_3	entrever	nós | presente	entrevemos
-25_4	entrever	eles/as (vcs) | presente	entreveem
-25_5	entrever	eu | imperfeito	entrevia
-25_6	entrever	ele/a (vc) | imperfeito	entrevia
-25_7	entrever	nós | imperfeito	entrevíamos
-25_8	entrever	eles/as (vcs) | imperfeito	entreviam
-25_9	entrever	eu | pretérito	entrevi
-25_10	entrever	ele/a (vc) | pretérito	entreviu
-25_11	entrever	nós | pretérito	entrevimos
-25_12	entrever	eles/as (vcs) | pretérito	entreviram
-25_13	entrever	eu | condicional	entreveria
-25_14	entrever	ele/a (vc) | condicional	entreveria
-25_15	entrever	nós | condicional	entreveríamos
-25_16	entrever	eles/as (vcs) | condicional	entreveriam
-25_17	entrever	ele/a (vc) | imperativo	entreveja
-25_18	entrever	nós | imperativo	entrevejamos
-25_19	entrever	eles/as (vcs) | imperativo	entrevejam
-25_20	entrever	| gerundo	entrevendo
-25_21	entrever	| particípio	entrevisto
-25_22	entrever	eu | presente subjuntivo	entreveja
-25_23	entrever	ele/a (vc) | presente subjuntivo	entreveja
-25_24	entrever	nós | presente subjuntivo	entrevejamos
-25_25	entrever	eles/as (vcs) | presente subjuntivo	entrevejam
-25_26	entrever	eu | imperfeito subjuntivo	entrevisse
-25_27	entrever	ele/a (vc) | imperfeito subjuntivo	entrevisse
-25_28	entrever	nós | imperfeito subjuntivo	entrevíssemos
-25_29	entrever	eles/as (vcs) | imperfeito subjuntivo	entrevissem
-25_30	entrever	eu | futuro subjuntivo	entrever
-25_31	entrever	ele/a (vc) | futuro subjuntivo	entrever
-25_32	entrever	nós | futuro subjuntivo	entrevermos
-25_33	entrever	eles/as (vcs) | futuro subjuntivo	entreverem
-25_34	entrever	eu | pessoal infinitivo	entrever
-25_35	entrever	ele/a (vc) | pessoal infinitivo	entrever
-25_36	entrever	nós | pessoal infinitivo	entrevermos
-25_37	entrever	eles/as (vcs) | pessoal infinitivo	entreverem
-26_1	rever	eu | presente	revejo
-26_2	rever	ele/a (vc) | presente	revê
-26_3	rever	nós | presente	revemos
-26_4	rever	eles/as (vcs) | presente	reveem
-26_5	rever	eu | imperfeito	revia
-26_6	rever	ele/a (vc) | imperfeito	revia
-26_7	rever	nós | imperfeito	revíamos
-26_8	rever	eles/as (vcs) | imperfeito	reviam
-26_9	rever	eu | pretérito	revi
-26_10	rever	ele/a (vc) | pretérito	reviu
-26_11	rever	nós | pretérito	revimos
-26_12	rever	eles/as (vcs) | pretérito	reviram
-26_13	rever	eu | condicional	reveria
-26_14	rever	ele/a (vc) | condicional	reveria
-26_15	rever	nós | condicional	reveríamos
-26_16	rever	eles/as (vcs) | condicional	reveriam
-26_17	rever	ele/a (vc) | imperativo	reveja
-26_18	rever	nós | imperativo	revejamos
-26_19	rever	eles/as (vcs) | imperativo	revejam
-26_20	rever	| gerundo	revendo
-26_21	rever	| particípio	revisto
-26_22	rever	eu | presente subjuntivo	reveja
-26_23	rever	ele/a (vc) | presente subjuntivo	reveja
-26_24	rever	nós | presente subjuntivo	revejamos
-26_25	rever	eles/as (vcs) | presente subjuntivo	revejam
-26_26	rever	eu | imperfeito subjuntivo	revisse
-26_27	rever	ele/a (vc) | imperfeito subjuntivo	revisse
-26_28	rever	nós | imperfeito subjuntivo	revíssemos
-26_29	rever	eles/as (vcs) | imperfeito subjuntivo	revissem
-26_30	rever	eu | futuro subjuntivo	rever
-26_31	rever	ele/a (vc) | futuro subjuntivo	rever
-26_32	rever	nós | futuro subjuntivo	revermos
-26_33	rever	eles/as (vcs) | futuro subjuntivo	reverem
-26_34	rever	eu | pessoal infinitivo	rever
-26_35	rever	ele/a (vc) | pessoal infinitivo	rever
-26_36	rever	nós | pessoal infinitivo	revermos
-26_37	rever	eles/as (vcs) | pessoal infinitivo	reverem
-27_1	trazer	eu | presente	trago
-27_2	trazer	ele/a (vc) | presente	traz
-27_3	trazer	nós | presente	trazemos
-27_4	trazer	eles/as (vcs) | presente	trazem
-27_5	trazer	eu | imperfeito	trazia
-27_6	trazer	ele/a (vc) | imperfeito	trazia
-27_7	trazer	nós | imperfeito	trazíamos
-27_8	trazer	eles/as (vcs) | imperfeito	traziam
-27_9	trazer	eu | pretérito	trouxe
-27_10	trazer	ele/a (vc) | pretérito	trouxe
-27_11	trazer	nós | pretérito	trouxemos
-27_12	trazer	eles/as (vcs) | pretérito	trouxeram
-27_13	trazer	eu | condicional	traria
-27_14	trazer	ele/a (vc) | condicional	traria
-27_15	trazer	nós | condicional	traríamos
-27_16	trazer	eles/as (vcs) | condicional	trariam
-27_17	trazer	ele/a (vc) | imperativo	traga
-27_18	trazer	nós | imperativo	tragamos
-27_19	trazer	eles/as (vcs) | imperativo	tragam
-27_20	trazer	| gerundo	trazendo
-27_21	trazer	| particípio	trazido
-27_22	trazer	eu | presente subjuntivo	traga
-27_23	trazer	ele/a (vc) | presente subjuntivo	traga
-27_24	trazer	nós | presente subjuntivo	tragamos
-27_25	trazer	eles/as (vcs) | presente subjuntivo	tragam
-27_26	trazer	eu | imperfeito subjuntivo	trouxesse
-27_27	trazer	ele/a (vc) | imperfeito subjuntivo	trouxesse
-27_28	trazer	nós | imperfeito subjuntivo	trouxéssemos
-27_29	trazer	eles/as (vcs) | imperfeito subjuntivo	trouxessem
-27_30	trazer	eu | futuro subjuntivo	trouxer
-27_31	trazer	ele/a (vc) | futuro subjuntivo	trouxer
-27_32	trazer	nós | futuro subjuntivo	trouxermos
-27_33	trazer	eles/as (vcs) | futuro subjuntivo	trouxerem
-27_34	trazer	eu | pessoal infinitivo	trazer
-27_35	trazer	ele/a (vc) | pessoal infinitivo	trazer
-27_36	trazer	nós | pessoal infinitivo	trazermos
-27_37	trazer	eles/as (vcs) | pessoal infinitivo	trazerem
-28_1	crer	eu | presente	creio
-28_2	crer	ele/a (vc) | presente	crê
-28_3	crer	nós | presente	cremos
-28_4	crer	eles/as (vcs) | presente	creem
-28_5	crer	eu | imperfeito	cria
-28_6	crer	ele/a (vc) | imperfeito	cria
-28_7	crer	nós | imperfeito	críamos
-28_8	crer	eles/as (vcs) | imperfeito	criam
-28_9	crer	eu | pretérito	cri
-28_10	crer	ele/a (vc) | pretérito	creu
-28_11	crer	nós | pretérito	cremos
-28_12	crer	eles/as (vcs) | pretérito	creram
-28_13	crer	eu | condicional	creria
-28_14	crer	ele/a (vc) | condicional	creria
-28_15	crer	nós | condicional	creríamos
-28_16	crer	eles/as (vcs) | condicional	creriam
-28_17	crer	ele/a (vc) | imperativo	creia
-28_18	crer	nós | imperativo	creiamos
-28_19	crer	eles/as (vcs) | imperativo	creiam
-28_20	crer	| gerundo	crendo
-28_21	crer	| particípio	crido
-28_22	crer	eu | presente subjuntivo	creia
-28_23	crer	ele/a (vc) | presente subjuntivo	creia
-28_24	crer	nós | presente subjuntivo	creiamos
-28_25	crer	eles/as (vcs) | presente subjuntivo	creiam
-28_26	crer	eu | imperfeito subjuntivo	cresse
-28_27	crer	ele/a (vc) | imperfeito subjuntivo	cresse
-28_28	crer	nós | imperfeito subjuntivo	crêssemos
-28_29	crer	eles/as (vcs) | imperfeito subjuntivo	cressem
-28_30	crer	eu | futuro subjuntivo	crer
-28_31	crer	ele/a (vc) | futuro subjuntivo	crer
-28_32	crer	nós | futuro subjuntivo	crermos
-28_33	crer	eles/as (vcs) | futuro subjuntivo	crerem
-28_34	crer	eu | pessoal infinitivo	crer
-28_35	crer	ele/a (vc) | pessoal infinitivo	crer
-28_36	crer	nós | pessoal infinitivo	crermos
-28_37	crer	eles/as (vcs) | pessoal infinitivo	crerem
-29_1	descrer	eu | presente	descreio
-29_2	descrer	ele/a (vc) | presente	descrê
-29_3	descrer	nós | presente	descremos
-29_4	descrer	eles/as (vcs) | presente	descreem
-29_5	descrer	eu | imperfeito	descria
-29_6	descrer	ele/a (vc) | imperfeito	descria
-29_7	descrer	nós | imperfeito	descríamos
-29_8	descrer	eles/as (vcs) | imperfeito	descriam
-29_9	descrer	eu | pretérito	descri
-29_10	descrer	ele/a (vc) | pretérito	descreu
-29_11	descrer	nós | pretérito	descremos
-29_12	descrer	eles/as (vcs) | pretérito	descreram
-29_13	descrer	eu | condicional	descreria
-29_14	descrer	ele/a (vc) | condicional	descreria
-29_15	descrer	nós | condicional	descreríamos
-29_16	descrer	eles/as (vcs) | condicional	descreriam
-29_17	descrer	ele/a (vc) | imperativo	descreia
-29_18	descrer	nós | imperativo	descreiamos
-29_19	descrer	eles/as (vcs) | imperativo	descreiam
-29_20	descrer	| gerundo	descrendo
-29_21	descrer	| particípio	descrido
-29_22	descrer	eu | presente subjuntivo	descreia
-29_23	descrer	ele/a (vc) | presente subjuntivo	descreia
-29_24	descrer	nós | presente subjuntivo	descreiamos
-29_25	descrer	eles/as (vcs) | presente subjuntivo	descreiam
-29_26	descrer	eu | imperfeito subjuntivo	descresse
-29_27	descrer	ele/a (vc) | imperfeito subjuntivo	descresse
-29_28	descrer	nós | imperfeito subjuntivo	descrêssemos
-29_29	descrer	eles/as (vcs) | imperfeito subjuntivo	descressem
-29_30	descrer	eu | futuro subjuntivo	descrer
-29_31	descrer	ele/a (vc) | futuro subjuntivo	descrer
-29_32	descrer	nós | futuro subjuntivo	descrermos
-29_33	descrer	eles/as (vcs) | futuro subjuntivo	descrerem
-29_34	descrer	eu | pessoal infinitivo	descrer
-29_35	descrer	ele/a (vc) | pessoal infinitivo	descrer
-29_36	descrer	nós | pessoal infinitivo	descrermos
-29_37	descrer	eles/as (vcs) | pessoal infinitivo	descrerem
-30_1	prever	eu | presente	prevejo
-30_2	prever	ele/a (vc) | presente	prevê
-30_3	prever	nós | presente	prevemos
-30_4	prever	eles/as (vcs) | presente	preveem
-30_5	prever	eu | imperfeito	previa
-30_6	prever	ele/a (vc) | imperfeito	previa
-30_7	prever	nós | imperfeito	prevíamos
-30_8	prever	eles/as (vcs) | imperfeito	previam
-30_9	prever	eu | pretérito	previ
-30_10	prever	ele/a (vc) | pretérito	previu
-30_11	prever	nós | pretérito	previmos
-30_12	prever	eles/as (vcs) | pretérito	previram
-30_13	prever	eu | condicional	preveria
-30_14	prever	ele/a (vc) | condicional	preveria
-30_15	prever	nós | condicional	preveríamos
-30_16	prever	eles/as (vcs) | condicional	preveriam
-30_17	prever	ele/a (vc) | imperativo	preveja
-30_18	prever	nós | imperativo	prevejamos
-30_19	prever	eles/as (vcs) | imperativo	prevejam
-30_20	prever	| gerundo	prevendo
-30_21	prever	| particípio	previsto
-30_22	prever	eu | presente subjuntivo	preveja
-30_23	prever	ele/a (vc) | presente subjuntivo	preveja
-30_24	prever	nós | presente subjuntivo	prevejamos
-30_25	prever	eles/as (vcs) | presente subjuntivo	prevejam
-30_26	prever	eu | imperfeito subjuntivo	previsse
-30_27	prever	ele/a (vc) | imperfeito subjuntivo	previsse
-30_28	prever	nós | imperfeito subjuntivo	prevíssemos
-30_29	prever	eles/as (vcs) | imperfeito subjuntivo	previssem
-30_30	prever	eu | futuro subjuntivo	prever
-30_31	prever	ele/a (vc) | futuro subjuntivo	prever
-30_32	prever	nós | futuro subjuntivo	prevermos
-30_33	prever	eles/as (vcs) | futuro subjuntivo	preverem
-30_34	prever	eu | pessoal infinitivo	prever
-30_35	prever	ele/a (vc) | pessoal infinitivo	prever
-30_36	prever	nós | pessoal infinitivo	prevermos
-30_37	prever	eles/as (vcs) | pessoal infinitivo	preverem
-31_1	abrir	eu | presente	abro
-31_2	abrir	ele/a (vc) | presente	abre
-31_3	abrir	nós | presente	abrimos
-31_4	abrir	eles/as (vcs) | presente	abrem
-31_5	abrir	eu | imperfeito	abria
-31_6	abrir	ele/a (vc) | imperfeito	abria
-31_7	abrir	nós | imperfeito	abríamos
-31_8	abrir	eles/as (vcs) | imperfeito	abriam
-31_9	abrir	eu | pretérito	abri
-31_10	abrir	ele/a (vc) | pretérito	abriu
-31_11	abrir	nós | pretérito	abrimos
-31_12	abrir	eles/as (vcs) | pretérito	abriram
-31_13	abrir	eu | condicional	abriria
-31_14	abrir	ele/a (vc) | condicional	abriria
-31_15	abrir	nós | condicional	abriríamos
-31_16	abrir	eles/as (vcs) | condicional	abririam
-31_17	abrir	ele/a (vc) | imperativo	abra
-31_18	abrir	nós | imperativo	abramos
-31_19	abrir	eles/as (vcs) | imperativo	abram
-31_20	abrir	| gerundo	abrindo
-31_21	abrir	| particípio	aberto
-31_22	abrir	eu | presente subjuntivo	abra
-31_23	abrir	ele/a (vc) | presente subjuntivo	abra
-31_24	abrir	nós | presente subjuntivo	abramos
-31_25	abrir	eles/as (vcs) | presente subjuntivo	abram
-31_26	abrir	eu | imperfeito subjuntivo	abrisse
-31_27	abrir	ele/a (vc) | imperfeito subjuntivo	abrisse
-31_28	abrir	nós | imperfeito subjuntivo	abríssemos
-31_29	abrir	eles/as (vcs) | imperfeito subjuntivo	abrissem
-31_30	abrir	eu | futuro subjuntivo	abrir
-31_31	abrir	ele/a (vc) | futuro subjuntivo	abrir
-31_32	abrir	nós | futuro subjuntivo	abrirmos
-31_33	abrir	eles/as (vcs) | futuro subjuntivo	abrirem
-31_34	abrir	eu | pessoal infinitivo	abrir
-31_35	abrir	ele/a (vc) | pessoal infinitivo	abrir
-31_36	abrir	nós | pessoal infinitivo	abrirmos
-31_37	abrir	eles/as (vcs) | pessoal infinitivo	abrirem
-32_1	pôr	eu | presente	ponho
-32_2	pôr	ele/a (vc) | presente	põe
-32_3	pôr	nós | presente	pomos
-32_4	pôr	eles/as (vcs) | presente	põem
-32_5	pôr	eu | imperfeito	punha
-32_6	pôr	ele/a (vc) | imperfeito	punha
-32_7	pôr	nós | imperfeito	púnhamos
-32_8	pôr	eles/as (vcs) | imperfeito	punham
-32_9	pôr	eu | pretérito	pus
-32_10	pôr	ele/a (vc) | pretérito	pôs
-32_11	pôr	nós | pretérito	pusemos
-32_12	pôr	eles/as (vcs) | pretérito	puseram
-32_13	pôr	eu | condicional	poria
-32_14	pôr	ele/a (vc) | condicional	poria
-32_15	pôr	nós | condicional	poríamos
-32_16	pôr	eles/as (vcs) | condicional	poriam
-32_17	pôr	ele/a (vc) | imperativo	ponha
-32_18	pôr	nós | imperativo	ponhamos
-32_19	pôr	eles/as (vcs) | imperativo	ponham
-32_20	pôr	| gerundo	pondo
-32_21	pôr	| particípio	posto
-32_22	pôr	eu | presente subjuntivo	ponha
-32_23	pôr	ele/a (vc) | presente subjuntivo	ponha
-32_24	pôr	nós | presente subjuntivo	ponhamos
-32_25	pôr	eles/as (vcs) | presente subjuntivo	ponham
-32_26	pôr	eu | imperfeito subjuntivo	pusesse
-32_27	pôr	ele/a (vc) | imperfeito subjuntivo	pusesse
-32_28	pôr	nós | imperfeito subjuntivo	puséssemos
-32_29	pôr	eles/as (vcs) | imperfeito subjuntivo	pusessem
-32_30	pôr	eu | futuro subjuntivo	puser
-32_31	pôr	ele/a (vc) | futuro subjuntivo	puser
-32_32	pôr	nós | futuro subjuntivo	pusermos
-32_33	pôr	eles/as (vcs) | futuro subjuntivo	puserem
-32_34	pôr	eu | pessoal infinitivo	pôr
-32_35	pôr	ele/a (vc) | pessoal infinitivo	pôr
-32_36	pôr	nós | pessoal infinitivo	pormos
-32_37	pôr	eles/as (vcs) | pessoal infinitivo	porem
-33_1	construir	eu | presente	construo
-33_2	construir	ele/a (vc) | presente	constrói
-33_3	construir	nós | presente	construímos
-33_4	construir	eles/as (vcs) | presente	constroem
-33_5	construir	eu | imperfeito	construía
-33_6	construir	ele/a (vc) | imperfeito	construía
-33_7	construir	nós | imperfeito	construíamos
-33_8	construir	eles/as (vcs) | imperfeito	construíam
-33_9	construir	eu | pretérito	construí
-33_10	construir	ele/a (vc) | pretérito	construiu
-33_11	construir	nós | pretérito	construímos
-33_12	construir	eles/as (vcs) | pretérito	construíram
-33_13	construir	eu | condicional	construiria
-33_14	construir	ele/a (vc) | condicional	construiria
-33_15	construir	nós | condicional	construiríamos
-33_16	construir	eles/as (vcs) | condicional	construiriam
-33_17	construir	ele/a (vc) | imperativo	construa
-33_18	construir	nós | imperativo	construamos
-33_19	construir	eles/as (vcs) | imperativo	construam
-33_20	construir	| gerundo	construindo
-33_21	construir	| particípio	construído
-33_22	construir	eu | presente subjuntivo	construa
-33_23	construir	ele/a (vc) | presente subjuntivo	construa
-33_24	construir	nós | presente subjuntivo	construamos
-33_25	construir	eles/as (vcs) | presente subjuntivo	construam
-33_26	construir	eu | imperfeito subjuntivo	construísse
-33_27	construir	ele/a (vc) | imperfeito subjuntivo	construísse
-33_28	construir	nós | imperfeito subjuntivo	construíssemos
-33_29	construir	eles/as (vcs) | imperfeito subjuntivo	construíssem
-33_30	construir	eu | futuro subjuntivo	construir
-33_31	construir	ele/a (vc) | futuro subjuntivo	construir
-33_32	construir	nós | futuro subjuntivo	construirmos
-33_33	construir	eles/as (vcs) | futuro subjuntivo	construírem
-33_34	construir	eu | pessoal infinitivo	construir
-33_35	construir	ele/a (vc) | pessoal infinitivo	construir
-33_36	construir	nós | pessoal infinitivo	construirmos
-33_37	construir	eles/as (vcs) | pessoal infinitivo	construírem
-34_1	destruir	eu | presente	destruo
-34_2	destruir	ele/a (vc) | presente	destrói
-34_3	destruir	nós | presente	destruímos
-34_4	destruir	eles/as (vcs) | presente	destroem
-34_5	destruir	eu | imperfeito	destruía
-34_6	destruir	ele/a (vc) | imperfeito	destruía
-34_7	destruir	nós | imperfeito	destruíamos
-34_8	destruir	eles/as (vcs) | imperfeito	destruíam
-34_9	destruir	eu | pretérito	destruí
-34_10	destruir	ele/a (vc) | pretérito	destruiu
-34_11	destruir	nós | pretérito	destruímos
-34_12	destruir	eles/as (vcs) | pretérito	destruíram
-34_13	destruir	eu | condicional	destruiria
-34_14	destruir	ele/a (vc) | condicional	destruiria
-34_15	destruir	nós | condicional	destruiríamos
-34_16	destruir	eles/as (vcs) | condicional	destruiriam
-34_17	destruir	ele/a (vc) | imperativo	destrua
-34_18	destruir	nós | imperativo	destruamos
-34_19	destruir	eles/as (vcs) | imperativo	destruam
-34_20	destruir	| gerundo	destruindo
-34_21	destruir	| particípio	destruído
-34_22	destruir	eu | presente subjuntivo	destrua
-34_23	destruir	ele/a (vc) | presente subjuntivo	destrua
-34_24	destruir	nós | presente subjuntivo	destruamos
-34_25	destruir	eles/as (vcs) | presente subjuntivo	destruam
-34_26	destruir	eu | imperfeito subjuntivo	destruísse
-34_27	destruir	ele/a (vc) | imperfeito subjuntivo	destruísse
-34_28	destruir	nós | imperfeito subjuntivo	destruíssemos
-34_29	destruir	eles/as (vcs) | imperfeito subjuntivo	destruíssem
-34_30	destruir	eu | futuro subjuntivo	destruir
-34_31	destruir	ele/a (vc) | futuro subjuntivo	destruir
-34_32	destruir	nós | futuro subjuntivo	destruirmos
-34_33	destruir	eles/as (vcs) | futuro subjuntivo	destruírem
-34_34	destruir	eu | pessoal infinitivo	destruir
-34_35	destruir	ele/a (vc) | pessoal infinitivo	destruir
-34_36	destruir	nós | pessoal infinitivo	destruirmos
-34_37	destruir	eles/as (vcs) | pessoal infinitivo	destruírem
-35_1	fazer	eu | presente	faço
-35_2	fazer	ele/a (vc) | presente	faz
-35_3	fazer	nós | presente	fazemos
-35_4	fazer	eles/as (vcs) | presente	fazem
-35_5	fazer	eu | imperfeito	fazia
-35_6	fazer	ele/a (vc) | imperfeito	fazia
-35_7	fazer	nós | imperfeito	fazíamos
-35_8	fazer	eles/as (vcs) | imperfeito	faziam
-35_9	fazer	eu | pretérito	fiz
-35_10	fazer	ele/a (vc) | pretérito	fez
-35_11	fazer	nós | pretérito	fizemos
-35_12	fazer	eles/as (vcs) | pretérito	fizeram
-35_13	fazer	eu | condicional	faria
-35_14	fazer	ele/a (vc) | condicional	faria
-35_15	fazer	nós | condicional	faríamos
-35_16	fazer	eles/as (vcs) | condicional	fariam
-35_17	fazer	ele/a (vc) | imperativo	faça
-35_18	fazer	nós | imperativo	façamos
-35_19	fazer	eles/as (vcs) | imperativo	façam
-35_20	fazer	| gerundo	fazendo
-35_21	fazer	| particípio	feito
-35_22	fazer	eu | presente subjuntivo	faça
-35_23	fazer	ele/a (vc) | presente subjuntivo	faça
-35_24	fazer	nós | presente subjuntivo	façamos
-35_25	fazer	eles/as (vcs) | presente subjuntivo	façam
-35_26	fazer	eu | imperfeito subjuntivo	fizesse
-35_27	fazer	ele/a (vc) | imperfeito subjuntivo	fizesse
-35_28	fazer	nós | imperfeito subjuntivo	fizéssemos
-35_29	fazer	eles/as (vcs) | imperfeito subjuntivo	fizessem
-35_30	fazer	eu | futuro subjuntivo	fizer
-35_31	fazer	ele/a (vc) | futuro subjuntivo	fizer
-35_32	fazer	nós | futuro subjuntivo	fizermos
-35_33	fazer	eles/as (vcs) | futuro subjuntivo	fizerem
-35_34	fazer	eu | pessoal infinitivo	fazer
-35_35	fazer	ele/a (vc) | pessoal infinitivo	fazer
-35_36	fazer	nós | pessoal infinitivo	fazermos
-35_37	fazer	eles/as (vcs) | pessoal infinitivo	fazerem
-36_1	dizer	eu | presente	digo
-36_2	dizer	ele/a (vc) | presente	diz
-36_3	dizer	nós | presente	dizemos
-36_4	dizer	eles/as (vcs) | presente	dizem
-36_5	dizer	eu | imperfeito	dizia
-36_6	dizer	ele/a (vc) | imperfeito	dizia
-36_7	dizer	nós | imperfeito	dizíamos
-36_8	dizer	eles/as (vcs) | imperfeito	diziam
-36_9	dizer	eu | pretérito	disse
-36_10	dizer	ele/a (vc) | pretérito	disse
-36_11	dizer	nós | pretérito	dissemos
-36_12	dizer	eles/as (vcs) | pretérito	disseram
-36_13	dizer	eu | condicional	diria
-36_14	dizer	ele/a (vc) | condicional	diria
-36_15	dizer	nós | condicional	diríamos
-36_16	dizer	eles/as (vcs) | condicional	diriam
-36_17	dizer	ele/a (vc) | imperativo	diga
-36_18	dizer	nós | imperativo	digamos
-36_19	dizer	eles/as (vcs) | imperativo	digam
-36_20	dizer	| gerundo	dizendo
-36_21	dizer	| particípio	dito
-36_22	dizer	eu | presente subjuntivo	diga
-36_23	dizer	ele/a (vc) | presente subjuntivo	diga
-36_24	dizer	nós | presente subjuntivo	digamos
-36_25	dizer	eles/as (vcs) | presente subjuntivo	digam
-36_26	dizer	eu | imperfeito subjuntivo	dissesse
-36_27	dizer	ele/a (vc) | imperfeito subjuntivo	dissesse
-36_28	dizer	nós | imperfeito subjuntivo	disséssemos
-36_29	dizer	eles/as (vcs) | imperfeito subjuntivo	dissessem
-36_30	dizer	eu | futuro subjuntivo	disser
-36_31	dizer	ele/a (vc) | futuro subjuntivo	disser
-36_32	dizer	nós | futuro subjuntivo	dissermos
-36_33	dizer	eles/as (vcs) | futuro subjuntivo	disserem
-36_34	dizer	eu | pessoal infinitivo	dizer
-36_35	dizer	ele/a (vc) | pessoal infinitivo	dizer
-36_36	dizer	nós | pessoal infinitivo	dizermos
-36_37	dizer	eles/as (vcs) | pessoal infinitivo	dizerem
-37_1	pedir	eu | presente	peço
-37_2	pedir	ele/a (vc) | presente	pede
-37_3	pedir	nós | presente	pedimos
-37_4	pedir	eles/as (vcs) | presente	pedem
-37_5	pedir	eu | imperfeito	pedia
-37_6	pedir	ele/a (vc) | imperfeito	pedia
-37_7	pedir	nós | imperfeito	pedíamos
-37_8	pedir	eles/as (vcs) | imperfeito	pediam
-37_9	pedir	eu | pretérito	pedi
-37_10	pedir	ele/a (vc) | pretérito	pediu
-37_11	pedir	nós | pretérito	pedimos
-37_12	pedir	eles/as (vcs) | pretérito	pediram
-37_13	pedir	eu | condicional	pediria
-37_14	pedir	ele/a (vc) | condicional	pediria
-37_15	pedir	nós | condicional	pediríamos
-37_16	pedir	eles/as (vcs) | condicional	pediriam
-37_17	pedir	ele/a (vc) | imperativo	peça
-37_18	pedir	nós | imperativo	peçamos
-37_19	pedir	eles/as (vcs) | imperativo	peçam
-37_20	pedir	| gerundo	pedindo
-37_21	pedir	| particípio	pedido
-37_22	pedir	eu | presente subjuntivo	peça
-37_23	pedir	ele/a (vc) | presente subjuntivo	peça
-37_24	pedir	nós | presente subjuntivo	peçamos
-37_25	pedir	eles/as (vcs) | presente subjuntivo	peçam
-37_26	pedir	eu | imperfeito subjuntivo	pedisse
-37_27	pedir	ele/a (vc) | imperfeito subjuntivo	pedisse
-37_28	pedir	nós | imperfeito subjuntivo	pedíssemos
-37_29	pedir	eles/as (vcs) | imperfeito subjuntivo	pedissem
-37_30	pedir	eu | futuro subjuntivo	pedir
-37_31	pedir	ele/a (vc) | futuro subjuntivo	pedir
-37_32	pedir	nós | futuro subjuntivo	pedirmos
-37_33	pedir	eles/as (vcs) | futuro subjuntivo	pedirem
-37_34	pedir	eu | pessoal infinitivo	pedir
-37_35	pedir	ele/a (vc) | pessoal infinitivo	pedir
-37_36	pedir	nós | pessoal infinitivo	pedirmos
-37_37	pedir	eles/as (vcs) | pessoal infinitivo	pedirem
-38_1	medir	eu | presente	meço
-38_2	medir	ele/a (vc) | presente	mede
-38_3	medir	nós | presente	medimos
-38_4	medir	eles/as (vcs) | presente	medem
-38_5	medir	eu | imperfeito	media
-38_6	medir	ele/a (vc) | imperfeito	media
-38_7	medir	nós | imperfeito	medíamos
-38_8	medir	eles/as (vcs) | imperfeito	mediam
-38_9	medir	eu | pretérito	medi
-38_10	medir	ele/a (vc) | pretérito	mediu
-38_11	medir	nós | pretérito	medimos
-38_12	medir	eles/as (vcs) | pretérito	mediram
-38_13	medir	eu | condicional	mediria
-38_14	medir	ele/a (vc) | condicional	mediria
-38_15	medir	nós | condicional	mediríamos
-38_16	medir	eles/as (vcs) | condicional	mediriam
-38_17	medir	ele/a (vc) | imperativo	meça
-38_18	medir	nós | imperativo	meçamos
-38_19	medir	eles/as (vcs) | imperativo	meçam
-38_20	medir	| gerundo	medindo
-38_21	medir	| particípio	medido
-38_22	medir	eu | presente subjuntivo	meça
-38_23	medir	ele/a (vc) | presente subjuntivo	meça
-38_24	medir	nós | presente subjuntivo	meçamos
-38_25	medir	eles/as (vcs) | presente subjuntivo	meçam
-38_26	medir	eu | imperfeito subjuntivo	medisse
-38_27	medir	ele/a (vc) | imperfeito subjuntivo	medisse
-38_28	medir	nós | imperfeito subjuntivo	medíssemos
-38_29	medir	eles/as (vcs) | imperfeito subjuntivo	medissem
-38_30	medir	eu | futuro subjuntivo	medir
-38_31	medir	ele/a (vc) | futuro subjuntivo	medir
-38_32	medir	nós | futuro subjuntivo	medirmos
-38_33	medir	eles/as (vcs) | futuro subjuntivo	medirem
-38_34	medir	eu | pessoal infinitivo	medir
-38_35	medir	ele/a (vc) | pessoal infinitivo	medir
-38_36	medir	nós | pessoal infinitivo	medirmos
-38_37	medir	eles/as (vcs) | pessoal infinitivo	medirem
-39_1	haver	eu | presente	hei
-39_2	haver	ele/a (vc) | presente	há
-39_3	haver	nós | presente	havemos
-39_4	haver	eles/as (vcs) | presente	hão
-39_5	haver	eu | imperfeito	havia
-39_6	haver	ele/a (vc) | imperfeito	havia
-39_7	haver	nós | imperfeito	havíamos
-39_8	haver	eles/as (vcs) | imperfeito	haviam
-39_9	haver	eu | pretérito	houve
-39_10	haver	ele/a (vc) | pretérito	houve
-39_11	haver	nós | pretérito	houvemos
-39_12	haver	eles/as (vcs) | pretérito	houveram
-39_13	haver	eu | condicional	haveria
-39_14	haver	ele/a (vc) | condicional	haveria
-39_15	haver	nós | condicional	haveríamos
-39_16	haver	eles/as (vcs) | condicional	haveriam
-39_17	haver	ele/a (vc) | imperativo	haja
-39_18	haver	nós | imperativo	hajamos
-39_19	haver	eles/as (vcs) | imperativo	hajam
-39_20	haver	| gerundo	havendo
-39_21	haver	| particípio	havido
-39_22	haver	eu | presente subjuntivo	haja
-39_23	haver	ele/a (vc) | presente subjuntivo	haja
-39_24	haver	nós | presente subjuntivo	hajamos
-39_25	haver	eles/as (vcs) | presente subjuntivo	hajam
-39_26	haver	eu | imperfeito subjuntivo	houvesse
-39_27	haver	ele/a (vc) | imperfeito subjuntivo	houvesse
-39_28	haver	nós | imperfeito subjuntivo	houvéssemos
-39_29	haver	eles/as (vcs) | imperfeito subjuntivo	houvessem
-39_30	haver	eu | futuro subjuntivo	houver
-39_31	haver	ele/a (vc) | futuro subjuntivo	houver
-39_32	haver	nós | futuro subjuntivo	houvermos
-39_33	haver	eles/as (vcs) | futuro subjuntivo	houverem
-39_34	haver	eu | pessoal infinitivo	haver
-39_35	haver	ele/a (vc) | pessoal infinitivo	haver
-39_36	haver	nós | pessoal infinitivo	havermos
-39_37	haver	eles/as (vcs) | pessoal infinitivo	haverem
-40_1	caber	eu | presente	caibo
-40_2	caber	ele/a (vc) | presente	cabe
-40_3	caber	nós | presente	cabemos
-40_4	caber	eles/as (vcs) | presente	cabem
-40_5	caber	eu | imperfeito	cabia
-40_6	caber	ele/a (vc) | imperfeito	cabia
-40_7	caber	nós | imperfeito	cabíamos
-40_8	caber	eles/as (vcs) | imperfeito	cabiam
-40_9	caber	eu | pretérito	coube
-40_10	caber	ele/a (vc) | pretérito	coube
-40_11	caber	nós | pretérito	coubemos
-40_12	caber	eles/as (vcs) | pretérito	couberam
-40_13	caber	eu | condicional	caberia
-40_14	caber	ele/a (vc) | condicional	caberia
-40_15	caber	nós | condicional	caberíamos
-40_16	caber	eles/as (vcs) | condicional	caberiam
-40_17	caber	ele/a (vc) | imperativo	caiba
-40_18	caber	nós | imperativo	caibamos
-40_19	caber	eles/as (vcs) | imperativo	caibam
-40_20	caber	| gerundo	cabendo
-40_21	caber	| particípio	cabido
-40_22	caber	eu | presente subjuntivo	caiba
-40_23	caber	ele/a (vc) | presente subjuntivo	caiba
-40_24	caber	nós | presente subjuntivo	caibamos
-40_25	caber	eles/as (vcs) | presente subjuntivo	caibam
-40_26	caber	eu | imperfeito subjuntivo	coubesse
-40_27	caber	ele/a (vc) | imperfeito subjuntivo	coubesse
-40_28	caber	nós | imperfeito subjuntivo	coubéssemos
-40_29	caber	eles/as (vcs) | imperfeito subjuntivo	coubessem
-40_30	caber	eu | futuro subjuntivo	couber
-40_31	caber	ele/a (vc) | futuro subjuntivo	couber
-40_32	caber	nós | futuro subjuntivo	coubermos
-40_33	caber	eles/as (vcs) | futuro subjuntivo	couberem
-40_34	caber	eu | pessoal infinitivo	caber
-40_35	caber	ele/a (vc) | pessoal infinitivo	caber
-40_36	caber	nós | pessoal infinitivo	cabermos
-40_37	caber	eles/as (vcs) | pessoal infinitivo	caberem
-41_1	valer	eu | presente	valho
-41_2	valer	ele/a (vc) | presente	vale
-41_3	valer	nós | presente	valemos
-41_4	valer	eles/as (vcs) | presente	valem
-41_5	valer	eu | imperfeito	valia
-41_6	valer	ele/a (vc) | imperfeito	valia
-41_7	valer	nós | imperfeito	valíamos
-41_8	valer	eles/as (vcs) | imperfeito	valiam
-41_9	valer	eu | pretérito	vali
-41_10	valer	ele/a (vc) | pretérito	valeu
-41_11	valer	nós | pretérito	valemos
-41_12	valer	eles/as (vcs) | pretérito	valeram
-41_13	valer	eu | condicional	valeria
-41_14	valer	ele/a (vc) | condicional	valeria
-41_15	valer	nós | condicional	valeríamos
-41_16	valer	eles/as (vcs) | condicional	valeriam
-41_17	valer	ele/a (vc) | imperativo	valha
-41_18	valer	nós | imperativo	valhamos
-41_19	valer	eles/as (vcs) | imperativo	valham
-41_20	valer	| gerundo	valendo
-41_21	valer	| particípio	valido
-41_22	valer	eu | presente subjuntivo	valha
-41_23	valer	ele/a (vc) | presente subjuntivo	valha
-41_24	valer	nós | presente subjuntivo	valhamos
-41_25	valer	eles/as (vcs) | presente subjuntivo	valham
-41_26	valer	eu | imperfeito subjuntivo	valesse
-41_27	valer	ele/a (vc) | imperfeito subjuntivo	valesse
-41_28	valer	nós | imperfeito subjuntivo	valêssemos
-41_29	valer	eles/as (vcs) | imperfeito subjuntivo	valessem
-41_30	valer	eu | futuro subjuntivo	valer
-41_31	valer	ele/a (vc) | futuro subjuntivo	valer
-41_32	valer	nós | futuro subjuntivo	valermos
-41_33	valer	eles/as (vcs) | futuro subjuntivo	valerem
-41_34	valer	eu | pessoal infinitivo	valer
-41_35	valer	ele/a (vc) | pessoal infinitivo	valer
-41_36	valer	nós | pessoal infinitivo	valermos
-41_37	valer	eles/as (vcs) | pessoal infinitivo	valerem
+8_1	ser	eu | presente	sou	I talk
+8_2	ser	ele/a (vc) | presente	é	he talks
+8_3	ser	nós | presente	somos	we talk
+8_4	ser	eles/as (vcs) | presente	são	they talk
+8_5	ser	eu | imperfeito	era	I used to talk
+8_6	ser	ele/a (vc) | imperfeito	era	he used to talk
+8_7	ser	nós | imperfeito	éramos	we used to talk
+8_8	ser	eles/as (vcs) | imperfeito	eram	they used to talk
+8_9	ser	eu | pretérito	fui	I talked
+8_10	ser	ele/a (vc) | pretérito	foi	he talked
+8_11	ser	nós | pretérito	fomos	we talked
+8_12	ser	eles/as (vcs) | pretérito	foram	they talked
+8_13	ser	eu | condicional	seria	I would talk
+8_14	ser	ele/a (vc) | condicional	seria	he would talk
+8_15	ser	nós | condicional	seríamos	we would talk
+8_16	ser	eles/as (vcs) | condicional	seriam	they would talk
+8_17	ser	ele/a (vc) | imperativo	seja	talk!
+8_18	ser	nós | imperativo	sejamos	talk!
+8_19	ser	eles/as (vcs) | imperativo	sejam	talk!
+8_20	ser	| gerundo	sendo	talking
+8_21	ser	| particípio	sido	talked
+8_22	ser	eu | presente subjuntivo	seja	(that) I talk
+8_23	ser	ele/a (vc) | presente subjuntivo	seja	(that) he talk
+8_24	ser	nós | presente subjuntivo	sejamos	(that) we talk
+8_25	ser	eles/as (vcs) | presente subjuntivo	sejam	(that) they talk
+8_26	ser	eu | imperfeito subjuntivo	fosse	(if) I talked
+8_27	ser	ele/a (vc) | imperfeito subjuntivo	fosse	(if) he talked
+8_28	ser	nós | imperfeito subjuntivo	fôssemos	(if) we talked
+8_29	ser	eles/as (vcs) | imperfeito subjuntivo	fossem	(if) they talked
+8_30	ser	eu | futuro subjuntivo	for	if/when I talk
+8_31	ser	ele/a (vc) | futuro subjuntivo	for	if/when he talks
+8_32	ser	nós | futuro subjuntivo	formos	if/when we talk
+8_33	ser	eles/as (vcs) | futuro subjuntivo	forem	if/when they talk
+8_34	ser	eu | pessoal infinitivo	ser	for me to talk
+8_35	ser	ele/a (vc) | pessoal infinitivo	ser	for him to talk
+8_36	ser	nós | pessoal infinitivo	sermos	for us to talk
+8_37	ser	eles/as (vcs) | pessoal infinitivo	serem	for them to talk
+9_1	estar	eu | presente	estou	I talk
+9_2	estar	ele/a (vc) | presente	está	he talks
+9_3	estar	nós | presente	estamos	we talk
+9_4	estar	eles/as (vcs) | presente	estão	they talk
+9_5	estar	eu | imperfeito	estava	I used to talk
+9_6	estar	ele/a (vc) | imperfeito	estava	he used to talk
+9_7	estar	nós | imperfeito	estávamos	we used to talk
+9_8	estar	eles/as (vcs) | imperfeito	estavam	they used to talk
+9_9	estar	eu | pretérito	estive	I talked
+9_10	estar	ele/a (vc) | pretérito	esteve	he talked
+9_11	estar	nós | pretérito	estivemos	we talked
+9_12	estar	eles/as (vcs) | pretérito	estiveram	they talked
+9_13	estar	eu | condicional	estaria	I would talk
+9_14	estar	ele/a (vc) | condicional	estaria	he would talk
+9_15	estar	nós | condicional	estaríamos	we would talk
+9_16	estar	eles/as (vcs) | condicional	estariam	they would talk
+9_17	estar	ele/a (vc) | imperativo	esteja	talk!
+9_18	estar	nós | imperativo	estejamos	talk!
+9_19	estar	eles/as (vcs) | imperativo	estejam	talk!
+9_20	estar	| gerundo	estando	talking
+9_21	estar	| particípio	estado	talked
+9_22	estar	eu | presente subjuntivo	esteja	(that) I talk
+9_23	estar	ele/a (vc) | presente subjuntivo	esteja	(that) he talk
+9_24	estar	nós | presente subjuntivo	estejamos	(that) we talk
+9_25	estar	eles/as (vcs) | presente subjuntivo	estejam	(that) they talk
+9_26	estar	eu | imperfeito subjuntivo	estivesse	(if) I talked
+9_27	estar	ele/a (vc) | imperfeito subjuntivo	estivesse	(if) he talked
+9_28	estar	nós | imperfeito subjuntivo	estivéssemos	(if) we talked
+9_29	estar	eles/as (vcs) | imperfeito subjuntivo	estivessem	(if) they talked
+9_30	estar	eu | futuro subjuntivo	estiver	if/when I talk
+9_31	estar	ele/a (vc) | futuro subjuntivo	estiver	if/when he talks
+9_32	estar	nós | futuro subjuntivo	estivermos	if/when we talk
+9_33	estar	eles/as (vcs) | futuro subjuntivo	estiverem	if/when they talk
+9_34	estar	eu | pessoal infinitivo	estar	for me to talk
+9_35	estar	ele/a (vc) | pessoal infinitivo	estar	for him to talk
+9_36	estar	nós | pessoal infinitivo	estarmos	for us to talk
+9_37	estar	eles/as (vcs) | pessoal infinitivo	estarem	for them to talk
+10_1	ir	eu | presente	vou	I talk
+10_2	ir	ele/a (vc) | presente	vai	he talks
+10_3	ir	nós | presente	vamos	we talk
+10_4	ir	eles/as (vcs) | presente	vão	they talk
+10_5	ir	eu | imperfeito	ia	I used to talk
+10_6	ir	ele/a (vc) | imperfeito	ia	he used to talk
+10_7	ir	nós | imperfeito	íamos	we used to talk
+10_8	ir	eles/as (vcs) | imperfeito	iam	they used to talk
+10_9	ir	eu | pretérito	fui	I talked
+10_10	ir	ele/a (vc) | pretérito	foi	he talked
+10_11	ir	nós | pretérito	fomos	we talked
+10_12	ir	eles/as (vcs) | pretérito	foram	they talked
+10_13	ir	eu | condicional	iria	I would talk
+10_14	ir	ele/a (vc) | condicional	iria	he would talk
+10_15	ir	nós | condicional	iríamos	we would talk
+10_16	ir	eles/as (vcs) | condicional	iriam	they would talk
+10_17	ir	ele/a (vc) | imperativo	vá	talk!
+10_18	ir	nós | imperativo	vamos	talk!
+10_19	ir	eles/as (vcs) | imperativo	vão	talk!
+10_20	ir	| gerundo	indo	talking
+10_21	ir	| particípio	ido	talked
+10_22	ir	eu | presente subjuntivo	vá	(that) I talk
+10_23	ir	ele/a (vc) | presente subjuntivo	vá	(that) he talk
+10_24	ir	nós | presente subjuntivo	vamos	(that) we talk
+10_25	ir	eles/as (vcs) | presente subjuntivo	vão	(that) they talk
+10_26	ir	eu | imperfeito subjuntivo	fosse	(if) I talked
+10_27	ir	ele/a (vc) | imperfeito subjuntivo	fosse	(if) he talked
+10_28	ir	nós | imperfeito subjuntivo	fôssemos	(if) we talked
+10_29	ir	eles/as (vcs) | imperfeito subjuntivo	fossem	(if) they talked
+10_30	ir	eu | futuro subjuntivo	for	if/when I talk
+10_31	ir	ele/a (vc) | futuro subjuntivo	for	if/when he talks
+10_32	ir	nós | futuro subjuntivo	formos	if/when we talk
+10_33	ir	eles/as (vcs) | futuro subjuntivo	forem	if/when they talk
+10_34	ir	eu | pessoal infinitivo	ir	for me to talk
+10_35	ir	ele/a (vc) | pessoal infinitivo	ir	for him to talk
+10_36	ir	nós | pessoal infinitivo	irmos	for us to talk
+10_37	ir	eles/as (vcs) | pessoal infinitivo	irem	for them to talk
+11_1	dar	eu | presente	dou	I talk
+11_2	dar	ele/a (vc) | presente	dá	he talks
+11_3	dar	nós | presente	damos	we talk
+11_4	dar	eles/as (vcs) | presente	dão	they talk
+11_5	dar	eu | imperfeito	dava	I used to talk
+11_6	dar	ele/a (vc) | imperfeito	dava	he used to talk
+11_7	dar	nós | imperfeito	dávamos	we used to talk
+11_8	dar	eles/as (vcs) | imperfeito	davam	they used to talk
+11_9	dar	eu | pretérito	dei	I talked
+11_10	dar	ele/a (vc) | pretérito	deu	he talked
+11_11	dar	nós | pretérito	demos	we talked
+11_12	dar	eles/as (vcs) | pretérito	deram	they talked
+11_13	dar	eu | condicional	daria	I would talk
+11_14	dar	ele/a (vc) | condicional	daria	he would talk
+11_15	dar	nós | condicional	daríamos	we would talk
+11_16	dar	eles/as (vcs) | condicional	dariam	they would talk
+11_17	dar	ele/a (vc) | imperativo	dê	talk!
+11_18	dar	nós | imperativo	demos	talk!
+11_19	dar	eles/as (vcs) | imperativo	deem	talk!
+11_20	dar	| gerundo	dando	talking
+11_21	dar	| particípio	dado	talked
+11_22	dar	eu | presente subjuntivo	dê	(that) I talk
+11_23	dar	ele/a (vc) | presente subjuntivo	dê	(that) he talk
+11_24	dar	nós | presente subjuntivo	demos	(that) we talk
+11_25	dar	eles/as (vcs) | presente subjuntivo	deem	(that) they talk
+11_26	dar	eu | imperfeito subjuntivo	desse	(if) I talked
+11_27	dar	ele/a (vc) | imperfeito subjuntivo	desse	(if) he talked
+11_28	dar	nós | imperfeito subjuntivo	déssemos	(if) we talked
+11_29	dar	eles/as (vcs) | imperfeito subjuntivo	dessem	(if) they talked
+11_30	dar	eu | futuro subjuntivo	der	if/when I talk
+11_31	dar	ele/a (vc) | futuro subjuntivo	der	if/when he talks
+11_32	dar	nós | futuro subjuntivo	dermos	if/when we talk
+11_33	dar	eles/as (vcs) | futuro subjuntivo	derem	if/when they talk
+11_34	dar	eu | pessoal infinitivo	dar	for me to talk
+11_35	dar	ele/a (vc) | pessoal infinitivo	dar	for him to talk
+11_36	dar	nós | pessoal infinitivo	darmos	for us to talk
+11_37	dar	eles/as (vcs) | pessoal infinitivo	darem	for them to talk
+12_1	ver	eu | presente	vejo	I talk
+12_2	ver	ele/a (vc) | presente	vê	he talks
+12_3	ver	nós | presente	vemos	we talk
+12_4	ver	eles/as (vcs) | presente	veem	they talk
+12_5	ver	eu | imperfeito	via	I used to talk
+12_6	ver	ele/a (vc) | imperfeito	via	he used to talk
+12_7	ver	nós | imperfeito	víamos	we used to talk
+12_8	ver	eles/as (vcs) | imperfeito	viam	they used to talk
+12_9	ver	eu | pretérito	vi	I talked
+12_10	ver	ele/a (vc) | pretérito	viu	he talked
+12_11	ver	nós | pretérito	vimos	we talked
+12_12	ver	eles/as (vcs) | pretérito	viram	they talked
+12_13	ver	eu | condicional	veria	I would talk
+12_14	ver	ele/a (vc) | condicional	veria	he would talk
+12_15	ver	nós | condicional	veríamos	we would talk
+12_16	ver	eles/as (vcs) | condicional	veriam	they would talk
+12_17	ver	ele/a (vc) | imperativo	veja	talk!
+12_18	ver	nós | imperativo	vejamos	talk!
+12_19	ver	eles/as (vcs) | imperativo	vejam	talk!
+12_20	ver	| gerundo	vendo	talking
+12_21	ver	| particípio	visto	talked
+12_22	ver	eu | presente subjuntivo	veja	(that) I talk
+12_23	ver	ele/a (vc) | presente subjuntivo	veja	(that) he talk
+12_24	ver	nós | presente subjuntivo	vejamos	(that) we talk
+12_25	ver	eles/as (vcs) | presente subjuntivo	vejam	(that) they talk
+12_26	ver	eu | imperfeito subjuntivo	visse	(if) I talked
+12_27	ver	ele/a (vc) | imperfeito subjuntivo	visse	(if) he talked
+12_28	ver	nós | imperfeito subjuntivo	víssemos	(if) we talked
+12_29	ver	eles/as (vcs) | imperfeito subjuntivo	vissem	(if) they talked
+12_30	ver	eu | futuro subjuntivo	vir	if/when I talk
+12_31	ver	ele/a (vc) | futuro subjuntivo	vir	if/when he talks
+12_32	ver	nós | futuro subjuntivo	virmos	if/when we talk
+12_33	ver	eles/as (vcs) | futuro subjuntivo	virem	if/when they talk
+12_34	ver	eu | pessoal infinitivo	ver	for me to talk
+12_35	ver	ele/a (vc) | pessoal infinitivo	ver	for him to talk
+12_36	ver	nós | pessoal infinitivo	vermos	for us to talk
+12_37	ver	eles/as (vcs) | pessoal infinitivo	verem	for them to talk
+13_1	ter	eu | presente	tenho	I talk
+13_2	ter	ele/a (vc) | presente	tem	he talks
+13_3	ter	nós | presente	temos	we talk
+13_4	ter	eles/as (vcs) | presente	têm	they talk
+13_5	ter	eu | imperfeito	tinha	I used to talk
+13_6	ter	ele/a (vc) | imperfeito	tinha	he used to talk
+13_7	ter	nós | imperfeito	tínhamos	we used to talk
+13_8	ter	eles/as (vcs) | imperfeito	tinham	they used to talk
+13_9	ter	eu | pretérito	tive	I talked
+13_10	ter	ele/a (vc) | pretérito	teve	he talked
+13_11	ter	nós | pretérito	tivemos	we talked
+13_12	ter	eles/as (vcs) | pretérito	tiveram	they talked
+13_13	ter	eu | condicional	teria	I would talk
+13_14	ter	ele/a (vc) | condicional	teria	he would talk
+13_15	ter	nós | condicional	teríamos	we would talk
+13_16	ter	eles/as (vcs) | condicional	teriam	they would talk
+13_17	ter	ele/a (vc) | imperativo	tenha	talk!
+13_18	ter	nós | imperativo	tenhamos	talk!
+13_19	ter	eles/as (vcs) | imperativo	tenham	talk!
+13_20	ter	| gerundo	tendo	talking
+13_21	ter	| particípio	tido	talked
+13_22	ter	eu | presente subjuntivo	tenha	(that) I talk
+13_23	ter	ele/a (vc) | presente subjuntivo	tenha	(that) he talk
+13_24	ter	nós | presente subjuntivo	tenhamos	(that) we talk
+13_25	ter	eles/as (vcs) | presente subjuntivo	tenham	(that) they talk
+13_26	ter	eu | imperfeito subjuntivo	tivesse	(if) I talked
+13_27	ter	ele/a (vc) | imperfeito subjuntivo	tivesse	(if) he talked
+13_28	ter	nós | imperfeito subjuntivo	tivéssemos	(if) we talked
+13_29	ter	eles/as (vcs) | imperfeito subjuntivo	tivessem	(if) they talked
+13_30	ter	eu | futuro subjuntivo	tiver	if/when I talk
+13_31	ter	ele/a (vc) | futuro subjuntivo	tiver	if/when he talks
+13_32	ter	nós | futuro subjuntivo	tivermos	if/when we talk
+13_33	ter	eles/as (vcs) | futuro subjuntivo	tiverem	if/when they talk
+13_34	ter	eu | pessoal infinitivo	ter	for me to talk
+13_35	ter	ele/a (vc) | pessoal infinitivo	ter	for him to talk
+13_36	ter	nós | pessoal infinitivo	termos	for us to talk
+13_37	ter	eles/as (vcs) | pessoal infinitivo	terem	for them to talk
+14_1	vir	eu | presente	venho	I talk
+14_2	vir	ele/a (vc) | presente	vem	he talks
+14_3	vir	nós | presente	vimos	we talk
+14_4	vir	eles/as (vcs) | presente	vêm	they talk
+14_5	vir	eu | imperfeito	vinha	I used to talk
+14_6	vir	ele/a (vc) | imperfeito	vinha	he used to talk
+14_7	vir	nós | imperfeito	vínhamos	we used to talk
+14_8	vir	eles/as (vcs) | imperfeito	vinham	they used to talk
+14_9	vir	eu | pretérito	vim	I talked
+14_10	vir	ele/a (vc) | pretérito	veio	he talked
+14_11	vir	nós | pretérito	viemos	we talked
+14_12	vir	eles/as (vcs) | pretérito	vieram	they talked
+14_13	vir	eu | condicional	viria	I would talk
+14_14	vir	ele/a (vc) | condicional	viria	he would talk
+14_15	vir	nós | condicional	viríamos	we would talk
+14_16	vir	eles/as (vcs) | condicional	viriam	they would talk
+14_17	vir	ele/a (vc) | imperativo	venha	talk!
+14_18	vir	nós | imperativo	venhamos	talk!
+14_19	vir	eles/as (vcs) | imperativo	venham	talk!
+14_20	vir	| gerundo	vindo	talking
+14_21	vir	| particípio	vindo	talked
+14_22	vir	eu | presente subjuntivo	venha	(that) I talk
+14_23	vir	ele/a (vc) | presente subjuntivo	venha	(that) he talk
+14_24	vir	nós | presente subjuntivo	venhamos	(that) we talk
+14_25	vir	eles/as (vcs) | presente subjuntivo	venham	(that) they talk
+14_26	vir	eu | imperfeito subjuntivo	viesse	(if) I talked
+14_27	vir	ele/a (vc) | imperfeito subjuntivo	viesse	(if) he talked
+14_28	vir	nós | imperfeito subjuntivo	viéssemos	(if) we talked
+14_29	vir	eles/as (vcs) | imperfeito subjuntivo	viessem	(if) they talked
+14_30	vir	eu | futuro subjuntivo	vier	if/when I talk
+14_31	vir	ele/a (vc) | futuro subjuntivo	vier	if/when he talks
+14_32	vir	nós | futuro subjuntivo	viermos	if/when we talk
+14_33	vir	eles/as (vcs) | futuro subjuntivo	vierem	if/when they talk
+14_34	vir	eu | pessoal infinitivo	vir	for me to talk
+14_35	vir	ele/a (vc) | pessoal infinitivo	vir	for him to talk
+14_36	vir	nós | pessoal infinitivo	virmos	for us to talk
+14_37	vir	eles/as (vcs) | pessoal infinitivo	virem	for them to talk
+15_1	saber	eu | presente	sei	I talk
+15_2	saber	ele/a (vc) | presente	sabe	he talks
+15_3	saber	nós | presente	sabemos	we talk
+15_4	saber	eles/as (vcs) | presente	sabem	they talk
+15_5	saber	eu | imperfeito	sabia	I used to talk
+15_6	saber	ele/a (vc) | imperfeito	sabia	he used to talk
+15_7	saber	nós | imperfeito	sabíamos	we used to talk
+15_8	saber	eles/as (vcs) | imperfeito	sabiam	they used to talk
+15_9	saber	eu | pretérito	soube	I talked
+15_10	saber	ele/a (vc) | pretérito	soube	he talked
+15_11	saber	nós | pretérito	soubemos	we talked
+15_12	saber	eles/as (vcs) | pretérito	souberam	they talked
+15_13	saber	eu | condicional	saberia	I would talk
+15_14	saber	ele/a (vc) | condicional	saberia	he would talk
+15_15	saber	nós | condicional	saberíamos	we would talk
+15_16	saber	eles/as (vcs) | condicional	saberiam	they would talk
+15_17	saber	ele/a (vc) | imperativo	saiba	talk!
+15_18	saber	nós | imperativo	saibamos	talk!
+15_19	saber	eles/as (vcs) | imperativo	saibam	talk!
+15_20	saber	| gerundo	sabendo	talking
+15_21	saber	| particípio	sabido	talked
+15_22	saber	eu | presente subjuntivo	saiba	(that) I talk
+15_23	saber	ele/a (vc) | presente subjuntivo	saiba	(that) he talk
+15_24	saber	nós | presente subjuntivo	saibamos	(that) we talk
+15_25	saber	eles/as (vcs) | presente subjuntivo	saibam	(that) they talk
+15_26	saber	eu | imperfeito subjuntivo	soubesse	(if) I talked
+15_27	saber	ele/a (vc) | imperfeito subjuntivo	soubesse	(if) he talked
+15_28	saber	nós | imperfeito subjuntivo	soubéssemos	(if) we talked
+15_29	saber	eles/as (vcs) | imperfeito subjuntivo	soubessem	(if) they talked
+15_30	saber	eu | futuro subjuntivo	souber	if/when I talk
+15_31	saber	ele/a (vc) | futuro subjuntivo	souber	if/when he talks
+15_32	saber	nós | futuro subjuntivo	soubermos	if/when we talk
+15_33	saber	eles/as (vcs) | futuro subjuntivo	souberem	if/when they talk
+15_34	saber	eu | pessoal infinitivo	saber	for me to talk
+15_35	saber	ele/a (vc) | pessoal infinitivo	saber	for him to talk
+15_36	saber	nós | pessoal infinitivo	sabermos	for us to talk
+15_37	saber	eles/as (vcs) | pessoal infinitivo	saberem	for them to talk
+16_1	conhecer	eu | presente	conheço	I talk
+16_2	conhecer	ele/a (vc) | presente	conhece	he talks
+16_3	conhecer	nós | presente	conhecemos	we talk
+16_4	conhecer	eles/as (vcs) | presente	conhecem	they talk
+16_5	conhecer	eu | imperfeito	conhecia	I used to talk
+16_6	conhecer	ele/a (vc) | imperfeito	conhecia	he used to talk
+16_7	conhecer	nós | imperfeito	conhecíamos	we used to talk
+16_8	conhecer	eles/as (vcs) | imperfeito	conheciam	they used to talk
+16_9	conhecer	eu | pretérito	conheci	I talked
+16_10	conhecer	ele/a (vc) | pretérito	conheceu	he talked
+16_11	conhecer	nós | pretérito	conhecemos	we talked
+16_12	conhecer	eles/as (vcs) | pretérito	conheceram	they talked
+16_13	conhecer	eu | condicional	conheceria	I would talk
+16_14	conhecer	ele/a (vc) | condicional	conheceria	he would talk
+16_15	conhecer	nós | condicional	conheceríamos	we would talk
+16_16	conhecer	eles/as (vcs) | condicional	conheceriam	they would talk
+16_17	conhecer	ele/a (vc) | imperativo	conheça	talk!
+16_18	conhecer	nós | imperativo	conheçamos	talk!
+16_19	conhecer	eles/as (vcs) | imperativo	conheçam	talk!
+16_20	conhecer	| gerundo	conhecendo	talking
+16_21	conhecer	| particípio	conhecido	talked
+16_22	conhecer	eu | presente subjuntivo	conheça	(that) I talk
+16_23	conhecer	ele/a (vc) | presente subjuntivo	conheça	(that) he talk
+16_24	conhecer	nós | presente subjuntivo	conheçamos	(that) we talk
+16_25	conhecer	eles/as (vcs) | presente subjuntivo	conheçam	(that) they talk
+16_26	conhecer	eu | imperfeito subjuntivo	conhecesse	(if) I talked
+16_27	conhecer	ele/a (vc) | imperfeito subjuntivo	conhecesse	(if) he talked
+16_28	conhecer	nós | imperfeito subjuntivo	conhecêssemos	(if) we talked
+16_29	conhecer	eles/as (vcs) | imperfeito subjuntivo	conhecessem	(if) they talked
+16_30	conhecer	eu | futuro subjuntivo	conhecer	if/when I talk
+16_31	conhecer	ele/a (vc) | futuro subjuntivo	conhecer	if/when he talks
+16_32	conhecer	nós | futuro subjuntivo	conhecermos	if/when we talk
+16_33	conhecer	eles/as (vcs) | futuro subjuntivo	conhecerem	if/when they talk
+16_34	conhecer	eu | pessoal infinitivo	conhecer	for me to talk
+16_35	conhecer	ele/a (vc) | pessoal infinitivo	conhecer	for him to talk
+16_36	conhecer	nós | pessoal infinitivo	conhecermos	for us to talk
+16_37	conhecer	eles/as (vcs) | pessoal infinitivo	conhecerem	for them to talk
+17_1	poder	eu | presente	posso	I talk
+17_2	poder	ele/a (vc) | presente	pode	he talks
+17_3	poder	nós | presente	podemos	we talk
+17_4	poder	eles/as (vcs) | presente	podem	they talk
+17_5	poder	eu | imperfeito	podia	I used to talk
+17_6	poder	ele/a (vc) | imperfeito	podia	he used to talk
+17_7	poder	nós | imperfeito	podíamos	we used to talk
+17_8	poder	eles/as (vcs) | imperfeito	podiam	they used to talk
+17_9	poder	eu | pretérito	pude	I talked
+17_10	poder	ele/a (vc) | pretérito	pôde	he talked
+17_11	poder	nós | pretérito	pudemos	we talked
+17_12	poder	eles/as (vcs) | pretérito	puderam	they talked
+17_13	poder	eu | condicional	poderia	I would talk
+17_14	poder	ele/a (vc) | condicional	poderia	he would talk
+17_15	poder	nós | condicional	poderíamos	we would talk
+17_16	poder	eles/as (vcs) | condicional	poderiam	they would talk
+17_17	poder	ele/a (vc) | imperativo	possa	talk!
+17_18	poder	nós | imperativo	possamos	talk!
+17_19	poder	eles/as (vcs) | imperativo	possam	talk!
+17_20	poder	| gerundo	podendo	talking
+17_21	poder	| particípio	podido	talked
+17_22	poder	eu | presente subjuntivo	possa	(that) I talk
+17_23	poder	ele/a (vc) | presente subjuntivo	possa	(that) he talk
+17_24	poder	nós | presente subjuntivo	possamos	(that) we talk
+17_25	poder	eles/as (vcs) | presente subjuntivo	possam	(that) they talk
+17_26	poder	eu | imperfeito subjuntivo	pudesse	(if) I talked
+17_27	poder	ele/a (vc) | imperfeito subjuntivo	pudesse	(if) he talked
+17_28	poder	nós | imperfeito subjuntivo	pudéssemos	(if) we talked
+17_29	poder	eles/as (vcs) | imperfeito subjuntivo	pudessem	(if) they talked
+17_30	poder	eu | futuro subjuntivo	puder	if/when I talk
+17_31	poder	ele/a (vc) | futuro subjuntivo	puder	if/when he talks
+17_32	poder	nós | futuro subjuntivo	pudermos	if/when we talk
+17_33	poder	eles/as (vcs) | futuro subjuntivo	puderem	if/when they talk
+17_34	poder	eu | pessoal infinitivo	poder	for me to talk
+17_35	poder	ele/a (vc) | pessoal infinitivo	poder	for him to talk
+17_36	poder	nós | pessoal infinitivo	podermos	for us to talk
+17_37	poder	eles/as (vcs) | pessoal infinitivo	poderem	for them to talk
+18_1	ouvir	eu | presente	ouço	I talk
+18_2	ouvir	ele/a (vc) | presente	ouve	he talks
+18_3	ouvir	nós | presente	ouvimos	we talk
+18_4	ouvir	eles/as (vcs) | presente	ouvem	they talk
+18_5	ouvir	eu | imperfeito	ouvia	I used to talk
+18_6	ouvir	ele/a (vc) | imperfeito	ouvia	he used to talk
+18_7	ouvir	nós | imperfeito	ouvíamos	we used to talk
+18_8	ouvir	eles/as (vcs) | imperfeito	ouviam	they used to talk
+18_9	ouvir	eu | pretérito	ouvi	I talked
+18_10	ouvir	ele/a (vc) | pretérito	ouviu	he talked
+18_11	ouvir	nós | pretérito	ouvimos	we talked
+18_12	ouvir	eles/as (vcs) | pretérito	ouviram	they talked
+18_13	ouvir	eu | condicional	ouviria	I would talk
+18_14	ouvir	ele/a (vc) | condicional	ouviria	he would talk
+18_15	ouvir	nós | condicional	ouviríamos	we would talk
+18_16	ouvir	eles/as (vcs) | condicional	ouviriam	they would talk
+18_17	ouvir	ele/a (vc) | imperativo	ouça	talk!
+18_18	ouvir	nós | imperativo	ouçamos	talk!
+18_19	ouvir	eles/as (vcs) | imperativo	ouçam	talk!
+18_20	ouvir	| gerundo	ouvindo	talking
+18_21	ouvir	| particípio	ouvido	talked
+18_22	ouvir	eu | presente subjuntivo	ouça	(that) I talk
+18_23	ouvir	ele/a (vc) | presente subjuntivo	ouça	(that) he talk
+18_24	ouvir	nós | presente subjuntivo	ouçamos	(that) we talk
+18_25	ouvir	eles/as (vcs) | presente subjuntivo	ouçam	(that) they talk
+18_26	ouvir	eu | imperfeito subjuntivo	ouvisse	(if) I talked
+18_27	ouvir	ele/a (vc) | imperfeito subjuntivo	ouvisse	(if) he talked
+18_28	ouvir	nós | imperfeito subjuntivo	ouvíssemos	(if) we talked
+18_29	ouvir	eles/as (vcs) | imperfeito subjuntivo	ouvissem	(if) they talked
+18_30	ouvir	eu | futuro subjuntivo	ouvir	if/when I talk
+18_31	ouvir	ele/a (vc) | futuro subjuntivo	ouvir	if/when he talks
+18_32	ouvir	nós | futuro subjuntivo	ouvirmos	if/when we talk
+18_33	ouvir	eles/as (vcs) | futuro subjuntivo	ouvirem	if/when they talk
+18_34	ouvir	eu | pessoal infinitivo	ouvir	for me to talk
+18_35	ouvir	ele/a (vc) | pessoal infinitivo	ouvir	for him to talk
+18_36	ouvir	nós | pessoal infinitivo	ouvirmos	for us to talk
+18_37	ouvir	eles/as (vcs) | pessoal infinitivo	ouvirem	for them to talk
+19_1	ler	eu | presente	leio	I talk
+19_2	ler	ele/a (vc) | presente	lê	he talks
+19_3	ler	nós | presente	lemos	we talk
+19_4	ler	eles/as (vcs) | presente	leem	they talk
+19_5	ler	eu | imperfeito	lia	I used to talk
+19_6	ler	ele/a (vc) | imperfeito	lia	he used to talk
+19_7	ler	nós | imperfeito	líamos	we used to talk
+19_8	ler	eles/as (vcs) | imperfeito	liam	they used to talk
+19_9	ler	eu | pretérito	li	I talked
+19_10	ler	ele/a (vc) | pretérito	leu	he talked
+19_11	ler	nós | pretérito	lemos	we talked
+19_12	ler	eles/as (vcs) | pretérito	leram	they talked
+19_13	ler	eu | condicional	leria	I would talk
+19_14	ler	ele/a (vc) | condicional	leria	he would talk
+19_15	ler	nós | condicional	leríamos	we would talk
+19_16	ler	eles/as (vcs) | condicional	leriam	they would talk
+19_17	ler	ele/a (vc) | imperativo	leia	talk!
+19_18	ler	nós | imperativo	leiamos	talk!
+19_19	ler	eles/as (vcs) | imperativo	leiam	talk!
+19_20	ler	| gerundo	lendo	talking
+19_21	ler	| particípio	lido	talked
+19_22	ler	eu | presente subjuntivo	leia	(that) I talk
+19_23	ler	ele/a (vc) | presente subjuntivo	leia	(that) he talk
+19_24	ler	nós | presente subjuntivo	leiamos	(that) we talk
+19_25	ler	eles/as (vcs) | presente subjuntivo	leiam	(that) they talk
+19_26	ler	eu | imperfeito subjuntivo	lesse	(if) I talked
+19_27	ler	ele/a (vc) | imperfeito subjuntivo	lesse	(if) he talked
+19_28	ler	nós | imperfeito subjuntivo	lêssemos	(if) we talked
+19_29	ler	eles/as (vcs) | imperfeito subjuntivo	lessem	(if) they talked
+19_30	ler	eu | futuro subjuntivo	ler	if/when I talk
+19_31	ler	ele/a (vc) | futuro subjuntivo	ler	if/when he talks
+19_32	ler	nós | futuro subjuntivo	lermos	if/when we talk
+19_33	ler	eles/as (vcs) | futuro subjuntivo	lerem	if/when they talk
+19_34	ler	eu | pessoal infinitivo	ler	for me to talk
+19_35	ler	ele/a (vc) | pessoal infinitivo	ler	for him to talk
+19_36	ler	nós | pessoal infinitivo	lermos	for us to talk
+19_37	ler	eles/as (vcs) | pessoal infinitivo	lerem	for them to talk
+20_1	querer	eu | presente	quero	I talk
+20_2	querer	ele/a (vc) | presente	quer	he talks
+20_3	querer	nós | presente	queremos	we talk
+20_4	querer	eles/as (vcs) | presente	querem	they talk
+20_5	querer	eu | imperfeito	queria	I used to talk
+20_6	querer	ele/a (vc) | imperfeito	queria	he used to talk
+20_7	querer	nós | imperfeito	queríamos	we used to talk
+20_8	querer	eles/as (vcs) | imperfeito	queriam	they used to talk
+20_9	querer	eu | pretérito	quis	I talked
+20_10	querer	ele/a (vc) | pretérito	quis	he talked
+20_11	querer	nós | pretérito	quisemos	we talked
+20_12	querer	eles/as (vcs) | pretérito	quiseram	they talked
+20_13	querer	eu | condicional	quereria	I would talk
+20_14	querer	ele/a (vc) | condicional	quereria	he would talk
+20_15	querer	nós | condicional	quereríamos	we would talk
+20_16	querer	eles/as (vcs) | condicional	quereriam	they would talk
+20_17	querer	ele/a (vc) | imperativo	queira	talk!
+20_18	querer	nós | imperativo	queiramos	talk!
+20_19	querer	eles/as (vcs) | imperativo	queiram	talk!
+20_20	querer	| gerundo	querendo	talking
+20_21	querer	| particípio	querido	talked
+20_22	querer	eu | presente subjuntivo	queira	(that) I talk
+20_23	querer	ele/a (vc) | presente subjuntivo	queira	(that) he talk
+20_24	querer	nós | presente subjuntivo	queiramos	(that) we talk
+20_25	querer	eles/as (vcs) | presente subjuntivo	queiram	(that) they talk
+20_26	querer	eu | imperfeito subjuntivo	quisesse	(if) I talked
+20_27	querer	ele/a (vc) | imperfeito subjuntivo	quisesse	(if) he talked
+20_28	querer	nós | imperfeito subjuntivo	quiséssemos	(if) we talked
+20_29	querer	eles/as (vcs) | imperfeito subjuntivo	quisessem	(if) they talked
+20_30	querer	eu | futuro subjuntivo	quiser	if/when I talk
+20_31	querer	ele/a (vc) | futuro subjuntivo	quiser	if/when he talks
+20_32	querer	nós | futuro subjuntivo	quisermos	if/when we talk
+20_33	querer	eles/as (vcs) | futuro subjuntivo	quiserem	if/when they talk
+20_34	querer	eu | pessoal infinitivo	querer	for me to talk
+20_35	querer	ele/a (vc) | pessoal infinitivo	querer	for him to talk
+20_36	querer	nós | pessoal infinitivo	querermos	for us to talk
+20_37	querer	eles/as (vcs) | pessoal infinitivo	quererem	for them to talk
+21_1	requerer	eu | presente	requeiro	I talk
+21_2	requerer	ele/a (vc) | presente	requer	he talks
+21_3	requerer	nós | presente	requeremos	we talk
+21_4	requerer	eles/as (vcs) | presente	requerem	they talk
+21_5	requerer	eu | imperfeito	requeria	I used to talk
+21_6	requerer	ele/a (vc) | imperfeito	requeria	he used to talk
+21_7	requerer	nós | imperfeito	requeríamos	we used to talk
+21_8	requerer	eles/as (vcs) | imperfeito	requeriam	they used to talk
+21_9	requerer	eu | pretérito	requeri	I talked
+21_10	requerer	ele/a (vc) | pretérito	requereu	he talked
+21_11	requerer	nós | pretérito	requeremos	we talked
+21_12	requerer	eles/as (vcs) | pretérito	requereram	they talked
+21_13	requerer	eu | condicional	requereria	I would talk
+21_14	requerer	ele/a (vc) | condicional	requereria	he would talk
+21_15	requerer	nós | condicional	requereríamos	we would talk
+21_16	requerer	eles/as (vcs) | condicional	requereriam	they would talk
+21_17	requerer	ele/a (vc) | imperativo	requeira	talk!
+21_18	requerer	nós | imperativo	requeiramos	talk!
+21_19	requerer	eles/as (vcs) | imperativo	requeiram	talk!
+21_20	requerer	| gerundo	requerendo	talking
+21_21	requerer	| particípio	requerido	talked
+21_22	requerer	eu | presente subjuntivo	requeira	(that) I talk
+21_23	requerer	ele/a (vc) | presente subjuntivo	requeira	(that) he talk
+21_24	requerer	nós | presente subjuntivo	requeiramos	(that) we talk
+21_25	requerer	eles/as (vcs) | presente subjuntivo	requeiram	(that) they talk
+21_26	requerer	eu | imperfeito subjuntivo	requeresse	(if) I talked
+21_27	requerer	ele/a (vc) | imperfeito subjuntivo	requeresse	(if) he talked
+21_28	requerer	nós | imperfeito subjuntivo	requerêssemos	(if) we talked
+21_29	requerer	eles/as (vcs) | imperfeito subjuntivo	requeressem	(if) they talked
+21_30	requerer	eu | futuro subjuntivo	requerer	if/when I talk
+21_31	requerer	ele/a (vc) | futuro subjuntivo	requerer	if/when he talks
+21_32	requerer	nós | futuro subjuntivo	requerermos	if/when we talk
+21_33	requerer	eles/as (vcs) | futuro subjuntivo	requererem	if/when they talk
+21_34	requerer	eu | pessoal infinitivo	requerer	for me to talk
+21_35	requerer	ele/a (vc) | pessoal infinitivo	requerer	for him to talk
+21_36	requerer	nós | pessoal infinitivo	requerermos	for us to talk
+21_37	requerer	eles/as (vcs) | pessoal infinitivo	requererem	for them to talk
+22_1	rir	eu | presente	rio	I talk
+22_2	rir	ele/a (vc) | presente	ri	he talks
+22_3	rir	nós | presente	rimos	we talk
+22_4	rir	eles/as (vcs) | presente	riem	they talk
+22_5	rir	eu | imperfeito	ria	I used to talk
+22_6	rir	ele/a (vc) | imperfeito	ria	he used to talk
+22_7	rir	nós | imperfeito	ríamos	we used to talk
+22_8	rir	eles/as (vcs) | imperfeito	riam	they used to talk
+22_9	rir	eu | pretérito	ri	I talked
+22_10	rir	ele/a (vc) | pretérito	riu	he talked
+22_11	rir	nós | pretérito	rimos	we talked
+22_12	rir	eles/as (vcs) | pretérito	riram	they talked
+22_13	rir	eu | condicional	riria	I would talk
+22_14	rir	ele/a (vc) | condicional	riria	he would talk
+22_15	rir	nós | condicional	riríamos	we would talk
+22_16	rir	eles/as (vcs) | condicional	ririam	they would talk
+22_17	rir	ele/a (vc) | imperativo	ria	talk!
+22_18	rir	nós | imperativo	riamos	talk!
+22_19	rir	eles/as (vcs) | imperativo	riam	talk!
+22_20	rir	| gerundo	rindo	talking
+22_21	rir	| particípio	rido	talked
+22_22	rir	eu | presente subjuntivo	ria	(that) I talk
+22_23	rir	ele/a (vc) | presente subjuntivo	ria	(that) he talk
+22_24	rir	nós | presente subjuntivo	riamos	(that) we talk
+22_25	rir	eles/as (vcs) | presente subjuntivo	riam	(that) they talk
+22_26	rir	eu | imperfeito subjuntivo	risse	(if) I talked
+22_27	rir	ele/a (vc) | imperfeito subjuntivo	risse	(if) he talked
+22_28	rir	nós | imperfeito subjuntivo	ríssemos	(if) we talked
+22_29	rir	eles/as (vcs) | imperfeito subjuntivo	rissem	(if) they talked
+22_30	rir	eu | futuro subjuntivo	rir	if/when I talk
+22_31	rir	ele/a (vc) | futuro subjuntivo	rir	if/when he talks
+22_32	rir	nós | futuro subjuntivo	rirmos	if/when we talk
+22_33	rir	eles/as (vcs) | futuro subjuntivo	rirem	if/when they talk
+22_34	rir	eu | pessoal infinitivo	rir	for me to talk
+22_35	rir	ele/a (vc) | pessoal infinitivo	rir	for him to talk
+22_36	rir	nós | pessoal infinitivo	rirmos	for us to talk
+22_37	rir	eles/as (vcs) | pessoal infinitivo	rirem	for them to talk
+23_1	sorrir	eu | presente	sorrio	I talk
+23_2	sorrir	ele/a (vc) | presente	sorri	he talks
+23_3	sorrir	nós | presente	sorrimos	we talk
+23_4	sorrir	eles/as (vcs) | presente	sorriem	they talk
+23_5	sorrir	eu | imperfeito	sorria	I used to talk
+23_6	sorrir	ele/a (vc) | imperfeito	sorria	he used to talk
+23_7	sorrir	nós | imperfeito	sorríamos	we used to talk
+23_8	sorrir	eles/as (vcs) | imperfeito	sorriam	they used to talk
+23_9	sorrir	eu | pretérito	sorri	I talked
+23_10	sorrir	ele/a (vc) | pretérito	sorriu	he talked
+23_11	sorrir	nós | pretérito	sorrimos	we talked
+23_12	sorrir	eles/as (vcs) | pretérito	sorriram	they talked
+23_13	sorrir	eu | condicional	sorriria	I would talk
+23_14	sorrir	ele/a (vc) | condicional	sorriria	he would talk
+23_15	sorrir	nós | condicional	sorriríamos	we would talk
+23_16	sorrir	eles/as (vcs) | condicional	sorririam	they would talk
+23_17	sorrir	ele/a (vc) | imperativo	sorria	talk!
+23_18	sorrir	nós | imperativo	sorriamos	talk!
+23_19	sorrir	eles/as (vcs) | imperativo	sorriam	talk!
+23_20	sorrir	| gerundo	sorrindo	talking
+23_21	sorrir	| particípio	sorrido	talked
+23_22	sorrir	eu | presente subjuntivo	sorria	(that) I talk
+23_23	sorrir	ele/a (vc) | presente subjuntivo	sorria	(that) he talk
+23_24	sorrir	nós | presente subjuntivo	sorriamos	(that) we talk
+23_25	sorrir	eles/as (vcs) | presente subjuntivo	sorriam	(that) they talk
+23_26	sorrir	eu | imperfeito subjuntivo	sorrisse	(if) I talked
+23_27	sorrir	ele/a (vc) | imperfeito subjuntivo	sorrisse	(if) he talked
+23_28	sorrir	nós | imperfeito subjuntivo	sorríssemos	(if) we talked
+23_29	sorrir	eles/as (vcs) | imperfeito subjuntivo	sorrissem	(if) they talked
+23_30	sorrir	eu | futuro subjuntivo	sorrir	if/when I talk
+23_31	sorrir	ele/a (vc) | futuro subjuntivo	sorrir	if/when he talks
+23_32	sorrir	nós | futuro subjuntivo	sorrirmos	if/when we talk
+23_33	sorrir	eles/as (vcs) | futuro subjuntivo	sorrirem	if/when they talk
+23_34	sorrir	eu | pessoal infinitivo	sorrir	for me to talk
+23_35	sorrir	ele/a (vc) | pessoal infinitivo	sorrir	for him to talk
+23_36	sorrir	nós | pessoal infinitivo	sorrirmos	for us to talk
+23_37	sorrir	eles/as (vcs) | pessoal infinitivo	sorrirem	for them to talk
+24_1	dormir	eu | presente	durmo	I talk
+24_2	dormir	ele/a (vc) | presente	dorme	he talks
+24_3	dormir	nós | presente	dormimos	we talk
+24_4	dormir	eles/as (vcs) | presente	dormem	they talk
+24_5	dormir	eu | imperfeito	dormia	I used to talk
+24_6	dormir	ele/a (vc) | imperfeito	dormia	he used to talk
+24_7	dormir	nós | imperfeito	dormíamos	we used to talk
+24_8	dormir	eles/as (vcs) | imperfeito	dormiam	they used to talk
+24_9	dormir	eu | pretérito	dormi	I talked
+24_10	dormir	ele/a (vc) | pretérito	dormiu	he talked
+24_11	dormir	nós | pretérito	dormimos	we talked
+24_12	dormir	eles/as (vcs) | pretérito	dormiram	they talked
+24_13	dormir	eu | condicional	dormiria	I would talk
+24_14	dormir	ele/a (vc) | condicional	dormiria	he would talk
+24_15	dormir	nós | condicional	dormiríamos	we would talk
+24_16	dormir	eles/as (vcs) | condicional	dormiriam	they would talk
+24_17	dormir	ele/a (vc) | imperativo	durma	talk!
+24_18	dormir	nós | imperativo	durmamos	talk!
+24_19	dormir	eles/as (vcs) | imperativo	durmam	talk!
+24_20	dormir	| gerundo	dormindo	talking
+24_21	dormir	| particípio	dormido	talked
+24_22	dormir	eu | presente subjuntivo	durma	(that) I talk
+24_23	dormir	ele/a (vc) | presente subjuntivo	durma	(that) he talk
+24_24	dormir	nós | presente subjuntivo	durmamos	(that) we talk
+24_25	dormir	eles/as (vcs) | presente subjuntivo	durmam	(that) they talk
+24_26	dormir	eu | imperfeito subjuntivo	dormisse	(if) I talked
+24_27	dormir	ele/a (vc) | imperfeito subjuntivo	dormisse	(if) he talked
+24_28	dormir	nós | imperfeito subjuntivo	dormíssemos	(if) we talked
+24_29	dormir	eles/as (vcs) | imperfeito subjuntivo	dormissem	(if) they talked
+24_30	dormir	eu | futuro subjuntivo	dormir	if/when I talk
+24_31	dormir	ele/a (vc) | futuro subjuntivo	dormir	if/when he talks
+24_32	dormir	nós | futuro subjuntivo	dormirmos	if/when we talk
+24_33	dormir	eles/as (vcs) | futuro subjuntivo	dormirem	if/when they talk
+24_34	dormir	eu | pessoal infinitivo	dormir	for me to talk
+24_35	dormir	ele/a (vc) | pessoal infinitivo	dormir	for him to talk
+24_36	dormir	nós | pessoal infinitivo	dormirmos	for us to talk
+24_37	dormir	eles/as (vcs) | pessoal infinitivo	dormirem	for them to talk
+25_1	entrever	eu | presente	entrevejo	I talk
+25_2	entrever	ele/a (vc) | presente	entrevê	he talks
+25_3	entrever	nós | presente	entrevemos	we talk
+25_4	entrever	eles/as (vcs) | presente	entreveem	they talk
+25_5	entrever	eu | imperfeito	entrevia	I used to talk
+25_6	entrever	ele/a (vc) | imperfeito	entrevia	he used to talk
+25_7	entrever	nós | imperfeito	entrevíamos	we used to talk
+25_8	entrever	eles/as (vcs) | imperfeito	entreviam	they used to talk
+25_9	entrever	eu | pretérito	entrevi	I talked
+25_10	entrever	ele/a (vc) | pretérito	entreviu	he talked
+25_11	entrever	nós | pretérito	entrevimos	we talked
+25_12	entrever	eles/as (vcs) | pretérito	entreviram	they talked
+25_13	entrever	eu | condicional	entreveria	I would talk
+25_14	entrever	ele/a (vc) | condicional	entreveria	he would talk
+25_15	entrever	nós | condicional	entreveríamos	we would talk
+25_16	entrever	eles/as (vcs) | condicional	entreveriam	they would talk
+25_17	entrever	ele/a (vc) | imperativo	entreveja	talk!
+25_18	entrever	nós | imperativo	entrevejamos	talk!
+25_19	entrever	eles/as (vcs) | imperativo	entrevejam	talk!
+25_20	entrever	| gerundo	entrevendo	talking
+25_21	entrever	| particípio	entrevisto	talked
+25_22	entrever	eu | presente subjuntivo	entreveja	(that) I talk
+25_23	entrever	ele/a (vc) | presente subjuntivo	entreveja	(that) he talk
+25_24	entrever	nós | presente subjuntivo	entrevejamos	(that) we talk
+25_25	entrever	eles/as (vcs) | presente subjuntivo	entrevejam	(that) they talk
+25_26	entrever	eu | imperfeito subjuntivo	entrevisse	(if) I talked
+25_27	entrever	ele/a (vc) | imperfeito subjuntivo	entrevisse	(if) he talked
+25_28	entrever	nós | imperfeito subjuntivo	entrevíssemos	(if) we talked
+25_29	entrever	eles/as (vcs) | imperfeito subjuntivo	entrevissem	(if) they talked
+25_30	entrever	eu | futuro subjuntivo	entrever	if/when I talk
+25_31	entrever	ele/a (vc) | futuro subjuntivo	entrever	if/when he talks
+25_32	entrever	nós | futuro subjuntivo	entrevermos	if/when we talk
+25_33	entrever	eles/as (vcs) | futuro subjuntivo	entreverem	if/when they talk
+25_34	entrever	eu | pessoal infinitivo	entrever	for me to talk
+25_35	entrever	ele/a (vc) | pessoal infinitivo	entrever	for him to talk
+25_36	entrever	nós | pessoal infinitivo	entrevermos	for us to talk
+25_37	entrever	eles/as (vcs) | pessoal infinitivo	entreverem	for them to talk
+26_1	rever	eu | presente	revejo	I talk
+26_2	rever	ele/a (vc) | presente	revê	he talks
+26_3	rever	nós | presente	revemos	we talk
+26_4	rever	eles/as (vcs) | presente	reveem	they talk
+26_5	rever	eu | imperfeito	revia	I used to talk
+26_6	rever	ele/a (vc) | imperfeito	revia	he used to talk
+26_7	rever	nós | imperfeito	revíamos	we used to talk
+26_8	rever	eles/as (vcs) | imperfeito	reviam	they used to talk
+26_9	rever	eu | pretérito	revi	I talked
+26_10	rever	ele/a (vc) | pretérito	reviu	he talked
+26_11	rever	nós | pretérito	revimos	we talked
+26_12	rever	eles/as (vcs) | pretérito	reviram	they talked
+26_13	rever	eu | condicional	reveria	I would talk
+26_14	rever	ele/a (vc) | condicional	reveria	he would talk
+26_15	rever	nós | condicional	reveríamos	we would talk
+26_16	rever	eles/as (vcs) | condicional	reveriam	they would talk
+26_17	rever	ele/a (vc) | imperativo	reveja	talk!
+26_18	rever	nós | imperativo	revejamos	talk!
+26_19	rever	eles/as (vcs) | imperativo	revejam	talk!
+26_20	rever	| gerundo	revendo	talking
+26_21	rever	| particípio	revisto	talked
+26_22	rever	eu | presente subjuntivo	reveja	(that) I talk
+26_23	rever	ele/a (vc) | presente subjuntivo	reveja	(that) he talk
+26_24	rever	nós | presente subjuntivo	revejamos	(that) we talk
+26_25	rever	eles/as (vcs) | presente subjuntivo	revejam	(that) they talk
+26_26	rever	eu | imperfeito subjuntivo	revisse	(if) I talked
+26_27	rever	ele/a (vc) | imperfeito subjuntivo	revisse	(if) he talked
+26_28	rever	nós | imperfeito subjuntivo	revíssemos	(if) we talked
+26_29	rever	eles/as (vcs) | imperfeito subjuntivo	revissem	(if) they talked
+26_30	rever	eu | futuro subjuntivo	rever	if/when I talk
+26_31	rever	ele/a (vc) | futuro subjuntivo	rever	if/when he talks
+26_32	rever	nós | futuro subjuntivo	revermos	if/when we talk
+26_33	rever	eles/as (vcs) | futuro subjuntivo	reverem	if/when they talk
+26_34	rever	eu | pessoal infinitivo	rever	for me to talk
+26_35	rever	ele/a (vc) | pessoal infinitivo	rever	for him to talk
+26_36	rever	nós | pessoal infinitivo	revermos	for us to talk
+26_37	rever	eles/as (vcs) | pessoal infinitivo	reverem	for them to talk
+27_1	trazer	eu | presente	trago	I talk
+27_2	trazer	ele/a (vc) | presente	traz	he talks
+27_3	trazer	nós | presente	trazemos	we talk
+27_4	trazer	eles/as (vcs) | presente	trazem	they talk
+27_5	trazer	eu | imperfeito	trazia	I used to talk
+27_6	trazer	ele/a (vc) | imperfeito	trazia	he used to talk
+27_7	trazer	nós | imperfeito	trazíamos	we used to talk
+27_8	trazer	eles/as (vcs) | imperfeito	traziam	they used to talk
+27_9	trazer	eu | pretérito	trouxe	I talked
+27_10	trazer	ele/a (vc) | pretérito	trouxe	he talked
+27_11	trazer	nós | pretérito	trouxemos	we talked
+27_12	trazer	eles/as (vcs) | pretérito	trouxeram	they talked
+27_13	trazer	eu | condicional	traria	I would talk
+27_14	trazer	ele/a (vc) | condicional	traria	he would talk
+27_15	trazer	nós | condicional	traríamos	we would talk
+27_16	trazer	eles/as (vcs) | condicional	trariam	they would talk
+27_17	trazer	ele/a (vc) | imperativo	traga	talk!
+27_18	trazer	nós | imperativo	tragamos	talk!
+27_19	trazer	eles/as (vcs) | imperativo	tragam	talk!
+27_20	trazer	| gerundo	trazendo	talking
+27_21	trazer	| particípio	trazido	talked
+27_22	trazer	eu | presente subjuntivo	traga	(that) I talk
+27_23	trazer	ele/a (vc) | presente subjuntivo	traga	(that) he talk
+27_24	trazer	nós | presente subjuntivo	tragamos	(that) we talk
+27_25	trazer	eles/as (vcs) | presente subjuntivo	tragam	(that) they talk
+27_26	trazer	eu | imperfeito subjuntivo	trouxesse	(if) I talked
+27_27	trazer	ele/a (vc) | imperfeito subjuntivo	trouxesse	(if) he talked
+27_28	trazer	nós | imperfeito subjuntivo	trouxéssemos	(if) we talked
+27_29	trazer	eles/as (vcs) | imperfeito subjuntivo	trouxessem	(if) they talked
+27_30	trazer	eu | futuro subjuntivo	trouxer	if/when I talk
+27_31	trazer	ele/a (vc) | futuro subjuntivo	trouxer	if/when he talks
+27_32	trazer	nós | futuro subjuntivo	trouxermos	if/when we talk
+27_33	trazer	eles/as (vcs) | futuro subjuntivo	trouxerem	if/when they talk
+27_34	trazer	eu | pessoal infinitivo	trazer	for me to talk
+27_35	trazer	ele/a (vc) | pessoal infinitivo	trazer	for him to talk
+27_36	trazer	nós | pessoal infinitivo	trazermos	for us to talk
+27_37	trazer	eles/as (vcs) | pessoal infinitivo	trazerem	for them to talk
+28_1	crer	eu | presente	creio	I talk
+28_2	crer	ele/a (vc) | presente	crê	he talks
+28_3	crer	nós | presente	cremos	we talk
+28_4	crer	eles/as (vcs) | presente	creem	they talk
+28_5	crer	eu | imperfeito	cria	I used to talk
+28_6	crer	ele/a (vc) | imperfeito	cria	he used to talk
+28_7	crer	nós | imperfeito	críamos	we used to talk
+28_8	crer	eles/as (vcs) | imperfeito	criam	they used to talk
+28_9	crer	eu | pretérito	cri	I talked
+28_10	crer	ele/a (vc) | pretérito	creu	he talked
+28_11	crer	nós | pretérito	cremos	we talked
+28_12	crer	eles/as (vcs) | pretérito	creram	they talked
+28_13	crer	eu | condicional	creria	I would talk
+28_14	crer	ele/a (vc) | condicional	creria	he would talk
+28_15	crer	nós | condicional	creríamos	we would talk
+28_16	crer	eles/as (vcs) | condicional	creriam	they would talk
+28_17	crer	ele/a (vc) | imperativo	creia	talk!
+28_18	crer	nós | imperativo	creiamos	talk!
+28_19	crer	eles/as (vcs) | imperativo	creiam	talk!
+28_20	crer	| gerundo	crendo	talking
+28_21	crer	| particípio	crido	talked
+28_22	crer	eu | presente subjuntivo	creia	(that) I talk
+28_23	crer	ele/a (vc) | presente subjuntivo	creia	(that) he talk
+28_24	crer	nós | presente subjuntivo	creiamos	(that) we talk
+28_25	crer	eles/as (vcs) | presente subjuntivo	creiam	(that) they talk
+28_26	crer	eu | imperfeito subjuntivo	cresse	(if) I talked
+28_27	crer	ele/a (vc) | imperfeito subjuntivo	cresse	(if) he talked
+28_28	crer	nós | imperfeito subjuntivo	crêssemos	(if) we talked
+28_29	crer	eles/as (vcs) | imperfeito subjuntivo	cressem	(if) they talked
+28_30	crer	eu | futuro subjuntivo	crer	if/when I talk
+28_31	crer	ele/a (vc) | futuro subjuntivo	crer	if/when he talks
+28_32	crer	nós | futuro subjuntivo	crermos	if/when we talk
+28_33	crer	eles/as (vcs) | futuro subjuntivo	crerem	if/when they talk
+28_34	crer	eu | pessoal infinitivo	crer	for me to talk
+28_35	crer	ele/a (vc) | pessoal infinitivo	crer	for him to talk
+28_36	crer	nós | pessoal infinitivo	crermos	for us to talk
+28_37	crer	eles/as (vcs) | pessoal infinitivo	crerem	for them to talk
+29_1	descrer	eu | presente	descreio	I talk
+29_2	descrer	ele/a (vc) | presente	descrê	he talks
+29_3	descrer	nós | presente	descremos	we talk
+29_4	descrer	eles/as (vcs) | presente	descreem	they talk
+29_5	descrer	eu | imperfeito	descria	I used to talk
+29_6	descrer	ele/a (vc) | imperfeito	descria	he used to talk
+29_7	descrer	nós | imperfeito	descríamos	we used to talk
+29_8	descrer	eles/as (vcs) | imperfeito	descriam	they used to talk
+29_9	descrer	eu | pretérito	descri	I talked
+29_10	descrer	ele/a (vc) | pretérito	descreu	he talked
+29_11	descrer	nós | pretérito	descremos	we talked
+29_12	descrer	eles/as (vcs) | pretérito	descreram	they talked
+29_13	descrer	eu | condicional	descreria	I would talk
+29_14	descrer	ele/a (vc) | condicional	descreria	he would talk
+29_15	descrer	nós | condicional	descreríamos	we would talk
+29_16	descrer	eles/as (vcs) | condicional	descreriam	they would talk
+29_17	descrer	ele/a (vc) | imperativo	descreia	talk!
+29_18	descrer	nós | imperativo	descreiamos	talk!
+29_19	descrer	eles/as (vcs) | imperativo	descreiam	talk!
+29_20	descrer	| gerundo	descrendo	talking
+29_21	descrer	| particípio	descrido	talked
+29_22	descrer	eu | presente subjuntivo	descreia	(that) I talk
+29_23	descrer	ele/a (vc) | presente subjuntivo	descreia	(that) he talk
+29_24	descrer	nós | presente subjuntivo	descreiamos	(that) we talk
+29_25	descrer	eles/as (vcs) | presente subjuntivo	descreiam	(that) they talk
+29_26	descrer	eu | imperfeito subjuntivo	descresse	(if) I talked
+29_27	descrer	ele/a (vc) | imperfeito subjuntivo	descresse	(if) he talked
+29_28	descrer	nós | imperfeito subjuntivo	descrêssemos	(if) we talked
+29_29	descrer	eles/as (vcs) | imperfeito subjuntivo	descressem	(if) they talked
+29_30	descrer	eu | futuro subjuntivo	descrer	if/when I talk
+29_31	descrer	ele/a (vc) | futuro subjuntivo	descrer	if/when he talks
+29_32	descrer	nós | futuro subjuntivo	descrermos	if/when we talk
+29_33	descrer	eles/as (vcs) | futuro subjuntivo	descrerem	if/when they talk
+29_34	descrer	eu | pessoal infinitivo	descrer	for me to talk
+29_35	descrer	ele/a (vc) | pessoal infinitivo	descrer	for him to talk
+29_36	descrer	nós | pessoal infinitivo	descrermos	for us to talk
+29_37	descrer	eles/as (vcs) | pessoal infinitivo	descrerem	for them to talk
+30_1	prever	eu | presente	prevejo	I talk
+30_2	prever	ele/a (vc) | presente	prevê	he talks
+30_3	prever	nós | presente	prevemos	we talk
+30_4	prever	eles/as (vcs) | presente	preveem	they talk
+30_5	prever	eu | imperfeito	previa	I used to talk
+30_6	prever	ele/a (vc) | imperfeito	previa	he used to talk
+30_7	prever	nós | imperfeito	prevíamos	we used to talk
+30_8	prever	eles/as (vcs) | imperfeito	previam	they used to talk
+30_9	prever	eu | pretérito	previ	I talked
+30_10	prever	ele/a (vc) | pretérito	previu	he talked
+30_11	prever	nós | pretérito	previmos	we talked
+30_12	prever	eles/as (vcs) | pretérito	previram	they talked
+30_13	prever	eu | condicional	preveria	I would talk
+30_14	prever	ele/a (vc) | condicional	preveria	he would talk
+30_15	prever	nós | condicional	preveríamos	we would talk
+30_16	prever	eles/as (vcs) | condicional	preveriam	they would talk
+30_17	prever	ele/a (vc) | imperativo	preveja	talk!
+30_18	prever	nós | imperativo	prevejamos	talk!
+30_19	prever	eles/as (vcs) | imperativo	prevejam	talk!
+30_20	prever	| gerundo	prevendo	talking
+30_21	prever	| particípio	previsto	talked
+30_22	prever	eu | presente subjuntivo	preveja	(that) I talk
+30_23	prever	ele/a (vc) | presente subjuntivo	preveja	(that) he talk
+30_24	prever	nós | presente subjuntivo	prevejamos	(that) we talk
+30_25	prever	eles/as (vcs) | presente subjuntivo	prevejam	(that) they talk
+30_26	prever	eu | imperfeito subjuntivo	previsse	(if) I talked
+30_27	prever	ele/a (vc) | imperfeito subjuntivo	previsse	(if) he talked
+30_28	prever	nós | imperfeito subjuntivo	prevíssemos	(if) we talked
+30_29	prever	eles/as (vcs) | imperfeito subjuntivo	previssem	(if) they talked
+30_30	prever	eu | futuro subjuntivo	prever	if/when I talk
+30_31	prever	ele/a (vc) | futuro subjuntivo	prever	if/when he talks
+30_32	prever	nós | futuro subjuntivo	prevermos	if/when we talk
+30_33	prever	eles/as (vcs) | futuro subjuntivo	preverem	if/when they talk
+30_34	prever	eu | pessoal infinitivo	prever	for me to talk
+30_35	prever	ele/a (vc) | pessoal infinitivo	prever	for him to talk
+30_36	prever	nós | pessoal infinitivo	prevermos	for us to talk
+30_37	prever	eles/as (vcs) | pessoal infinitivo	preverem	for them to talk
+31_1	abrir	eu | presente	abro	I talk
+31_2	abrir	ele/a (vc) | presente	abre	he talks
+31_3	abrir	nós | presente	abrimos	we talk
+31_4	abrir	eles/as (vcs) | presente	abrem	they talk
+31_5	abrir	eu | imperfeito	abria	I used to talk
+31_6	abrir	ele/a (vc) | imperfeito	abria	he used to talk
+31_7	abrir	nós | imperfeito	abríamos	we used to talk
+31_8	abrir	eles/as (vcs) | imperfeito	abriam	they used to talk
+31_9	abrir	eu | pretérito	abri	I talked
+31_10	abrir	ele/a (vc) | pretérito	abriu	he talked
+31_11	abrir	nós | pretérito	abrimos	we talked
+31_12	abrir	eles/as (vcs) | pretérito	abriram	they talked
+31_13	abrir	eu | condicional	abriria	I would talk
+31_14	abrir	ele/a (vc) | condicional	abriria	he would talk
+31_15	abrir	nós | condicional	abriríamos	we would talk
+31_16	abrir	eles/as (vcs) | condicional	abririam	they would talk
+31_17	abrir	ele/a (vc) | imperativo	abra	talk!
+31_18	abrir	nós | imperativo	abramos	talk!
+31_19	abrir	eles/as (vcs) | imperativo	abram	talk!
+31_20	abrir	| gerundo	abrindo	talking
+31_21	abrir	| particípio	aberto	talked
+31_22	abrir	eu | presente subjuntivo	abra	(that) I talk
+31_23	abrir	ele/a (vc) | presente subjuntivo	abra	(that) he talk
+31_24	abrir	nós | presente subjuntivo	abramos	(that) we talk
+31_25	abrir	eles/as (vcs) | presente subjuntivo	abram	(that) they talk
+31_26	abrir	eu | imperfeito subjuntivo	abrisse	(if) I talked
+31_27	abrir	ele/a (vc) | imperfeito subjuntivo	abrisse	(if) he talked
+31_28	abrir	nós | imperfeito subjuntivo	abríssemos	(if) we talked
+31_29	abrir	eles/as (vcs) | imperfeito subjuntivo	abrissem	(if) they talked
+31_30	abrir	eu | futuro subjuntivo	abrir	if/when I talk
+31_31	abrir	ele/a (vc) | futuro subjuntivo	abrir	if/when he talks
+31_32	abrir	nós | futuro subjuntivo	abrirmos	if/when we talk
+31_33	abrir	eles/as (vcs) | futuro subjuntivo	abrirem	if/when they talk
+31_34	abrir	eu | pessoal infinitivo	abrir	for me to talk
+31_35	abrir	ele/a (vc) | pessoal infinitivo	abrir	for him to talk
+31_36	abrir	nós | pessoal infinitivo	abrirmos	for us to talk
+31_37	abrir	eles/as (vcs) | pessoal infinitivo	abrirem	for them to talk
+32_1	pôr	eu | presente	ponho	I talk
+32_2	pôr	ele/a (vc) | presente	põe	he talks
+32_3	pôr	nós | presente	pomos	we talk
+32_4	pôr	eles/as (vcs) | presente	põem	they talk
+32_5	pôr	eu | imperfeito	punha	I used to talk
+32_6	pôr	ele/a (vc) | imperfeito	punha	he used to talk
+32_7	pôr	nós | imperfeito	púnhamos	we used to talk
+32_8	pôr	eles/as (vcs) | imperfeito	punham	they used to talk
+32_9	pôr	eu | pretérito	pus	I talked
+32_10	pôr	ele/a (vc) | pretérito	pôs	he talked
+32_11	pôr	nós | pretérito	pusemos	we talked
+32_12	pôr	eles/as (vcs) | pretérito	puseram	they talked
+32_13	pôr	eu | condicional	poria	I would talk
+32_14	pôr	ele/a (vc) | condicional	poria	he would talk
+32_15	pôr	nós | condicional	poríamos	we would talk
+32_16	pôr	eles/as (vcs) | condicional	poriam	they would talk
+32_17	pôr	ele/a (vc) | imperativo	ponha	talk!
+32_18	pôr	nós | imperativo	ponhamos	talk!
+32_19	pôr	eles/as (vcs) | imperativo	ponham	talk!
+32_20	pôr	| gerundo	pondo	talking
+32_21	pôr	| particípio	posto	talked
+32_22	pôr	eu | presente subjuntivo	ponha	(that) I talk
+32_23	pôr	ele/a (vc) | presente subjuntivo	ponha	(that) he talk
+32_24	pôr	nós | presente subjuntivo	ponhamos	(that) we talk
+32_25	pôr	eles/as (vcs) | presente subjuntivo	ponham	(that) they talk
+32_26	pôr	eu | imperfeito subjuntivo	pusesse	(if) I talked
+32_27	pôr	ele/a (vc) | imperfeito subjuntivo	pusesse	(if) he talked
+32_28	pôr	nós | imperfeito subjuntivo	puséssemos	(if) we talked
+32_29	pôr	eles/as (vcs) | imperfeito subjuntivo	pusessem	(if) they talked
+32_30	pôr	eu | futuro subjuntivo	puser	if/when I talk
+32_31	pôr	ele/a (vc) | futuro subjuntivo	puser	if/when he talks
+32_32	pôr	nós | futuro subjuntivo	pusermos	if/when we talk
+32_33	pôr	eles/as (vcs) | futuro subjuntivo	puserem	if/when they talk
+32_34	pôr	eu | pessoal infinitivo	pôr	for me to talk
+32_35	pôr	ele/a (vc) | pessoal infinitivo	pôr	for him to talk
+32_36	pôr	nós | pessoal infinitivo	pormos	for us to talk
+32_37	pôr	eles/as (vcs) | pessoal infinitivo	porem	for them to talk
+33_1	construir	eu | presente	construo	I talk
+33_2	construir	ele/a (vc) | presente	constrói	he talks
+33_3	construir	nós | presente	construímos	we talk
+33_4	construir	eles/as (vcs) | presente	constroem	they talk
+33_5	construir	eu | imperfeito	construía	I used to talk
+33_6	construir	ele/a (vc) | imperfeito	construía	he used to talk
+33_7	construir	nós | imperfeito	construíamos	we used to talk
+33_8	construir	eles/as (vcs) | imperfeito	construíam	they used to talk
+33_9	construir	eu | pretérito	construí	I talked
+33_10	construir	ele/a (vc) | pretérito	construiu	he talked
+33_11	construir	nós | pretérito	construímos	we talked
+33_12	construir	eles/as (vcs) | pretérito	construíram	they talked
+33_13	construir	eu | condicional	construiria	I would talk
+33_14	construir	ele/a (vc) | condicional	construiria	he would talk
+33_15	construir	nós | condicional	construiríamos	we would talk
+33_16	construir	eles/as (vcs) | condicional	construiriam	they would talk
+33_17	construir	ele/a (vc) | imperativo	construa	talk!
+33_18	construir	nós | imperativo	construamos	talk!
+33_19	construir	eles/as (vcs) | imperativo	construam	talk!
+33_20	construir	| gerundo	construindo	talking
+33_21	construir	| particípio	construído	talked
+33_22	construir	eu | presente subjuntivo	construa	(that) I talk
+33_23	construir	ele/a (vc) | presente subjuntivo	construa	(that) he talk
+33_24	construir	nós | presente subjuntivo	construamos	(that) we talk
+33_25	construir	eles/as (vcs) | presente subjuntivo	construam	(that) they talk
+33_26	construir	eu | imperfeito subjuntivo	construísse	(if) I talked
+33_27	construir	ele/a (vc) | imperfeito subjuntivo	construísse	(if) he talked
+33_28	construir	nós | imperfeito subjuntivo	construíssemos	(if) we talked
+33_29	construir	eles/as (vcs) | imperfeito subjuntivo	construíssem	(if) they talked
+33_30	construir	eu | futuro subjuntivo	construir	if/when I talk
+33_31	construir	ele/a (vc) | futuro subjuntivo	construir	if/when he talks
+33_32	construir	nós | futuro subjuntivo	construirmos	if/when we talk
+33_33	construir	eles/as (vcs) | futuro subjuntivo	construírem	if/when they talk
+33_34	construir	eu | pessoal infinitivo	construir	for me to talk
+33_35	construir	ele/a (vc) | pessoal infinitivo	construir	for him to talk
+33_36	construir	nós | pessoal infinitivo	construirmos	for us to talk
+33_37	construir	eles/as (vcs) | pessoal infinitivo	construírem	for them to talk
+34_1	destruir	eu | presente	destruo	I talk
+34_2	destruir	ele/a (vc) | presente	destrói	he talks
+34_3	destruir	nós | presente	destruímos	we talk
+34_4	destruir	eles/as (vcs) | presente	destroem	they talk
+34_5	destruir	eu | imperfeito	destruía	I used to talk
+34_6	destruir	ele/a (vc) | imperfeito	destruía	he used to talk
+34_7	destruir	nós | imperfeito	destruíamos	we used to talk
+34_8	destruir	eles/as (vcs) | imperfeito	destruíam	they used to talk
+34_9	destruir	eu | pretérito	destruí	I talked
+34_10	destruir	ele/a (vc) | pretérito	destruiu	he talked
+34_11	destruir	nós | pretérito	destruímos	we talked
+34_12	destruir	eles/as (vcs) | pretérito	destruíram	they talked
+34_13	destruir	eu | condicional	destruiria	I would talk
+34_14	destruir	ele/a (vc) | condicional	destruiria	he would talk
+34_15	destruir	nós | condicional	destruiríamos	we would talk
+34_16	destruir	eles/as (vcs) | condicional	destruiriam	they would talk
+34_17	destruir	ele/a (vc) | imperativo	destrua	talk!
+34_18	destruir	nós | imperativo	destruamos	talk!
+34_19	destruir	eles/as (vcs) | imperativo	destruam	talk!
+34_20	destruir	| gerundo	destruindo	talking
+34_21	destruir	| particípio	destruído	talked
+34_22	destruir	eu | presente subjuntivo	destrua	(that) I talk
+34_23	destruir	ele/a (vc) | presente subjuntivo	destrua	(that) he talk
+34_24	destruir	nós | presente subjuntivo	destruamos	(that) we talk
+34_25	destruir	eles/as (vcs) | presente subjuntivo	destruam	(that) they talk
+34_26	destruir	eu | imperfeito subjuntivo	destruísse	(if) I talked
+34_27	destruir	ele/a (vc) | imperfeito subjuntivo	destruísse	(if) he talked
+34_28	destruir	nós | imperfeito subjuntivo	destruíssemos	(if) we talked
+34_29	destruir	eles/as (vcs) | imperfeito subjuntivo	destruíssem	(if) they talked
+34_30	destruir	eu | futuro subjuntivo	destruir	if/when I talk
+34_31	destruir	ele/a (vc) | futuro subjuntivo	destruir	if/when he talks
+34_32	destruir	nós | futuro subjuntivo	destruirmos	if/when we talk
+34_33	destruir	eles/as (vcs) | futuro subjuntivo	destruírem	if/when they talk
+34_34	destruir	eu | pessoal infinitivo	destruir	for me to talk
+34_35	destruir	ele/a (vc) | pessoal infinitivo	destruir	for him to talk
+34_36	destruir	nós | pessoal infinitivo	destruirmos	for us to talk
+34_37	destruir	eles/as (vcs) | pessoal infinitivo	destruírem	for them to talk
+35_1	fazer	eu | presente	faço	I talk
+35_2	fazer	ele/a (vc) | presente	faz	he talks
+35_3	fazer	nós | presente	fazemos	we talk
+35_4	fazer	eles/as (vcs) | presente	fazem	they talk
+35_5	fazer	eu | imperfeito	fazia	I used to talk
+35_6	fazer	ele/a (vc) | imperfeito	fazia	he used to talk
+35_7	fazer	nós | imperfeito	fazíamos	we used to talk
+35_8	fazer	eles/as (vcs) | imperfeito	faziam	they used to talk
+35_9	fazer	eu | pretérito	fiz	I talked
+35_10	fazer	ele/a (vc) | pretérito	fez	he talked
+35_11	fazer	nós | pretérito	fizemos	we talked
+35_12	fazer	eles/as (vcs) | pretérito	fizeram	they talked
+35_13	fazer	eu | condicional	faria	I would talk
+35_14	fazer	ele/a (vc) | condicional	faria	he would talk
+35_15	fazer	nós | condicional	faríamos	we would talk
+35_16	fazer	eles/as (vcs) | condicional	fariam	they would talk
+35_17	fazer	ele/a (vc) | imperativo	faça	talk!
+35_18	fazer	nós | imperativo	façamos	talk!
+35_19	fazer	eles/as (vcs) | imperativo	façam	talk!
+35_20	fazer	| gerundo	fazendo	talking
+35_21	fazer	| particípio	feito	talked
+35_22	fazer	eu | presente subjuntivo	faça	(that) I talk
+35_23	fazer	ele/a (vc) | presente subjuntivo	faça	(that) he talk
+35_24	fazer	nós | presente subjuntivo	façamos	(that) we talk
+35_25	fazer	eles/as (vcs) | presente subjuntivo	façam	(that) they talk
+35_26	fazer	eu | imperfeito subjuntivo	fizesse	(if) I talked
+35_27	fazer	ele/a (vc) | imperfeito subjuntivo	fizesse	(if) he talked
+35_28	fazer	nós | imperfeito subjuntivo	fizéssemos	(if) we talked
+35_29	fazer	eles/as (vcs) | imperfeito subjuntivo	fizessem	(if) they talked
+35_30	fazer	eu | futuro subjuntivo	fizer	if/when I talk
+35_31	fazer	ele/a (vc) | futuro subjuntivo	fizer	if/when he talks
+35_32	fazer	nós | futuro subjuntivo	fizermos	if/when we talk
+35_33	fazer	eles/as (vcs) | futuro subjuntivo	fizerem	if/when they talk
+35_34	fazer	eu | pessoal infinitivo	fazer	for me to talk
+35_35	fazer	ele/a (vc) | pessoal infinitivo	fazer	for him to talk
+35_36	fazer	nós | pessoal infinitivo	fazermos	for us to talk
+35_37	fazer	eles/as (vcs) | pessoal infinitivo	fazerem	for them to talk
+36_1	dizer	eu | presente	digo	I talk
+36_2	dizer	ele/a (vc) | presente	diz	he talks
+36_3	dizer	nós | presente	dizemos	we talk
+36_4	dizer	eles/as (vcs) | presente	dizem	they talk
+36_5	dizer	eu | imperfeito	dizia	I used to talk
+36_6	dizer	ele/a (vc) | imperfeito	dizia	he used to talk
+36_7	dizer	nós | imperfeito	dizíamos	we used to talk
+36_8	dizer	eles/as (vcs) | imperfeito	diziam	they used to talk
+36_9	dizer	eu | pretérito	disse	I talked
+36_10	dizer	ele/a (vc) | pretérito	disse	he talked
+36_11	dizer	nós | pretérito	dissemos	we talked
+36_12	dizer	eles/as (vcs) | pretérito	disseram	they talked
+36_13	dizer	eu | condicional	diria	I would talk
+36_14	dizer	ele/a (vc) | condicional	diria	he would talk
+36_15	dizer	nós | condicional	diríamos	we would talk
+36_16	dizer	eles/as (vcs) | condicional	diriam	they would talk
+36_17	dizer	ele/a (vc) | imperativo	diga	talk!
+36_18	dizer	nós | imperativo	digamos	talk!
+36_19	dizer	eles/as (vcs) | imperativo	digam	talk!
+36_20	dizer	| gerundo	dizendo	talking
+36_21	dizer	| particípio	dito	talked
+36_22	dizer	eu | presente subjuntivo	diga	(that) I talk
+36_23	dizer	ele/a (vc) | presente subjuntivo	diga	(that) he talk
+36_24	dizer	nós | presente subjuntivo	digamos	(that) we talk
+36_25	dizer	eles/as (vcs) | presente subjuntivo	digam	(that) they talk
+36_26	dizer	eu | imperfeito subjuntivo	dissesse	(if) I talked
+36_27	dizer	ele/a (vc) | imperfeito subjuntivo	dissesse	(if) he talked
+36_28	dizer	nós | imperfeito subjuntivo	disséssemos	(if) we talked
+36_29	dizer	eles/as (vcs) | imperfeito subjuntivo	dissessem	(if) they talked
+36_30	dizer	eu | futuro subjuntivo	disser	if/when I talk
+36_31	dizer	ele/a (vc) | futuro subjuntivo	disser	if/when he talks
+36_32	dizer	nós | futuro subjuntivo	dissermos	if/when we talk
+36_33	dizer	eles/as (vcs) | futuro subjuntivo	disserem	if/when they talk
+36_34	dizer	eu | pessoal infinitivo	dizer	for me to talk
+36_35	dizer	ele/a (vc) | pessoal infinitivo	dizer	for him to talk
+36_36	dizer	nós | pessoal infinitivo	dizermos	for us to talk
+36_37	dizer	eles/as (vcs) | pessoal infinitivo	dizerem	for them to talk
+37_1	pedir	eu | presente	peço	I talk
+37_2	pedir	ele/a (vc) | presente	pede	he talks
+37_3	pedir	nós | presente	pedimos	we talk
+37_4	pedir	eles/as (vcs) | presente	pedem	they talk
+37_5	pedir	eu | imperfeito	pedia	I used to talk
+37_6	pedir	ele/a (vc) | imperfeito	pedia	he used to talk
+37_7	pedir	nós | imperfeito	pedíamos	we used to talk
+37_8	pedir	eles/as (vcs) | imperfeito	pediam	they used to talk
+37_9	pedir	eu | pretérito	pedi	I talked
+37_10	pedir	ele/a (vc) | pretérito	pediu	he talked
+37_11	pedir	nós | pretérito	pedimos	we talked
+37_12	pedir	eles/as (vcs) | pretérito	pediram	they talked
+37_13	pedir	eu | condicional	pediria	I would talk
+37_14	pedir	ele/a (vc) | condicional	pediria	he would talk
+37_15	pedir	nós | condicional	pediríamos	we would talk
+37_16	pedir	eles/as (vcs) | condicional	pediriam	they would talk
+37_17	pedir	ele/a (vc) | imperativo	peça	talk!
+37_18	pedir	nós | imperativo	peçamos	talk!
+37_19	pedir	eles/as (vcs) | imperativo	peçam	talk!
+37_20	pedir	| gerundo	pedindo	talking
+37_21	pedir	| particípio	pedido	talked
+37_22	pedir	eu | presente subjuntivo	peça	(that) I talk
+37_23	pedir	ele/a (vc) | presente subjuntivo	peça	(that) he talk
+37_24	pedir	nós | presente subjuntivo	peçamos	(that) we talk
+37_25	pedir	eles/as (vcs) | presente subjuntivo	peçam	(that) they talk
+37_26	pedir	eu | imperfeito subjuntivo	pedisse	(if) I talked
+37_27	pedir	ele/a (vc) | imperfeito subjuntivo	pedisse	(if) he talked
+37_28	pedir	nós | imperfeito subjuntivo	pedíssemos	(if) we talked
+37_29	pedir	eles/as (vcs) | imperfeito subjuntivo	pedissem	(if) they talked
+37_30	pedir	eu | futuro subjuntivo	pedir	if/when I talk
+37_31	pedir	ele/a (vc) | futuro subjuntivo	pedir	if/when he talks
+37_32	pedir	nós | futuro subjuntivo	pedirmos	if/when we talk
+37_33	pedir	eles/as (vcs) | futuro subjuntivo	pedirem	if/when they talk
+37_34	pedir	eu | pessoal infinitivo	pedir	for me to talk
+37_35	pedir	ele/a (vc) | pessoal infinitivo	pedir	for him to talk
+37_36	pedir	nós | pessoal infinitivo	pedirmos	for us to talk
+37_37	pedir	eles/as (vcs) | pessoal infinitivo	pedirem	for them to talk
+38_1	medir	eu | presente	meço	I talk
+38_2	medir	ele/a (vc) | presente	mede	he talks
+38_3	medir	nós | presente	medimos	we talk
+38_4	medir	eles/as (vcs) | presente	medem	they talk
+38_5	medir	eu | imperfeito	media	I used to talk
+38_6	medir	ele/a (vc) | imperfeito	media	he used to talk
+38_7	medir	nós | imperfeito	medíamos	we used to talk
+38_8	medir	eles/as (vcs) | imperfeito	mediam	they used to talk
+38_9	medir	eu | pretérito	medi	I talked
+38_10	medir	ele/a (vc) | pretérito	mediu	he talked
+38_11	medir	nós | pretérito	medimos	we talked
+38_12	medir	eles/as (vcs) | pretérito	mediram	they talked
+38_13	medir	eu | condicional	mediria	I would talk
+38_14	medir	ele/a (vc) | condicional	mediria	he would talk
+38_15	medir	nós | condicional	mediríamos	we would talk
+38_16	medir	eles/as (vcs) | condicional	mediriam	they would talk
+38_17	medir	ele/a (vc) | imperativo	meça	talk!
+38_18	medir	nós | imperativo	meçamos	talk!
+38_19	medir	eles/as (vcs) | imperativo	meçam	talk!
+38_20	medir	| gerundo	medindo	talking
+38_21	medir	| particípio	medido	talked
+38_22	medir	eu | presente subjuntivo	meça	(that) I talk
+38_23	medir	ele/a (vc) | presente subjuntivo	meça	(that) he talk
+38_24	medir	nós | presente subjuntivo	meçamos	(that) we talk
+38_25	medir	eles/as (vcs) | presente subjuntivo	meçam	(that) they talk
+38_26	medir	eu | imperfeito subjuntivo	medisse	(if) I talked
+38_27	medir	ele/a (vc) | imperfeito subjuntivo	medisse	(if) he talked
+38_28	medir	nós | imperfeito subjuntivo	medíssemos	(if) we talked
+38_29	medir	eles/as (vcs) | imperfeito subjuntivo	medissem	(if) they talked
+38_30	medir	eu | futuro subjuntivo	medir	if/when I talk
+38_31	medir	ele/a (vc) | futuro subjuntivo	medir	if/when he talks
+38_32	medir	nós | futuro subjuntivo	medirmos	if/when we talk
+38_33	medir	eles/as (vcs) | futuro subjuntivo	medirem	if/when they talk
+38_34	medir	eu | pessoal infinitivo	medir	for me to talk
+38_35	medir	ele/a (vc) | pessoal infinitivo	medir	for him to talk
+38_36	medir	nós | pessoal infinitivo	medirmos	for us to talk
+38_37	medir	eles/as (vcs) | pessoal infinitivo	medirem	for them to talk
+39_1	haver	eu | presente	hei	I talk
+39_2	haver	ele/a (vc) | presente	há	he talks
+39_3	haver	nós | presente	havemos	we talk
+39_4	haver	eles/as (vcs) | presente	hão	they talk
+39_5	haver	eu | imperfeito	havia	I used to talk
+39_6	haver	ele/a (vc) | imperfeito	havia	he used to talk
+39_7	haver	nós | imperfeito	havíamos	we used to talk
+39_8	haver	eles/as (vcs) | imperfeito	haviam	they used to talk
+39_9	haver	eu | pretérito	houve	I talked
+39_10	haver	ele/a (vc) | pretérito	houve	he talked
+39_11	haver	nós | pretérito	houvemos	we talked
+39_12	haver	eles/as (vcs) | pretérito	houveram	they talked
+39_13	haver	eu | condicional	haveria	I would talk
+39_14	haver	ele/a (vc) | condicional	haveria	he would talk
+39_15	haver	nós | condicional	haveríamos	we would talk
+39_16	haver	eles/as (vcs) | condicional	haveriam	they would talk
+39_17	haver	ele/a (vc) | imperativo	haja	talk!
+39_18	haver	nós | imperativo	hajamos	talk!
+39_19	haver	eles/as (vcs) | imperativo	hajam	talk!
+39_20	haver	| gerundo	havendo	talking
+39_21	haver	| particípio	havido	talked
+39_22	haver	eu | presente subjuntivo	haja	(that) I talk
+39_23	haver	ele/a (vc) | presente subjuntivo	haja	(that) he talk
+39_24	haver	nós | presente subjuntivo	hajamos	(that) we talk
+39_25	haver	eles/as (vcs) | presente subjuntivo	hajam	(that) they talk
+39_26	haver	eu | imperfeito subjuntivo	houvesse	(if) I talked
+39_27	haver	ele/a (vc) | imperfeito subjuntivo	houvesse	(if) he talked
+39_28	haver	nós | imperfeito subjuntivo	houvéssemos	(if) we talked
+39_29	haver	eles/as (vcs) | imperfeito subjuntivo	houvessem	(if) they talked
+39_30	haver	eu | futuro subjuntivo	houver	if/when I talk
+39_31	haver	ele/a (vc) | futuro subjuntivo	houver	if/when he talks
+39_32	haver	nós | futuro subjuntivo	houvermos	if/when we talk
+39_33	haver	eles/as (vcs) | futuro subjuntivo	houverem	if/when they talk
+39_34	haver	eu | pessoal infinitivo	haver	for me to talk
+39_35	haver	ele/a (vc) | pessoal infinitivo	haver	for him to talk
+39_36	haver	nós | pessoal infinitivo	havermos	for us to talk
+39_37	haver	eles/as (vcs) | pessoal infinitivo	haverem	for them to talk
+40_1	caber	eu | presente	caibo	I talk
+40_2	caber	ele/a (vc) | presente	cabe	he talks
+40_3	caber	nós | presente	cabemos	we talk
+40_4	caber	eles/as (vcs) | presente	cabem	they talk
+40_5	caber	eu | imperfeito	cabia	I used to talk
+40_6	caber	ele/a (vc) | imperfeito	cabia	he used to talk
+40_7	caber	nós | imperfeito	cabíamos	we used to talk
+40_8	caber	eles/as (vcs) | imperfeito	cabiam	they used to talk
+40_9	caber	eu | pretérito	coube	I talked
+40_10	caber	ele/a (vc) | pretérito	coube	he talked
+40_11	caber	nós | pretérito	coubemos	we talked
+40_12	caber	eles/as (vcs) | pretérito	couberam	they talked
+40_13	caber	eu | condicional	caberia	I would talk
+40_14	caber	ele/a (vc) | condicional	caberia	he would talk
+40_15	caber	nós | condicional	caberíamos	we would talk
+40_16	caber	eles/as (vcs) | condicional	caberiam	they would talk
+40_17	caber	ele/a (vc) | imperativo	caiba	talk!
+40_18	caber	nós | imperativo	caibamos	talk!
+40_19	caber	eles/as (vcs) | imperativo	caibam	talk!
+40_20	caber	| gerundo	cabendo	talking
+40_21	caber	| particípio	cabido	talked
+40_22	caber	eu | presente subjuntivo	caiba	(that) I talk
+40_23	caber	ele/a (vc) | presente subjuntivo	caiba	(that) he talk
+40_24	caber	nós | presente subjuntivo	caibamos	(that) we talk
+40_25	caber	eles/as (vcs) | presente subjuntivo	caibam	(that) they talk
+40_26	caber	eu | imperfeito subjuntivo	coubesse	(if) I talked
+40_27	caber	ele/a (vc) | imperfeito subjuntivo	coubesse	(if) he talked
+40_28	caber	nós | imperfeito subjuntivo	coubéssemos	(if) we talked
+40_29	caber	eles/as (vcs) | imperfeito subjuntivo	coubessem	(if) they talked
+40_30	caber	eu | futuro subjuntivo	couber	if/when I talk
+40_31	caber	ele/a (vc) | futuro subjuntivo	couber	if/when he talks
+40_32	caber	nós | futuro subjuntivo	coubermos	if/when we talk
+40_33	caber	eles/as (vcs) | futuro subjuntivo	couberem	if/when they talk
+40_34	caber	eu | pessoal infinitivo	caber	for me to talk
+40_35	caber	ele/a (vc) | pessoal infinitivo	caber	for him to talk
+40_36	caber	nós | pessoal infinitivo	cabermos	for us to talk
+40_37	caber	eles/as (vcs) | pessoal infinitivo	caberem	for them to talk
+41_1	valer	eu | presente	valho	I talk
+41_2	valer	ele/a (vc) | presente	vale	he talks
+41_3	valer	nós | presente	valemos	we talk
+41_4	valer	eles/as (vcs) | presente	valem	they talk
+41_5	valer	eu | imperfeito	valia	I used to talk
+41_6	valer	ele/a (vc) | imperfeito	valia	he used to talk
+41_7	valer	nós | imperfeito	valíamos	we used to talk
+41_8	valer	eles/as (vcs) | imperfeito	valiam	they used to talk
+41_9	valer	eu | pretérito	vali	I talked
+41_10	valer	ele/a (vc) | pretérito	valeu	he talked
+41_11	valer	nós | pretérito	valemos	we talked
+41_12	valer	eles/as (vcs) | pretérito	valeram	they talked
+41_13	valer	eu | condicional	valeria	I would talk
+41_14	valer	ele/a (vc) | condicional	valeria	he would talk
+41_15	valer	nós | condicional	valeríamos	we would talk
+41_16	valer	eles/as (vcs) | condicional	valeriam	they would talk
+41_17	valer	ele/a (vc) | imperativo	valha	talk!
+41_18	valer	nós | imperativo	valhamos	talk!
+41_19	valer	eles/as (vcs) | imperativo	valham	talk!
+41_20	valer	| gerundo	valendo	talking
+41_21	valer	| particípio	valido	talked
+41_22	valer	eu | presente subjuntivo	valha	(that) I talk
+41_23	valer	ele/a (vc) | presente subjuntivo	valha	(that) he talk
+41_24	valer	nós | presente subjuntivo	valhamos	(that) we talk
+41_25	valer	eles/as (vcs) | presente subjuntivo	valham	(that) they talk
+41_26	valer	eu | imperfeito subjuntivo	valesse	(if) I talked
+41_27	valer	ele/a (vc) | imperfeito subjuntivo	valesse	(if) he talked
+41_28	valer	nós | imperfeito subjuntivo	valêssemos	(if) we talked
+41_29	valer	eles/as (vcs) | imperfeito subjuntivo	valessem	(if) they talked
+41_30	valer	eu | futuro subjuntivo	valer	if/when I talk
+41_31	valer	ele/a (vc) | futuro subjuntivo	valer	if/when he talks
+41_32	valer	nós | futuro subjuntivo	valermos	if/when we talk
+41_33	valer	eles/as (vcs) | futuro subjuntivo	valerem	if/when they talk
+41_34	valer	eu | pessoal infinitivo	valer	for me to talk
+41_35	valer	ele/a (vc) | pessoal infinitivo	valer	for him to talk
+41_36	valer	nós | pessoal infinitivo	valermos	for us to talk
+41_37	valer	eles/as (vcs) | pessoal infinitivo	valerem	for them to talk

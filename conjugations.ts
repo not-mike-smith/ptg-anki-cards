@@ -19,7 +19,7 @@ type Row = {
   conjugations: string[];
 };
 
-const lines = fs.readFileSync('conjugations.csv').toString().split("\r\n");
+const lines = fs.readFileSync('conjugations.csv').toString().split("\n");
 const personDefs = lines[0].split("\t").map(x => x === '' ? null : x) as Person[];
 const numberDefs = lines[1].split("\t").map(x => x === '' ? null : x) as Number[];
 const tenseDefs = lines[2].split("\t").map(x => x === '' ? null : x) as Tense[];
@@ -46,7 +46,7 @@ const NUM_REGULAR_VERBS = 8;
 
 type ConjucationCard = {
   id: `${number}_${number}`;
-  ifinitive: string;
+  infinitive: string;
   conjugated: string;
   column: Column;
 };
@@ -67,7 +67,7 @@ rows.forEach((row) => {
   row.conjugations.slice(1).forEach((conj) => {
     cards.push({
       id: `${row.index}_${cIndex}`,
-      ifinitive: row.verb,
+      infinitive: row.verb,
       conjugated: conj,
       column: columns[cIndex]
     });
@@ -105,6 +105,56 @@ const irregularConjugatedCards = rows
   .slice(NUM_REGULAR_VERBS)
   .flatMap(makeIdentifyingConjucationCardsForRow);
 
+function englishExample(col: Column): string {
+  const person = col.person;
+  const number = col.number;
+  const tense = col.tense;
+  const voice = col.voice;
+
+  // Determine pronouns for cases that need them
+  let subject = '';
+  let objectPronoun = '';
+  if (person === '1st' && number === 'singular') { subject = 'I'; objectPronoun = 'me'; }
+  else if (person === '3rd' && number === 'singular') { subject = 'he'; objectPronoun = 'him'; }
+  else if (person === '1st' && number === 'plural') { subject = 'we'; objectPronoun = 'us'; }
+  else if (person === '3rd' && number === 'plural') { subject = 'they'; objectPronoun = 'them'; }
+
+  // Handle gerúndio and particípio (no meaningful person/number)
+  if (tense === 'gerundo') return 'talking';
+  if (tense === 'particípio') return 'talked';
+
+  // Handle imperativo
+  if (voice === 'imperativo') return 'talk!';
+
+  // Handle infinitivo pessoal
+  if (voice === 'infinitivo' && tense === 'pessoal') {
+    return `for ${objectPronoun} to talk`;
+  }
+
+  // Handle indicativo (including null voice for condicional)
+  if (voice === 'indicativo' || voice === null) {
+    if (tense === 'presente') {
+      if (person === '3rd' && number === 'singular') return 'he talks';
+      return `${subject} talk`;
+    }
+    if (tense === 'imperfeito') return `${subject} used to talk`;
+    if (tense === 'pretérito') return `${subject} talked`;
+    if (tense === 'condicional') return `${subject} would talk`;
+  }
+
+  // Handle subjuntivo
+  if (voice === 'subjuntivo') {
+    if (tense === 'presente') return `(that) ${subject} talk`;
+    if (tense === 'imperfeito') return `(if) ${subject} talked`;
+    if (tense === 'futuro') {
+      if (person === '3rd' && number === 'singular') return 'if/when he talks';
+      return `if/when ${subject} talk`;
+    }
+  }
+
+  return ''; // fallback
+}
+
 function colDesc (col: Column): string {
   const aspects: string[] = [];
   if (col.person === '1st' && col.number === 'singular') { aspects.push('eu'); }
@@ -122,7 +172,7 @@ function colDesc (col: Column): string {
 }
 
 function toConjugationCard (card: ConjucationCard): string {
-  return `${card.id}\t${card.ifinitive}\t${colDesc(card.column)}\t${card.conjugated}`;
+  return `${card.id}\t${card.infinitive}\t${colDesc(card.column)}\t${card.conjugated}\t${englishExample(card.column)}`;
 }
 
 function toConjugatedCard (card: ConjugatedCard): string {
